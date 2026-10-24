@@ -1,6 +1,6 @@
 # craft-i18n roadmap
 
-> **Last updated:** 2026-10-22 · **Change:** minor (coordination with storytold/craft-libs#198)
+> **Last updated:** 2026-10-24 · **Change:** minor (DeckCraft Japanese catalog)
 
 Shared translations for the storytold Crafting Apps: one catalog per locale for shared strings,
 one per app, checked in CI and embedded by each app at build time. Vocabulary is in
@@ -15,7 +15,7 @@ one per app, checked in CI and embedded by each app at build time. Vocabulary is
 | 3a | Migrate WordCraft and PdfCraft (proves the runtime on the largest catalogs; seeds the shared catalog) | apps | catalogs moved here; app wiring next |
 | 3b | Migrate the other TSV apps: PhotoCraft, VectorCraft, FilmCraft, CADCraft, craft-launcher | apps | catalogs moved here (shared catalog grows additively, [ADR 0003](docs/adr/0003-shared-catalog-grows-additively.md)); app wiring next |
 | 3c | Convert and migrate FigCraft (TOML), LightCraft (JSON), DesignCraft, GridCraft, EffectCraft (Rust tables) | apps | not started |
-| 3d | Add translation to DeckCraft and SoundCraft | apps | not started |
+| 3d | Add translation to DeckCraft and SoundCraft | apps | DeckCraft: Japanese catalog added, app wiring next; SoundCraft: not started |
 
 Each app migration: confirm the app is MIT OR Apache-2.0, move its catalogs here (lowercase BCP 47
 names, origin recorded in `ATTRIBUTION.md`), add the `build.rs` recipe from
@@ -69,7 +69,7 @@ As surveyed on 2026-10-16 (VectorCraft recounted 2026-10-18). Locale counts excl
 | DesignCraft | Rust tables | 11 | own rules | no |
 | GridCraft | Rust `match` | 9 | none | no |
 | EffectCraft | Rust tables | 10 | none | no |
-| DeckCraft | none | 0 | – | no |
+| DeckCraft | none | 1 (`ja`, new here) | – | catalog |
 | SoundCraft | none | 0 | – | no |
 
 ## Open decisions
@@ -93,3 +93,4 @@ As surveyed on 2026-10-16 (VectorCraft recounted 2026-10-18). Locale counts excl
 | 2026-10-18 | patch | Milestone 2 done: storytold/craft-libs#167 merged after review; app wiring unblocked |
 | 2026-10-22 | patch | Repository transferred to storytold/craft-i18n |
 | 2026-10-22 | minor | Related work: storytold/craft-libs#198; PdfCraft and CADCraft wired last; plural engine follow-up; DesignCraft clash noted for 3c |
+| 2026-10-24 | minor | Milestone 3d started: new Japanese catalog for DeckCraft (`ja/deckcraft.tsv`, 1778 rows) |
