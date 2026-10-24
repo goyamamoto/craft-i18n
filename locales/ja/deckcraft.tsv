@@ -191,6 +191,8 @@ bevel	Angle	角度付き
 	Arcs	円弧
 	Area	面
 	Arrange	配置
+	Arrange All	すべて整列
+	Arrange\nAll	すべて\n整列
 	Arrow at end	終点に矢印
 	Arrow at start	始点に矢印
 	Arrow down	下矢印
@@ -323,6 +325,7 @@ gradient	bottom right	右下
 	Briefing	ブリーフィング
 	Bright room	明るい部屋
 	Brightness {value}%	明るさ {value}%
+	Bring another window to the front	別のウィンドウを手前に表示
 	Bring Forward	前面へ移動
 	Bring to Front	最前面へ移動
 	Bring\nForward	前面へ\n移動
@@ -1804,6 +1807,7 @@ lineSpacing	Single	1 行
 effect	Square	正方形
 	Square (1:1)	正方形 (1:1)
 	Square Dot	角点線
+	Stack every open window a step apart	開いているすべてのウィンドウを少しずつずらして重ねる
 	Stacked	縦積み
 	Stacked Area	積み上げ面
 	Stacked Bar	積み上げ横棒
@@ -1860,6 +1864,8 @@ warp	Stop	ストップ
 	Surface	曲面
 	Swedish	スウェーデン語
 	Switch	スイッチ
+	Switch Windows	ウィンドウの切り替え
+	Switch\nWindows	ウィンドウの\n切り替え
 	Swivel	スイベル
 	Swoosh	スウッシュ
 	Symbols	記号と特殊文字
@@ -1950,6 +1956,7 @@ warp	Stop	ストップ
 	Thumbs up	いいね
 	Tight	狭い
 reflection	Tight	密着
+	Tile every open window across the screen	開いているすべてのウィンドウを画面全体に並べる
 	Tile picture as texture	画像をテクスチャとして並べる
 	Timer	タイマー
 	Timing	タイミング
