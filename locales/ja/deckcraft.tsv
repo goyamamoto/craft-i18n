@@ -589,6 +589,7 @@ transition	Cut	カット
 	DeckCraft prints through a PDF: it opens in your PDF viewer, where you choose the printer.	DeckCraft は PDF を経由して印刷します。PDF ビューアーで開くので、そこでプリンターを選択してください。
 	DeckCraft's own format: everything is kept	DeckCraft 独自の形式: すべての内容が保持されます
 	Decrease List Level	リスト レベルを下げる
+	Default language for new text:	新しい文字列の既定の言語:
 	Default tab stops (in):	既定のタブ間隔 (インチ):
 	Default tab stops:	既定のタブ間隔:
 	Deflate	収縮
