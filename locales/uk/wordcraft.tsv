@@ -2090,7 +2090,6 @@
 	Current text width:	Поточна ширина тексту:
 	New text width:	Нова ширина тексту:
 	Select one to six characters.	Виділіть від одного до шести знаків.
-	Dot	Крапка
 	Comma	Кома
 	Under dot	Крапка знизу
 	Horizontal in Vertical…	Горизонтально у вертикальному…
@@ -2098,13 +2097,11 @@
 	Two Lines in One…	Два рядки в одному…
 	Adjust Width…	Налаштувати ширину…
 	Available formats:	Доступні формати:
-	Language:	Мова:
 	Update automatically	Оновлювати автоматично
 	Match half/full-width forms	Розрізняти півширинні та повноширинні форми
 	Sounds like (Japanese)	Вимовляється як (японська)
 	Kinsoku Characters	Символи кінсоку
 	Text alignment:	Вирівнювання тексту:
-	Baseline	Базова лінія
 	Snap to grid when document grid is defined	Прив'язати до сітки, якщо задано сітку документа
 	Automatically adjust right indent when document grid is defined	Автоматично підбирати правий відступ, якщо задано сітку документа
 	Text direction:	Напрямок тексту:

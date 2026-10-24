@@ -2436,7 +2436,6 @@ preview	Title	Titre
 	Current text width:	Largeur actuelle du texte :
 	New text width:	Nouvelle largeur du texte :
 	Select one to six characters.	Sélectionnez de un à six caractères.
-	Dot	Point
 	Comma	Virgule
 	Under dot	Point en dessous
 	Horizontal in Vertical…	Horizontal dans vertical…
@@ -2450,7 +2449,6 @@ preview	Title	Titre
 	Sounds like (Japanese)	Recherche phonétique (japonais)
 	Kinsoku Characters	Caractères kinsoku
 	Text alignment:	Alignement du texte :
-	Baseline	Ligne de base
 	Snap to grid when document grid is defined	Aligner sur la grille lorsque la grille du document est définie
 	Automatically adjust right indent when document grid is defined	Ajuster automatiquement le retrait droit lorsque la grille du document est définie
 	Text direction:	Orientation du texte :

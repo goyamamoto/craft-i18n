@@ -2089,7 +2089,6 @@
 	Sounds like (Japanese)	同音(日文)
 	Kinsoku Characters	禁則字元
 	Text alignment:	文字對齊方式:
-	Baseline	基線
 	Snap to grid when document grid is defined	若已定義文件格線，則貼齊格線
 	Automatically adjust right indent when document grid is defined	若已定義文件格線，則自動調整右縮排
 	Text direction:	文字方向：

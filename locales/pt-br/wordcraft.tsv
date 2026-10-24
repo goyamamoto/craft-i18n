@@ -2039,7 +2039,6 @@
 	Current text width:	Largura atual do texto:
 	New text width:	Nova largura do texto:
 	Select one to six characters.	Selecione de um a seis caracteres.
-	Dot	Ponto
 	Comma	Vírgula
 	Under dot	Ponto abaixo
 	Horizontal in Vertical…	Horizontal em vertical…
@@ -2047,13 +2046,11 @@
 	Two Lines in One…	Duas linhas em uma…
 	Adjust Width…	Ajustar largura…
 	Available formats:	Formatos disponíveis:
-	Language:	Idioma:
 	Update automatically	Atualizar automaticamente
 	Match half/full-width forms	Diferenciar formas de meia/largura total
 	Sounds like (Japanese)	Semelhante a (japonês)
 	Kinsoku Characters	Caracteres kinsoku
 	Text alignment:	Alinhamento do texto:
-	Baseline	Linha de base
 	Snap to grid when document grid is defined	Ajustar à grade quando a grade do documento for definida
 	Automatically adjust right indent when document grid is defined	Ajustar automaticamente o recuo direito quando a grade do documento for definida
 	Text direction:	Direção do texto:

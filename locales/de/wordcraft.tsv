@@ -2064,7 +2064,6 @@
 	Current text width:	Aktuelle Textbreite:
 	New text width:	Neue Textbreite:
 	Select one to six characters.	Wählen Sie ein bis sechs Zeichen aus.
-	Dot	Punkt
 	Comma	Komma
 	Under dot	Punkt unten
 	Horizontal in Vertical…	Horizontal in Vertikal…
@@ -2072,13 +2071,11 @@
 	Two Lines in One…	Zwei Zeilen in einer…
 	Adjust Width…	Breite anpassen…
 	Available formats:	Verfügbare Formate:
-	Language:	Sprache:
 	Update automatically	Automatisch aktualisieren
 	Match half/full-width forms	Halbbreite/vollbreite Formen unterscheiden
 	Sounds like (Japanese)	Ähnliche Schreibweise (Japanisch)
 	Kinsoku Characters	Kinsoku-Zeichen
 	Text alignment:	Textausrichtung:
-	Baseline	Grundlinie
 	Snap to grid when document grid is defined	Am Raster ausrichten, wenn ein Dokumentraster definiert ist
 	Automatically adjust right indent when document grid is defined	Rechten Einzug automatisch anpassen, wenn ein Dokumentraster definiert ist
 	Text direction:	Textrichtung:

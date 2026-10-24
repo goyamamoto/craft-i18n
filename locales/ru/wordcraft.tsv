@@ -2390,13 +2390,11 @@ preview	Title	Пример
 	Two Lines in One…	Две строки в одной…
 	Adjust Width…	Настроить ширину…
 	Available formats:	Доступные форматы:
-	Language:	Язык:
 	Update automatically	Обновлять автоматически
 	Match half/full-width forms	Различать полуширинные и полноширинные формы
 	Sounds like (Japanese)	Произносится как (японский)
 	Kinsoku Characters	Символы кинсоку
 	Text alignment:	Выравнивание текста:
-	Baseline	Базовая линия
 	Snap to grid when document grid is defined	Привязать к сетке, если задана сетка документа
 	Automatically adjust right indent when document grid is defined	Автоматически подбирать правый отступ, если задана сетка документа
 	Text direction:	Направление текста:

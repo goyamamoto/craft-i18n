@@ -10,7 +10,6 @@
 # Clean room: every entry was written from the plain meaning of the English text in ordinary
 # computing vocabulary. No other product's localisation, string table or translated UI was
 # consulted or copied; add entries the same way.
-
 	% of all commits	全コミットに占める割合
 	(All)	(すべて)
 	(Custom)	(ユーザー設定)
@@ -2089,7 +2088,6 @@
 	{width} × {height} pixels	{width} × {height} ピクセル
 	{words} words	{words} 語
 	“{text}” ({row}, {series}) isn't a number.	「{text}」（{row}、{series}）は数値ではありません。
-
 # WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
 	Crop marks	裁ちトンボ
 	Don't show again	今後表示しない
@@ -2115,7 +2113,6 @@
 	Current text width:	現在の文字列の幅：
 	New text width:	新しい文字列の幅：
 	Select one to six characters.	1〜6 文字を選択してください。
-	Dot	点
 	Comma	読点
 	Under dot	下点
 	Horizontal in Vertical…	縦中横…
@@ -2123,13 +2120,11 @@
 	Two Lines in One…	割注…
 	Adjust Width…	文字の均等割り付け…
 	Available formats:	表示形式:
-	Language:	言語:
 	Update automatically	自動的に更新する
 	Match half/full-width forms	半角と全角を区別する
 	Sounds like (Japanese)	あいまい検索 (日)
 	Kinsoku Characters	禁則文字
 	Text alignment:	文字の配置:
-	Baseline	ベースライン
 	Snap to grid when document grid is defined	1ページの行数を指定時に文字を行グリッド線に合わせる
 	Automatically adjust right indent when document grid is defined	1行の文字数を指定時に右のインデント幅を自動調整する
 	Text direction:	文字方向:
@@ -2151,8 +2146,20 @@ lines	Pitch:	行送り:
 	: (colon)	: (コロン)
 	— (em dash)	— (全角ダッシュ)
 	– (en dash)	– (半角ダッシュ)
-
 # WordCraft-ja (goyamamoto/wordcraft ja/fork-branding): the fork's About text
 	A free, open-source word processor written from scratch in Rust.\nA Japanese-enhanced build of WordCraft.	Rust でゼロから書かれた、無料でオープンソースの文書作成アプリです。\nWordCraft の日本語強化版です。
 	Source code: github.com/goyamamoto/wordcraft	ソースコード: github.com/goyamamoto/wordcraft
 	Upstream project: github.com/storytold/wordcraft	元のプロジェクト: github.com/storytold/wordcraft
+	A second window on the same document isn't available yet	同じ文書の 2 つ目のウィンドウはまだ使えません
+	Arrange All	整列
+	Compare Side by Side	並べて比較
+	Compare Side by Side with:	並べて比較する文書:
+	Only in the desktop app, which has windows	ウィンドウのあるデスクトップ版でのみ使えます
+	Open another document first	先に別の文書を開いてください
+	Reset Window Position	ウィンドウの位置を元に戻す
+	Splitting the window into two panes isn't available yet	ウィンドウを 2 つに分割する機能はまだ使えません
+	Switch Windows	ウィンドウの切り替え
+	Switch\nWindows	ウィンドウの\n切り替え
+	Synchronous Scrolling	同時にスクロール
+	Turn on View Side by Side first	先に [並べて比較] をオンにしてください
+	View Side by Side	並べて比較
