@@ -796,6 +796,7 @@ effect	Down	下方向
 	Follow the layout	レイアウトに従う
 	Followed Hyperlink	表示済みのハイパーリンク
 	Font Color	フォントの色
+	Font List	フォントの一覧
 	Font name	フォント名
 	Font size must be a number	フォントサイズには数値を入力してください
 	Fonts in Presentation	プレゼンテーション内のフォント
@@ -1265,6 +1266,7 @@ gradient	Linear	線形
 	Number of rows:	行数:
 	Numbered	番号付き
 	Numbering	番号付け
+	Numbering Gallery	番号付けギャラリー
 	Numbering styles	番号付けのスタイル
 	Object Color	オブジェクトの色
 	Objects	オブジェクト
