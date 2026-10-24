@@ -28,11 +28,15 @@
 	+ Series	+ 系列
 	1 picture	画像 1 枚
 	1 picture with title	画像 1 枚 (タイトル付き)
+	1 Slide	スライド 1 枚
+	1 Spoke	スポーク 1 本
 	1.5 lines	1.5 行
 	100% Stacked Bar	100% 積み上げ横棒
 	100% Stacked Column	100% 積み上げ縦棒
 	2 pictures	画像 2 枚
 	2 pictures with title	画像 2 枚 (タイトル付き)
+	2 Spokes	スポーク 2 本
+	3 Spokes	スポーク 3 本
 	3-D	立体
 	3-D Format	3-D 書式
 	3-D Rotation	3-D 回転
@@ -40,9 +44,12 @@
 	4 pictures	画像 4 枚
 	4 pictures with title	画像 4 枚 (タイトル付き)
 	4 Point Star	4 頂点の星
+	4 Spokes	スポーク 4 本
 	5 Point Star	5 頂点の星
 	6 Point Star	6 頂点の星
 	8 Point Star	8 頂点の星
+	8 Spokes	スポーク 8 本
+	@{login}: {prs} PRs, {commits} commits, +{added} / −{deleted} lines (Δ {delta}), +{binAdded} / −{binDeleted} binary assets, {first} – {last}	@{login}: PR {prs} 件、コミット {commits} 件、+{added} / −{deleted} 行 (Δ {delta})、バイナリアセット +{binAdded} / −{binDeleted} 件、{first} – {last}
 	[No Sound]	[サウンドなし]
 	[Stop Previous Sound]	[前のサウンドを停止]
 	A fixed copy that keeps its layout on any device	どのデバイスでもレイアウトが変わらない固定形式のコピー
@@ -52,7 +59,9 @@
 	A short class that ends with the learner explaining the idea	最後に受講者が考え方を説明して終わる短い授業
 	A ten-minute conversation about one promise, not a tour of features	機能の紹介ではなく、1 つの約束について語る 10 分間
 	A weekly check-in: what changed, what's stuck, and who does the next thing	週次の確認: 何が変わり、何が止まっていて、次に誰が動くか
+	A3 (297 × 420 mm)	A3 (297 × 420 mm)
 	A3 Paper (297x420 mm)	A3 用紙 (297x420 mm)
+	A4 (210 × 297 mm)	A4 (210 × 297 mm)
 	A4 Paper (210x297 mm)	A4 用紙 (210x297 mm)
 	About DeckCraft	DeckCraft について
 	Accent 1	アクセント 1
@@ -61,12 +70,26 @@
 	Accent 4	アクセント 4
 	Accent 5	アクセント 5
 	Accent 6	アクセント 6
+	Accent color 1 Dark	アクセント 1 (濃色)
+	Accent color 1 Light	アクセント 1 (淡色)
+	Accent color 2 Dark	アクセント 2 (濃色)
+	Accent color 2 Light	アクセント 2 (淡色)
+	Accent color 3 Dark	アクセント 3 (濃色)
+	Accent color 3 Light	アクセント 3 (淡色)
+	Accent color 4 Dark	アクセント 4 (濃色)
+	Accent color 4 Light	アクセント 4 (淡色)
+	Accent color 5 Dark	アクセント 5 (濃色)
+	Accent color 5 Light	アクセント 5 (淡色)
+	Accent color 6 Dark	アクセント 6 (濃色)
+	Accent color 6 Light	アクセント 6 (淡色)
 	Accent Process	アクセント ステップ
 	Accept	承諾
+	Accept All ({count})	すべて承諾 ({count})
 	Accept Revision	変更を承諾
 	Accept\nAll	すべて\n承諾
 	Accessibility Checker	アクセシビリティ チェック
 	Account	アカウント
+	Across	横方向
 	Action	アクション
 	Action Button: Custom	アクション ボタン: カスタム
 	Action Button: Document	アクション ボタン: 文書
@@ -124,17 +147,23 @@
 	Align Middle	上下中央揃え
 	Align or Distribute	整列/均等配置
 	Align Selected Objects	選択したオブジェクトを整列
+	Align text to the bottom of the cell	セル内のテキストを下端に揃えます
+	Align text to the center of the cell	セル内のテキストを中央に揃えます
+	Align text to the top of the cell	セル内のテキストを上端に揃えます
 	Align to Slide	スライドに合わせて整列
 	Align Top	上揃え
 	Alignment	配置
 	All Borders	格子
 	All caps	すべて大文字
+	All Fonts	すべてのフォント
 	ALL pictures black and white	すべての画像を白黒にする
 	All slides	すべてのスライド
 	All slides on	すべてのスライド (オン)
 	Alt Text	代替テキスト
 	Alt\nText	代替\nテキスト
 	An open-source, clean-room project. Not affiliated with Microsoft.	クリーンルーム方式のオープンソース プロジェクトです。Microsoft とは提携していません。
+3d	Angle	角度付き
+bevel	Angle	角度付き
 	Animated GIF (.gif)	アニメーション GIF (.gif)
 	Animation Gallery	アニメーション ギャラリー
 	Animation Painter	アニメーションのコピー/貼り付け
@@ -149,6 +178,7 @@
 	Appear	出現
 	Applies to this presentation's theme colours.	このプレゼンテーションのテーマの色に適用されます。
 	Apply Animation	アニメーションを適用
+	Apply Asian line-breaking rules (kinsoku)	アジア文字の禁則処理を行う
 	Apply Design Idea	デザイン アイデアを適用
 	Apply only to this picture	この画像だけに適用
 	Apply To All	すべてに適用
@@ -192,10 +222,20 @@
 	Arrow: Up	矢印: 上
 	Arrow: Up-Down	矢印: 上下
 	Arrows at both ends	両端に矢印
+	Art Deco	アール デコ
+	Art deco	アール デコ
 	Artistic Effects	アート効果
 	Artistic\nEffects	アート\n効果
 	As One Object	1 つのオブジェクトとして
 	As:	貼り付ける形式:
+	Asian body font	アジア文字の本文のフォント
+	Asian body sample  {sample}  {minorEa}	アジア文字の本文のサンプル  {sample}  {minorEa}
+	Asian heading font	アジア文字の見出しのフォント
+	Asian heading sample  {sample}  {majorEa}	アジア文字の見出しのサンプル  {sample}  {majorEa}
+	Asian text	アジア文字
+	Asian text font	アジア文字のフォント
+	Asian text font:	アジア文字のフォント:
+	Asian Typography	アジア文字の組版
 	At	値
 	Attachment	添付ファイル
 	Audio from File…	ファイルからのオーディオ…
@@ -204,13 +244,18 @@
 	AutoCorrect Options	オートコレクトのオプション
 	AutoCorrect Options…	オートコレクトのオプション…
 	Autofit	自動調整
+	Automatic ({language})	自動 ({language})
+	Automatic ({unit})	自動 ({unit})
 	Available formats:	利用可能な形式:
 	Award	賞
 	B4 (ISO) Paper (250x353 mm)	B4 (ISO) 用紙 (250x353 mm)
+	B4 (JIS) (257 × 364 mm)	B4 (JIS) (257 × 364 mm)
 	B5 (ISO) Paper (176x250 mm)	B5 (ISO) 用紙 (176x250 mm)
+	B5 (JIS) (182 × 257 mm)	B5 (JIS) (182 × 257 mm)
 	Back	戻る
 	Back (Esc)	戻る (Esc)
 	Background\nStyles	背景の\nスタイル
+	Balanced	バランス
 	Banded Columns	縞模様（列）
 	Banded Rows	縞模様（行）
 	Banner	バナー
@@ -263,15 +308,21 @@
 	Bottom bevel	底面のベベル
 	Bottom Border	下罫線
 	Bottom left	左下
+gradient	bottom left	左下
 	Bottom right	右下
+gradient	bottom right	右下
 	Bounce	バウンス
 	Bounce Left	左へバウンス
 	Bounce Right	右へバウンス
 	Box	ボックス
 	Box and Whisker	箱ひげ図
+	Box In	ボックス・内側へ
+	Box Out	ボックス・外側へ
 	Brick Scene	れんがのシーン
 	Briefcase	ブリーフケース
 	Briefing	ブリーフィング
+	Bright room	明るい部屋
+	Brightness {value}%	明るさ {value}%
 	Bring Forward	前面へ移動
 	Bring to Front	最前面へ移動
 	Bring\nForward	前面へ\n移動
@@ -281,6 +332,7 @@
 	Browsed by an individual (window)	個人による閲覧 (ウィンドウ)
 	Bubble	バブル
 	Building	ビル
+	Bullet styles	箇条書きのスタイル
 	Bulleted	箇条書き
 	Bullets	箇条書き
 	Bullets and Numbering	箇条書きと番号付け
@@ -290,6 +342,7 @@
 	By	幅
 	By Paragraph	段落別
 	Calendar	カレンダー
+	Calendar type:	カレンダーの種類:
 	Callout: Bent Line	吹き出し: 折れ線
 	Callout: Bent Line with Accent Bar	吹き出し: 折れ線 (強調線付き)
 	Callout: Bent Line with Border and Accent Bar	吹き出し: 折れ線 (枠線と強調線付き)
@@ -327,7 +380,10 @@
 	Categories	カテゴリ
 	Cell Margins	セルの余白
 	Center	中央揃え
+anchor	Center	中央
+position	Center	中央
 transition	Center	中央
+gradient	center	中央
 	Center Shadow Rectangle	中央に影付き長方形
 	Center Tab	中央揃えタブ
 	Centered	中央
@@ -361,6 +417,7 @@ transition	Characters	文字
 	Check for Issues	問題のチェック
 	Check\nAccessibility	アクセシビリティ\nチェック
 	Chevron	山形
+	Chilly	冷たい光
 	Chime	チャイム
 	Choose a body font.	本文のフォントを選択してください。
 	Choose a font	フォントを選択してください
@@ -370,9 +427,12 @@ transition	Characters	文字
 	Choosing a presentation to reuse needs the desktop app	再利用するプレゼンテーションを選ぶにはデスクトップアプリが必要です
 	Choosing a sound file needs the desktop app	サウンドファイルを選ぶにはデスクトップアプリが必要です
 	Chord	弓形
+	Circle In	円形・内側へ
+	Circle Out	円形・外側へ
 	Circle Pour	円形 (流し込み)
 	Clapperboard	カチンコ
 	Clear All Formatting	すべての書式をクリア
+	Clear the tab at {position}	{position} のタブをクリア
 	Click	クリック
 	Click a colour in the picture to make it transparent	画像内の色をクリックすると、その色が透明になります
 	Click a symbol to insert it at the insertion point.	記号をクリックすると、カーソル位置に挿入されます。
@@ -397,6 +457,7 @@ transition	Characters	文字
 	Clustered Bar	集合横棒
 	Clustered Column	集合縦棒
 	Collapse the Ribbon	リボンを折りたたむ
+	Collapse {name}	{name} を折りたたむ
 	Color At	指定位置の色
 	Color Pulse	カラー パルス
 	Colorful	カラフル
@@ -417,6 +478,7 @@ transition	Characters	文字
 	Company	会社
 	Compare needs the desktop app for now	比較には、現在はデスクトップ版アプリが必要です
 	Compare this presentation with a revised copy from Review › Compare.	「校閲」›「比較」で、このプレゼンテーションを修正版のコピーと比較します。
+	Compared with {name}	{name} と比較
 	Compare…	比較…
 	Compass	コンパス
 	Complementary Color	補色
@@ -425,6 +487,7 @@ transition	Characters	文字
 	Compound type	多重線の種類
 	Compress	圧縮
 	Compress Pictures	画像の圧縮
+@msg	Compressed {n} picture(s): {before} KB → {after} KB	{n} 枚の画像を圧縮しました: {before} KB → {after} KB
 	Compression options	圧縮のオプション
 	Connect Shapes	図形を接続
 	Connection Sites	接続ポイント
@@ -437,10 +500,15 @@ transition	Characters	文字
 	Continuous Cycle	連続循環
 	Contour	輪郭
 	Contract	収縮
+	Contrast {value}%	コントラスト {value}%
+	Contrasting	対比
 	Convert to Shapes	図形に変換
 	Convert to SmartArt	SmartArt に変換
 	Convert to Text	テキストに変換
+	Convex	凸型
 	Conveyor	コンベヤー
+	Cool Slant	鋭い傾斜
+	Cool slant	鋭い傾斜
 	Copied the path	パスをコピーしました
 	Copy path	パスをコピー
 	Corner Point	角の頂点
@@ -451,6 +519,7 @@ transition	Characters	文字
 	Correct TWo INitial CApitals	先頭 2 文字の大文字を修正する
 	Corrections	補正
 	Couldn't save AutoRecover information: {e}	自動回復用の情報を保存できませんでした: {e}
+@msg	Couldn't save AutoRecover information: {e}	自動回復用の情報を保存できませんでした: {e}
 	Counterclockwise	反時計回り
 	Cover	カバー
 	Create a PDF Document	PDF ドキュメントを作成
@@ -494,6 +563,12 @@ transition	Cut	カット
 	Dark appearance	ダーク モード
 	Dark Mode	ダーク モード
 	Dark Style 1	濃色スタイル 1
+	Dark Style 1 - Accent 1	濃色スタイル 1 - アクセント 1
+	Dark Style 1 - Accent 2	濃色スタイル 1 - アクセント 2
+	Dark Style 1 - Accent 3	濃色スタイル 1 - アクセント 3
+	Dark Style 1 - Accent 4	濃色スタイル 1 - アクセント 4
+	Dark Style 1 - Accent 5	濃色スタイル 1 - アクセント 5
+	Dark Style 1 - Accent 6	濃色スタイル 1 - アクセント 6
 	Dark\nMode	ダーク\nモード
 	Darken	暗くする
 	Dash	破線
@@ -506,6 +581,7 @@ transition	Cut	カット
 	Decaying Wave	減衰波
 	Decimal	小数点揃え
 	Decimal Tab	小数点揃えタブ
+@msg	DeckCraft can't export “{kind}”	DeckCraft では「{kind}」形式に書き出せません
 	DeckCraft can't find “{text}”.	DeckCraft で「{text}」が見つかりませんでした。
 	DeckCraft has no accounts: there is nothing to sign in to, and your presentations stay on your device.	DeckCraft にはアカウントがありません。サインインは不要で、プレゼンテーションはお使いのデバイスに保存されたままです。
 	DeckCraft Presentation (*.deckcraft)	DeckCraft プレゼンテーション (*.deckcraft)
@@ -514,6 +590,7 @@ transition	Cut	カット
 	DeckCraft's own format: everything is kept	DeckCraft 独自の形式: すべての内容が保持されます
 	Decrease List Level	リスト レベルを下げる
 	Default tab stops (in):	既定のタブ間隔 (インチ):
+	Default tab stops:	既定のタブ間隔:
 	Deflate	収縮
 	Deflate Bottom	下を収縮
 	Deflate Inflate	収縮と膨張
@@ -541,6 +618,13 @@ transition	Cut	カット
 	Diagonal Stripe	斜めストライプ
 	Diagonal Up Border	斜め罫線 (右上がり)
 	Diagonal Up Right	斜め右上
+	Diamond In	ひし形・内側へ
+	Diamond Out	ひし形・外側へ
+	Diamonds From Bottom	ひし形 (下から)
+	Diamonds From Left	ひし形 (左から)
+	Diamonds From Right	ひし形 (右から)
+	Diamonds From Top	ひし形 (上から)
+	Dictionary: {name}	辞書: {name}
 	Disappear	消失
 	Discard Recovered Presentations	回復されたプレゼンテーションを破棄
 	Display drawing guides on screen	描画ガイドを画面に表示する
@@ -556,8 +640,11 @@ transition	Cut	カット
 	Distribute Vertically	垂直方向に均等配置
 	Distributed	均等割り付け
 	Division Sign	除算記号
+	Divot	くぼみ
+	Dk edge	暗いエッジ
 	Do not Autofit	自動調整しない
 	Do not check spelling or grammar	スペルチェックと文章校正を行わない
+	Do you want to save the changes you made to {count} presentations?	{count} 件のプレゼンテーションへの変更を保存しますか？
 	Do you want to save the changes you made to {what}?	{what} への変更を保存しますか？
 	Do you want to save the changes you made to “{name}”?	「{name}」への変更を保存しますか？
 	Dodecagon	十二角形
@@ -575,9 +662,11 @@ lineSpacing	Double	2 行
 	Double Wave	二重波
 	Double Wave 1	二重波 1
 	Doughnut	ドーナツ
+effect	Down	下方向
 	Download the file	ファイルをダウンロード
 	Drape	ドレープ
 	Draw Borders	罫線の作成
+	Draw Horizontal Text Box	横書きテキスト ボックスを描画
 	Draw Table	表を描画
 	Drawing	図形描画
 	Drop Shadow Rectangle	影付き長方形
@@ -585,6 +674,7 @@ lineSpacing	Double	2 行
 	Drum Roll	ドラムロール
 	Duplicate Selected Slides	選択したスライドの複製
 	Duplicate Slide	スライドの複製
+	Duration handle {n}	継続時間ハンドル {n}
 	Duration:	継続時間:
 	Dynamic Content	動的コンテンツ
 	E-mail (96 ppi): minimise document size for sharing	電子メール (96 ppi): 共有用にファイルサイズを最小限に抑える
@@ -599,6 +689,7 @@ lineSpacing	Double	2 行
 	Edit SmartArt Text	SmartArt のテキストを編集
 	Edit Text	テキストの編集
 	Edit the data: first row = series names, first column = categories.	データを編集します: 1 行目 = 系列名、1 列目 = 項目。
+	Edit Theme	テーマの編集
 	Edit\nData	データの\n編集
 	Edit\nShape	図形の\n編集
 	Effect Options	効果オプション
@@ -628,9 +719,11 @@ lineSpacing	Double	2 行
 	Exciting	華やか
 	Exit	退場
 	Exit Edit Points	頂点の編集を終了
+	Expand {name}	{name} を展開
 	Explosion: 14 Points	爆発: 頂点数 14
 	Explosion: 8 Points	爆発: 頂点数 8
 	Export the presentation as:	プレゼンテーションの書き出し形式:
+@msg	Exported {path}	{path} を書き出しました
 	Extra Large (1920 px wide)	特大 (幅 1920 px)
 	Eyedropper: click the slide (Esc cancels)	スポイト: スライドをクリックしてください (Esc でキャンセル)
 	Fade	フェード
@@ -664,6 +757,7 @@ lineSpacing	Double	2 行
 	Flat	フラット
 	Float In	フロートイン
 	Float Out	フロートアウト
+	Flood	投光
 	Flowchart	フローチャート
 	Flowchart: Alternate Process	フローチャート: 代替処理
 	Flowchart: Card	フローチャート: カード
@@ -718,6 +812,7 @@ lineSpacing	Double	2 行
 	Format Painter (double-click to keep it on)	書式のコピー/貼り付け (ダブルクリックで連続使用)
 	Format Shape	図形の書式設定
 	Format Shape…	図形の書式設定…
+	Format:	形式:
 	Format\nBackground	背景の\n書式設定
 	Format\nPane	書式設定\nウィンドウ
 	Formatting State	書式の状態
@@ -729,10 +824,13 @@ lineSpacing	Double	2 行
 	Freeform	フリーフォーム
 	Freeform: Scribble	フリーフォーム: 走り書き
 	Freeform: Shape	フリーフォーム: 図形
+	Freezing	凍てつく光
 	French (France)	フランス語（フランス）
 	From Bottom	下から
 	From bottom left	左下から
 	From bottom right	右下から
+	From Bottom-Left	左下から
+	From Bottom-Right	右下から
 	From center	中央から
 	From Left	左から
 	From Right	右から
@@ -741,10 +839,14 @@ lineSpacing	Double	2 行
 	From Top	上から
 	From top left	左上から
 	From top right	右上から
+	From Top-Left	左上から
+	From Top-Right	右上から
 	From\nBeginning	最初\nから
 	From\nCurrent Slide	現在の\nスライドから
+reflection	Full	全体
 	Full Page Slides	フル ページ サイズのスライド
 	Full-bleed picture, title on a band	全面に画像、帯の上にタイトル
+	Full-width	全角
 	Funnel	じょうご
 	Gallery	ギャラリー
 	Gear	歯車
@@ -754,9 +856,11 @@ lineSpacing	Double	2 行
 	Glitter	きらめき
 	Globe	地球儀
 	Glow	光彩
+3d	Glow	輝き
 	Glow Edges	輪郭の光彩
 	Go to	移動
 	Go to Slide	スライドへ移動
+	Go to slide {n}	スライド {n} へ移動
 	Grab bag	まとめて表示
 	Gradient fill	グラデーションの塗りつぶし
 	Gradient Range - Accent 1	グラデーション範囲 - アクセント 1
@@ -768,6 +872,7 @@ lineSpacing	Double	2 行
 	Gradient stops	グラデーションの分岐点
 	Gradient…	グラデーション…
 	Greek	ギリシャ文字
+	Gregorian	西暦
 	Grid and Guides	グリッドとガイド
 	Grid Matrix	グリッド マトリックス
 	Grid Options	グリッドのオプション
@@ -781,6 +886,7 @@ lineSpacing	Double	2 行
 	Half	半分
 	Half Circle Organization Chart	半円組織図
 	Half Frame	ハーフ フレーム
+	Half-width	半角
 	Handout Master	配布資料マスター
 	Handout Placeholders	配布資料のプレースホルダー
 	Handout\nMaster	配布資料\nマスター
@@ -790,13 +896,19 @@ lineSpacing	Double	2 行
 	Handouts (4 slides per page)	配布資料 (1 ページに 4 スライド)
 	Handouts (6 slides per page)	配布資料 (1 ページに 6 スライド)
 	Handouts (9 slides per page)	配布資料 (1 ページに 9 スライド)
+	Hang punctuation past the line end	句読点を行末にぶら下げる
 	Hanging	ぶら下げ
+	Hard Edge	硬いエッジ
+	Hard edge	硬いエッジ
+@msg	Hard-to-read text contrast ({ratio}:1)	テキストのコントラストが低く読みにくい ({ratio}:1)
+	Harsh	強い光
 	HD (330 ppi): good quality for high-definition displays	HD (330 ppi): 高解像度ディスプレイ向けの高画質
 	Header	ヘッダー
 	Header &\nFooter	ヘッダーと\nフッター
 	Header and Footer	ヘッダーとフッター
 	Header and Footer…	ヘッダーとフッター…
 	Header Row	見出し行
+	Heading and body fonts for Latin and Asian text in this presentation.	このプレゼンテーションのラテン文字とアジア文字の見出しと本文のフォントです。
 	Heading and body fonts for this presentation.	このプレゼンテーションの見出しと本文のフォントです。
 	Heading font	見出しのフォント
 	Heading sample  {major}	見出しのサンプル  {major}
@@ -804,26 +916,38 @@ lineSpacing	Double	2 行
 	Heartbeat	心拍
 	Heavy	太線
 	Height (in):	高さ (インチ):
+	Height must be a length	高さには長さを入力してください
 	Heptagon	七角形
+	Hexagons From Bottom	六角形 (下から)
+	Hexagons From Left	六角形 (左から)
+	Hexagons From Right	六角形 (右から)
+	Hexagons From Top	六角形 (上から)
 	Hidden slides	非表示のスライド
 	Hide	非表示
 	Hide Background Graphics	背景グラフィックを非表示
 	Hide background graphics	背景のグラフィックを表示しない
 	Hide During Show	スライドショー中は非表示
 	Hide Slide	スライドを非表示
+	Hide {name}	{name} を非表示
 	Hide\nSlide	スライドを\n非表示
 	Hierarchy	階層構造
 	Highlight click	クリック時に強調表示
 	Highlighter	蛍光ペン
 	Honeycomb	ハニカム
 	Horizontal	横書き
+direction	Horizontal	横書き
 effect	Horizontal	水平
+position	Horizontal	水平位置
 transition	Horizontal	横
 	Horizontal (in):	水平位置 (インチ):
 	Horizontal Bullet List	横方向箇条書きリスト
 	Horizontal Figure 8	横 8 の字
 	Horizontal Hierarchy	横方向階層構造
+	Horizontal In	横方向・内側へ
+	Horizontal Out	横方向・外側へ
 	Horizontal Picture List	横方向画像リスト
+	Horizontal position must be a length	水平位置には長さを入力してください
+position	Horizontal:	水平位置:
 	Hourglass	砂時計
 	How would you describe this object and its context to someone who is blind or has low vision?	このオブジェクトとその状況を、目の不自由な方やロービジョンの方にどのように説明しますか？
 	Hyperlink	ハイパーリンク
@@ -833,11 +957,15 @@ transition	Horizontal	横
 	Idea	アイデア
 	Illustrations	図
 	In	イン
+	In with Bounce	イン (バウンス付き)
 	Include hidden slides	非表示のスライドを含める
 	Increase List Level	リスト レベルを上げる
+	Indent after text must be a length	テキストの後のインデントには長さを入力してください
 	Indent after text must be a number of inches	テキストの後のインデントにはインチ単位の数値を入力してください
+	Indent before text must be a length	テキストの前のインデントには長さを入力してください
 	Indent before text must be a number of inches	テキストの前のインデントにはインチ単位の数値を入力してください
 	Indentation	インデント
+	Indents and Spacing	インデントと間隔
 	Inflate Bottom	下を膨張
 	Inflate Top	上を膨張
 	Ink	インク
@@ -870,6 +998,7 @@ transition	Horizontal	横
 	Insert\nLeft	左に列を\n挿入
 	Insert\nPlaceholder	プレースホルダーの\n挿入
 	Insert\nRight	右に列を\n挿入
+@msg	Inserted {n} slides from {path}	{path} から {n} 枚のスライドを挿入しました
 	Insert…	挿入…
 	Inset	はめ込み
 	Inside Borders	内側の罫線
@@ -879,11 +1008,21 @@ transition	Horizontal	横
 	Inspect Shape	図形を検査
 	Inspect Slide	スライドを検査
 	Intense Effect	強い効果
+	Interface language:	表示言語:
 	Interface size	表示サイズ
 	Inverted Chevron	逆山形
 	Inverted Pyramid	逆ピラミッド
 	Inverted Triangle	逆三角形
+	Isometric bottom down	等角投影: 底面・下向き
+	Isometric bottom up	等角投影: 底面・上向き
+	Isometric left down	等角投影: 左面・下向き
+	Isometric left up	等角投影: 左面・上向き
+	Isometric right down	等角投影: 右面・下向き
+	Isometric right up	等角投影: 右面・上向き
+	Isometric top down	等角投影: 上面・下向き
+	Isometric top up	等角投影: 上面・上向き
 	Isosceles Triangle	二等辺三角形
+	Japanese era	和暦
 	Join our community on Discord	Discord のコミュニティに参加
 	Join the ArtCraft community on Discord	Discord の ArtCraft コミュニティに参加
 	Join type	結合点の種類
@@ -896,31 +1035,56 @@ transition	Horizontal	横
 	Key	鍵
 	L-Shape	L 字形
 	Landscape Orientation	横向き
+	Language: {language}	言語: {language}
 	Large (1280 px wide)	大 (幅 1280 px)
 	Laser	レーザー
 	Last Column	最後の列
 	Last Slide	最後のスライド
 	Last Slide Viewed	最後に表示したスライド
+	Latin text	ラテン文字
+	Latin text font	ラテン文字のフォント
+	Latin text font:	ラテン文字のフォント:
 	Layout Placeholders	レイアウトのプレースホルダー
 	Layouts	レイアウト
 	Learn\nMore	詳細\n情報
 	Leave the slide background out: only what is on the slide is drawn	スライドの背景を含めず、スライド上の内容だけを描画します
 	Ledger Paper (11x17 in)	レジャー用紙 (11x17 インチ)
+align	Left	左揃え
+effect	Left	左方向
 	Left Border	左罫線
 	Left Brace	左中かっこ
 	Left Bracket	左かっこ
+	Left Down	左下へ
 	Left Tab	左揃えタブ
+	Left Up	左上へ
+	Legacy wireframe	旧式のワイヤーフレーム
+	Legal (8.5 × 14 in)	リーガル (8.5 × 14 インチ)
 	Less Brightness	明るさを下げる
 	Less Contrast	コントラストを下げる
 	Lesson	レッスン
+	Let Latin words break at any letter	欧文を単語の途中で折り返す
+	Letter (8.5 × 11 in)	レター (8.5 × 11 インチ)
 	Letter Paper (8.5x11 in)	レター用紙 (8.5x11 インチ)
 	Light Style 1	淡色スタイル 1
+	Light Style 1 - Accent 1	淡色スタイル 1 - アクセント 1
+	Light Style 1 - Accent 2	淡色スタイル 1 - アクセント 2
+	Light Style 1 - Accent 3	淡色スタイル 1 - アクセント 3
+	Light Style 1 - Accent 4	淡色スタイル 1 - アクセント 4
+	Light Style 1 - Accent 5	淡色スタイル 1 - アクセント 5
+	Light Style 1 - Accent 6	淡色スタイル 1 - アクセント 6
 	Light Style 2	淡色スタイル 2
+	Light Style 2 - Accent 1	淡色スタイル 2 - アクセント 1
+	Light Style 2 - Accent 2	淡色スタイル 2 - アクセント 2
+	Light Style 2 - Accent 3	淡色スタイル 2 - アクセント 3
+	Light Style 2 - Accent 4	淡色スタイル 2 - アクセント 4
+	Light Style 2 - Accent 5	淡色スタイル 2 - アクセント 5
+	Light Style 2 - Accent 6	淡色スタイル 2 - アクセント 6
 	Light/Dark appearance	ライト/ダーク表示
 	Lighten	明るくする
 	Lightning Bolt	稲妻
 	Line	線
 chart	Line	折れ線
+	Line breaking	行の折り返し
 	Line Color	線の色
 	Line Drawing	線画
 	Line Spacing	行間
@@ -929,10 +1093,12 @@ chart	Line	折れ線
 	Line with Markers	マーカー付き折れ線
 	Line: Rising	直線: 右上がり
 	Linear	線形
+gradient	Linear	線形
 	Linear Venn	線形ベン図
 	Link…	リンク…
 	List Commands	コマンドの一覧
 	Lock aspect ratio	縦横比を固定する
+	Lock {name}	{name} をロック
 	Long Dash	長破線
 	Long Dash Dot	長一点鎖線
 	Look up	調べる
@@ -953,21 +1119,41 @@ chart	Line	折れ線
 	Master Layout	マスター レイアウト
 	Master Views	マスター表示
 	Match case	大文字と小文字を区別する
+	Match half-width and full-width forms	半角と全角を区別する
+	Match {n} of {count} on slide {slide} (notes).	{count} 件中 {n} 件目 (スライド {slide} のノート)。
+	Match {n} of {count} on slide {slide}.	{count} 件中 {n} 件目 (スライド {slide})。
 	Material	質感
 	Math	数学記号
 	Matrix	マトリックス
 	Maximize content (else ensure fit)	コンテンツを最大化する (オフにするとサイズに収まるよう調整)
+	Measurement Units	単位
+	Measurement units:	単位:
 	Media	メディア
 	Media Info	メディア情報
+	Media Options	メディアのオプション
 	Medium (960 px wide)	中 (幅 960 px)
 	Medium Style 2	中間スタイル 2
+	Medium Style 2 - Accent 1	中間スタイル 2 - アクセント 1
+	Medium Style 2 - Accent 2	中間スタイル 2 - アクセント 2
+	Medium Style 2 - Accent 3	中間スタイル 2 - アクセント 3
+	Medium Style 2 - Accent 4	中間スタイル 2 - アクセント 4
+	Medium Style 2 - Accent 5	中間スタイル 2 - アクセント 5
+	Medium Style 2 - Accent 6	中間スタイル 2 - アクセント 6
 	Medium Style 4	中間スタイル 4
+	Medium Style 4 - Accent 1	中間スタイル 4 - アクセント 1
+	Medium Style 4 - Accent 2	中間スタイル 4 - アクセント 2
+	Medium Style 4 - Accent 3	中間スタイル 4 - アクセント 3
+	Medium Style 4 - Accent 4	中間スタイル 4 - アクセント 4
+	Medium Style 4 - Accent 5	中間スタイル 4 - アクセント 5
+	Medium Style 4 - Accent 6	中間スタイル 4 - アクセント 6
 	Megaphone	メガホン
 	Mention	メンション
+	Menus, dialogs and messages change; your presentations don't.	メニュー、ダイアログ、メッセージの言語が変わります。プレゼンテーションの内容は変わりません。
 	Merge Shapes	図形の結合
 	Merge\nCells	セルの\n結合
 	Merge\nShapes	図形の\n結合
 	Message	メッセージ
+	Metal	金属
 	Metal Frame	金属の枠
 	Metal Oval	金属の楕円
 	Metal Rounded Rectangle	金属の角丸長方形
@@ -981,6 +1167,7 @@ chart	Line	折れ線
 	Miter	マイター
 	Moderate Frame, Black	中程度の枠、黒
 	Moderate Frame, White	中程度の枠、白
+	Month names and AM/PM are listed for English and Japanese. Other languages list the numeric date and 24-hour time.	月名と午前/午後は英語と日本語でのみ表示されます。その他の言語では、数字の日付と 24 時間制の時刻が表示されます。
 	Month names and AM/PM are listed for English. Other languages list the numeric date and 24-hour time.	月の名前と AM/PM は英語でのみ表示されます。その他の言語では、数字の日付と 24 時間表記の時刻が表示されます。
 	Moon	月
 	More Brightness	明るさを上げる
@@ -989,6 +1176,7 @@ chart	Line	折れ線
 	More presentations	その他のプレゼンテーション
 	More templates	その他のテンプレート
 	More themes	その他のテーマ
+	Morning	朝
 	Morph	モーフ
 	Motion Paths	移動経路
 	Mouse Click	マウスのクリック
@@ -1027,6 +1215,7 @@ chart	Line	折れ線
 	Next Window	次のウィンドウ
 	Next ▶	次へ ▶
 	No accessibility issues found. People with disabilities should not have difficulty reading this document.	アクセシビリティの問題は見つかりませんでした。障がいのある方も、このドキュメントを問題なく読むことができます。
+	No Bevel	ベベルなし
 	No Border	枠なし
 	No Color	色なし
 	No comments.	コメントはありません。
@@ -1043,6 +1232,7 @@ chart	Line	折れ線
 	No pictures yet	画像はまだありません
 	no presentation is open	プレゼンテーションが開かれていません
 	No presentation is open.	プレゼンテーションが開かれていません。
+	No recent presentations match “{query}”.	「{query}」に一致する最近使ったプレゼンテーションはありません。
 	No Recolor	再配色なし
 	No Reflection	反射なし
 	No Shadow	影なし
@@ -1052,7 +1242,11 @@ chart	Line	折れ線
 	No sound: {err}	音声を再生できません: {err}
 	No Style, No Grid	スタイルなし、グリッドなし
 	No Style, Table Grid	スタイルなし、表のグリッド
+	No synonyms for “{word}”.	「{word}」の類義語はありません。
+	No themes or templates match “{query}”.	「{query}」に一致するテーマやテンプレートはありません。
 	No Transform	変形なし
+	No {language} dictionary is installed, so only common misspellings are found. Put a Hunspell .aff/.dic pair in a dictionaries folder.	{language} の辞書がインストールされていないため、よくあるスペルミスだけが検出されます。Hunspell の .aff/.dic ファイルの組を辞書フォルダーに置いてください。
+	No {language} dictionary is installed, so only common misspellings are found. Put a Hunspell .aff/.dic pair in {folder}.	{language} の辞書がインストールされていないため、よくあるスペルミスだけが検出されます。Hunspell の .aff/.dic ファイルの組を {folder} に置いてください。
 	Normal	標準
 	Not a copy of this presentation: slides are matched by position.	このプレゼンテーションのコピーではありません: スライドは位置で対応付けられます。
 	Not Equal	ノットイコール
@@ -1071,8 +1265,13 @@ chart	Line	折れ線
 	Number of rows:	行数:
 	Numbered	番号付き
 	Numbering	番号付け
+	Numbering styles	番号付けのスタイル
 	Object Color	オブジェクトの色
 	Objects	オブジェクト
+	Oblique bottom left	斜投影: 左下
+	Oblique bottom right	斜投影: 右下
+	Oblique top left	斜投影: 左上
+	Oblique top right	斜投影: 右上
 	Offset bottom	下のオフセット
 	Offset left	左のオフセット
 	Offset right	右のオフセット
@@ -1084,6 +1283,7 @@ chart	Line	折れ線
 	On Click of… (none)	クリックの対象… (なし)
 	On Mouse Click	マウスのクリック時
 	On-screen Show (16:10)	画面表示用 (16:10)
+	One Column	1 段組み
 	open a presentation first	先にプレゼンテーションを開いてください
 	Open a presentation from a folder (Ctrl+O)	フォルダーからプレゼンテーションを開きます (Ctrl+O)
 	Open another window on this presentation	このプレゼンテーションを別のウィンドウでも開く
@@ -1103,8 +1303,10 @@ chart	Line	折れ線
 	Ordinals (1st) with superscript	序数 (1st) を上付き文字にする
 	Organization Chart	組織図
 	Origami	折り紙
+	Orthographic front	平行投影: 正面
 	Other Sound…	その他のサウンド…
 	Out	アウト
+	Out with Bounce	アウト (バウンス付き)
 	Outer	外側
 	Outline (*.txt)	アウトライン (*.txt)
 	Outline (.txt)	アウトライン (.txt)
@@ -1115,6 +1317,7 @@ chart	Line	折れ線
 	Overhead	OHP
 	Page Curl	ページめくり
 	Page Number	ページ番号
+	Page Setup	ページ設定
 	Page Setup…	ページ設定…
 	Pan	パン
 	Pane	ウィンドウ
@@ -1122,12 +1325,15 @@ chart	Line	折れ線
 	Parallelogram	平行四辺形
 	Pareto	パレート図
 	Partial Circle	部分円
+	Particles In	粒子・内側へ
+	Particles Out	粒子・外側へ
 	Pass pictures to insert.photoAlbum	insert.photoAlbum に画像を渡してください
 	Paste (⌘V)	貼り付け (⌘V)
 	Paste and Match Formatting	書式を合わせて貼り付け
 	Paste Formatting	書式の貼り付け
 	Paste or type an outline. Unindented lines become slide titles; tab-indented lines become bullets.	アウトラインを貼り付けるか入力してください。インデントのない行はスライドのタイトルに、タブでインデントした行は箇条書きになります。
 	Paste Special…	特殊貼り付け…
+gradient	Path	パス
 	Pattern fill	パターンの塗りつぶし
 	PDF document (.pdf)	PDF ドキュメント (.pdf)
 	Peanut	ピーナッツ形
@@ -1138,8 +1344,24 @@ chart	Line	折れ線
 	Pen Style	ペンのスタイル
 	Pen Weight	ペンの太さ
 	Pencil Grayscale	鉛筆 (グレースケール)
+	Pens	ペン
 	People	人物
 	Percent:	パーセント:
+	Perspective above	透視投影: 上から
+	Perspective above left facing	透視投影: 上から・左向き
+	Perspective above right facing	透視投影: 上から・右向き
+	Perspective below	透視投影: 下から
+	Perspective contrasting left facing	透視投影: 強調・左向き
+	Perspective contrasting right facing	透視投影: 強調・右向き
+	Perspective front	透視投影: 正面
+	Perspective heroic extreme left facing	透視投影: 極端な見上げ・左向き
+	Perspective heroic extreme right facing	透視投影: 極端な見上げ・右向き
+	Perspective heroic left facing	透視投影: 見上げ・左向き
+	Perspective heroic right facing	透視投影: 見上げ・右向き
+	Perspective left	透視投影: 左
+	Perspective relaxed	透視投影: 緩やか
+	Perspective relaxed moderately	透視投影: やや緩やか
+	Perspective right	透視投影: 右
 	Perspective Shadow, White	遠近感のある影、白
 	Phone	電話
 	Photo Album	フォト アルバム
@@ -1178,6 +1400,7 @@ chart	Line	折れ線
 	Plain	プレーン
 	Plan\nBuild\nLaunch	計画\n構築\nリリース
 	Plaque	銘板
+	Plastic	プラスチック
 	Play Across Slides	スライドをまたいで再生
 	Play from Current Slide	現在のスライドから再生
 	Play from Start	最初から再生
@@ -1191,6 +1414,8 @@ chart	Line	折れ線
 	Play/Pause GIF	GIF を再生/一時停止
 	Playback	再生
 	Plus	プラス
+	Plus In	プラス・内側へ
+	Plus Out	プラス・外側へ
 	Plus Sign	プラス記号
 	PNG images (all slides)	PNG 画像 (すべてのスライド)
 	PNG images (current slide)	PNG 画像 (現在のスライド)
@@ -1206,7 +1431,9 @@ chart	Line	折れ線
 	Powder	パウダー
 	PowerPoint Presentation (*.pptx)	PowerPoint プレゼンテーション (*.pptx)
 	PowerPoint Presentation (.pptx)	PowerPoint プレゼンテーション (.pptx)
+	Present	発表
 	Presentation	プレゼンテーション
+	Presentation Views	プレゼンテーションの表示
 	Presentations	プレゼンテーション
 	Presentations and slide shows, rebuilt from scratch in pure Rust.	プレゼンテーションとスライドショーを、Rust だけでゼロから作り直しました。
 	Presentations you open show up here. Use Open to browse for one.	開いたプレゼンテーションがここに表示されます。「開く」からファイルを参照できます。
@@ -1240,7 +1467,9 @@ chart	Line	折れ線
 	Quick Styles	クイック スタイル
 	Quick\nStyles	クイック\nスタイル
 	Radar	レーダー
+gradient	Radial	放射
 	Random Bars	ランダム バー
+	Reading the file: {secs} s	ファイルを読み込んでいます: {secs} 秒
 	Reading View	閲覧表示
 	Reading\nView	閲覧\n表示
 	Recolor	再配色
@@ -1258,14 +1487,18 @@ chart	Line	折れ線
 	Rectangle: Top Corners Rounded	長方形: 上側の角を丸める
 	Rectangle: Top Corners Snipped	長方形: 上側の角を切り取る
 	Rectangles	四角形
+gradient	Rectangular	四角形
 	Red Pen	赤のペン
 	Reflected Bevel, White	反射付き面取り、白
 	Reflected Rounded Rectangle	反射付き角丸長方形
 	Reflection	反射
 	Regroup	再グループ化
 	Regular Pentagon	正五角形
+	Rehearse	リハーサル
 	Rehearse\nTimings	タイミングの\nリハーサル
 	Relationship	関係
+	Relaxed Inset	緩やかな切り込み
+	Relaxed inset	緩やかな切り込み
 	Remove All Animations	すべてのアニメーションを削除
 	Remove All Sections	すべてのセクションを削除
 	Remove Animation	アニメーションを削除
@@ -1297,6 +1530,8 @@ chart	Line	折れ線
 	Replace straight quotes with smart quotes	ストレート引用符をスマート引用符に置き換える
 	Replace text as you type	入力中に自動修正する
 	Replace with:	置換後の文字列:
+	Replaced {count} occurrence(s).	{count} 件を置換しました。
+	Replaced “{from}” with “{to}”.	「{from}」を「{to}」に置換しました。
 	Replace…	置換…
 	Reply…	返信…
 	Rescan Installed Fonts	インストール済みフォントを再スキャン
@@ -1325,11 +1560,16 @@ chart	Line	折れ線
 	Ribbon: Left-Right Fold	リボン: 左右に折り返し
 	Ribbon: Tilted Down	リボン: 下に傾斜
 	Ribbon: Tilted Up	リボン: 上に傾斜
+	Riblet	細い溝
+align	Right	右揃え
+effect	Right	右方向
 	Right Border	右罫線
 	Right Brace	右中かっこ
 	Right Bracket	右かっこ
+	Right Down	右下へ
 	Right Tab	右揃えタブ
 	Right Triangle	直角三角形
+	Right Up	右上へ
 	Right-click any ribbon button to add it.	リボンのボタンを右クリックすると、ここに追加できます。
 	Right-to-Left Text Direction	右から左への文字方向
 	Ring Inside	内側リング
@@ -1346,6 +1586,8 @@ chart	Line	折れ線
 	Rotate with shape	図形と一緒に回転する
 	Rotated, White	回転、白
 	Rotation (°):	回転 (°):
+@msg	Rotation must be a number	回転には数値を入力してください
+	Rotation {rotation}°, brightness {brightness}, contrast {contrast}	回転 {rotation}°、明るさ {brightness}、コントラスト {contrast}
 	Round	丸型
 	Round Dot	丸点線
 	Rounded	角丸
@@ -1357,16 +1599,20 @@ chart	Line	折れ線
 	S Curve 1	S 字カーブ 1
 	S Curve 2	S 字カーブ 2
 	Sample deck: Northern Lights	サンプル プレゼンテーション: Northern Lights
+	Saturation {value}%	彩度 {value}%
 	Save As…	名前を付けて保存…
 	Save AutoRecover Information	自動回復用の情報を保存
 	Save to Data	データとして保存
 	Saved	保存しました
 	Saved {path}	{path} を保存しました
+@msg	Saved {path}	{path} を保存しました
 	Saving a copy needs a file picker, which this window doesn't have.	コピーを保存するにはファイルの選択画面が必要ですが、このウィンドウでは使用できません。
 	Scale height	高さの倍率
 	Scale height (%):	高さの倍率 (%):
+@msg	Scale height must be a number	高さの倍率には数値を入力してください
 	Scale width	幅の倍率
 	Scale width (%):	幅の倍率 (%):
+@msg	Scale width must be a number	幅の倍率には数値を入力してください
 	Scale X	幅の倍率
 	Scale Y	高さの倍率
 	Scatter	散布図
@@ -1374,6 +1620,8 @@ chart	Line	折れ線
 	Screenshot	スクリーンショット
 	Screenshot (not available yet)	スクリーンショット (まだ利用できません)
 	ScreenTip:	ヒントのテキスト:
+	Scroll ribbon left	リボンを左にスクロール
+	Scroll ribbon right	リボンを右にスクロール
 	Scroll: Horizontal	巻物: 横
 	Scroll: Vertical	巻物: 縦
 	Search commands (⇧⌘P)	コマンドを検索 (⇧⌘P)
@@ -1384,6 +1632,7 @@ chart	Line	折れ線
 	Search icons	アイコンを検索
 	Seconds per slide:	スライドあたりの秒数:
 	Seconds per slide: enter {MIN_SECONDS} to {MAX_SECONDS}	スライドあたりの秒数: {MIN_SECONDS}～{MAX_SECONDS} の値を入力してください
+@msg	Seconds per slide: enter {min} to {max}	スライドあたりの秒数: {min}～{max} の値を入力してください
 	Section	セクション
 	Section Header	セクション見出し
 	Section Zoom	セクション ズーム
@@ -1431,14 +1680,18 @@ chart	Line	折れ線
 	Shape Gallery	図形ギャラリー
 	Shape Outline	図形の枠線
 	Shape Styles	図形のスタイル
+	Shape {id}	図形 {id}
 	Shape\nStyles	図形の\nスタイル
 	Shapes	図形
+customShow	Show	開始
 	Show Media Controls	メディア コントロールを表示
+	Show Options	スライドショーのオプション
 	Show Slide	スライドを表示
 	Show smart guides	スマートガイドを表示する
 	Show type	スライドショーの種類
 	Show without animation	アニメーションなしで再生する
 	Show without narration	ナレーションなしで再生する
+	Show {name}	{name} を表示
 	Show/Hide	表示/非表示
 	Show\nComments	コメントの\n表示
 	Shred	細断
@@ -1471,6 +1724,14 @@ lineSpacing	Single	1 行
 	Slide Sorter	スライド一覧
 	Slide timings recorded.	スライドのタイミングを記録しました。
 	Slide Zoom	スライド ズーム
+	Slide {n}	スライド {n}
+	Slide {n} changed	スライド {n} が変更されました
+	Slide {n} deleted	スライド {n} が削除されました
+	Slide {n} of {count}	スライド {n}/{count}
+	Slide {n}: {issue}	スライド {n}: {issue}
+	Slide {n}: {issue} — {name}	スライド {n}: {issue} — {name}
+	Slide {n}: “{word}”	スライド {n}: 「{word}」
+	Slide {slide}   Total {total}	スライド {slide}   合計 {total}
 	Slide\nMaster	スライド\nマスター
 	Slide\nNumber	スライド\n番号
 	Slide\nSize	スライドの\nサイズ
@@ -1480,10 +1741,13 @@ lineSpacing	Single	1 行
 	Slides From	スライドの作成元
 	Slides from Outline	アウトラインからスライドを作成
 	Slides from Outline…	アウトラインからスライドを作成…
+	Slides Per\nPage: {n}	ページあたりの\nスライド数: {n}
 	Slides sized for:	スライドのサイズ:
 	Slides:	スライド:
 	Slides: choose a range from 1 to {n}	スライド: 1～{n} の範囲を指定してください
+@msg	Slides: choose a range from 1 to {n}	スライド: 1～{n} の範囲を指定してください
 	Slide…	スライド…
+	Slope	傾斜
 	Small (640 px wide)	小 (幅 640 px)
 	Small caps	小型英大文字
 	SmartArt	SmartArt
@@ -1493,13 +1757,19 @@ lineSpacing	Single	1 行
 	Smooth Corners	角を滑らかにする
 	Smooth Point	滑らかな頂点
 	Smoothly	スムーズ
+	Smoothly From Left	スムーズ (左から)
+	Smoothly From Right	スムーズ (右から)
 	Snap	スナップ
 	Snap objects to grid	オブジェクトをグリッドにスナップする
 	Snap objects to other objects	オブジェクトを他のオブジェクトにスナップする
 	Snip Diagonal Corner, White	対角を切り取った枠、白
+	Soft edge	柔らかいエッジ
 	Soft Edge Oval	ぼかした楕円
 	Soft Edge Rectangle	ぼかした長方形
 	Soft Edges	輪郭のぼかし
+	Soft Round	柔らかな丸み
+	Soft round	柔らかな丸み
+	Softmetal	柔らかい金属
 	Solid	実線
 	Solid fill	単色の塗りつぶし
 	Solid line	実線
@@ -1511,6 +1781,7 @@ lineSpacing	Single	1 行
 	Spacing after must be a number	段落後の間隔には数値を入力してください
 	Spacing before	段落前の間隔
 	Spacing before must be a number	段落前の間隔には数値を入力してください
+	Special indent must be a length	特殊インデントには長さを入力してください
 	Special indent must be a number of inches	特殊インデントにはインチ単位の数値を入力してください
 	Specify the company	会社名を指定
 	Specify the subject	件名を指定
@@ -1527,6 +1798,7 @@ lineSpacing	Single	1 行
 	Split\nCells	セルの\n分割
 	Spring	ばね
 	Square	角型
+effect	Square	正方形
 	Square (1:1)	正方形 (1:1)
 	Square Dot	角点線
 	Stacked	縦積み
@@ -1558,22 +1830,30 @@ lineSpacing	Single	1 行
 	Start time (s):	開始時間 (秒):
 	Start With Previous	前の効果と同時に開始
 	Start:	開始:
+	Start: {start}s, End: {end}s	開始: {start} 秒、終了: {end} 秒
 	Starter Templates	スターター テンプレート
 	Stealth	鋭い矢印
 	Stealth end	終点に鋭角の矢印
 	Step Up Process	上昇ステップ
-	Still opening {name}	{name} を開いています
+	Still opening {name}	まだ {name} を開いています
+@msg	Still opening {name}	まだ {name} を開いています
 	Stock	株価
 warp	Stop	ストップ
 	Stop Editing Text	テキストの編集を終了
+@msg	Stopped opening {name}	{name} を開くのを中止しました
 	Straight Point	直線の頂点
 	Strips	帯状
+	Strips In	帯状・内側へ
+	Strips Out	帯状・外側へ
 	Style {i}	スタイル {i}
+	Style {n}	スタイル {n}
 	Subtle	控えめ
 	Subtle Effect	控えめな効果
 	Summary Zoom	サマリー ズーム
 	Sun	太陽
 	Sunburst	サンバースト
+	Sunrise	日の出
+	Sunset	夕暮れ
 	Surface	曲面
 	Swedish	スウェーデン語
 	Switch	スイッチ
@@ -1581,6 +1861,7 @@ warp	Stop	ストップ
 	Swoosh	スウッシュ
 	Symbols	記号と特殊文字
 	Tab stop position (in):	タブ位置 (インチ):
+	Tab stop position:	タブ位置:
 	Tab stops:	タブ位置:
 	Table Design	表のデザイン
 	Table Eraser	表の消しゴム
@@ -1595,12 +1876,17 @@ warp	Stop	ストップ
 	Teardrop	涙形
 	Teeter	ぐらつき
 	Text above, title at the foot	上にテキスト、下部にタイトル
+	Text alignment:	文字の配置:
 	Text Box	テキスト ボックス
 	Text Box Margins	テキスト ボックスの余白
+	Text Box options	テキスト ボックスのオプション
 	Text box:	テキスト ボックス:
 	Text boxes have no picture options	テキスト ボックスには画像のオプションがありません
+	Text color 2 Dark	テキスト 2 (濃色)
+	Text color 2 Light	テキスト 2 (淡色)
 	Text Cycle	テキスト循環
 	Text Direction	文字列の方向
+	Text direction	文字列の方向
 	Text Effects	文字の効果
 	Text Fill	文字の塗りつぶし
 	Text Highlight Color	蛍光ペンの色
@@ -1634,7 +1920,9 @@ warp	Stop	ストップ
 	The version, the people and models who built it, and where to find us.	バージョン、開発に携わった人々とモデル、連絡先を表示します。
 	The web build inserts album pictures from data passed to insert.photoAlbum	Web 版では、insert.photoAlbum に渡されたデータからアルバムの画像を挿入します
 	Theme Colors	テーマの色
+	Theme Fonts	テーマのフォント
 	Theme Gallery	テーマ ギャラリー
+	Theme Options	テーマのオプション
 	Themes	テーマ
 	Themes (whole presentation)	テーマ (プレゼンテーション全体)
 	There are no unsaved changes.	保存されていない変更はありません。
@@ -1651,12 +1939,18 @@ warp	Stop	ストップ
 	This slide has no animations	このスライドにはアニメーションがありません
 	Thought Bubble: Cloud	思考の吹き出し: 雲形
 	Three a page leaves lines for notes	1 ページに 3 スライドにすると、メモ用の罫線が入ります
+	Three Columns	3 段組み
+	Three pt	3 点照明
 	Through Black	黒を経由
+	Through Black From Left	黒を経由 (左から)
+	Through Black From Right	黒を経由 (右から)
 	Thumbs up	いいね
 	Tight	狭い
+reflection	Tight	密着
 	Tile picture as texture	画像をテクスチャとして並べる
 	Timer	タイマー
 	Timing	タイミング
+	Timing bar {n}	タイミング バー {n}
 	Title and Content	タイトルとコンテンツ
 	Title and Vertical Text	タイトルと縦書きテキスト
 	Title column beside the text	テキストの横にタイトルの列
@@ -1668,13 +1962,16 @@ warp	Stop	ストップ
 	Top bevel	上面のベベル
 	Top Border	上罫線
 	Top left	左上
+gradient	top left	左上
 	Top right	右上
+gradient	top right	右上
 	Total Row	集計行
 	Transition	トランジション
 	Transition Gallery	トランジション ギャラリー
 	Transition to This Slide	このスライドへのトランジション
 	Transitions	トランジション
 	Translation needs a language model (not bundled)	翻訳には言語モデルが必要です (同梱されていません)
+	Translucent powder	半透明のパウダー
 	Transparency	透明度
 	Transparent background	背景を透明にする
 	Trapezoid	台形
@@ -1687,7 +1984,9 @@ warp	Stop	ストップ
 	Trim Media	メディアのトリム
 	Triple	三重線
 	Turns	ターン
+	Two Columns	2 段組み
 	Two Content	2 つのコンテンツ
+	Two pt	2 点照明
 	Type an equation in linear form (e.g. a^2+b^2=c^2, x=(-b±√(b^2-4ac))/2a).	数式を線形形式で入力してください (例: a^2+b^2=c^2、x=(-b±√(b^2-4ac))/2a)。
 	Type and organise the diagram's text	図表のテキストを入力して整理します
 	Type Text	テキストを入力
@@ -1696,7 +1995,10 @@ warp	Stop	ストップ
 	Uncover	アンカバー
 	Undo	元に戻す
 	Union	合体
+	Unlock {name}	{name} のロックを解除
+effect	Up	上方向
 	Update automatically	自動的に更新する
+	URL…	URL…
 	Use Destination Theme	貼り付け先のテーマを使用
 	Use Timings	タイミングを使用
 	Use timings, if present	設定済みのタイミングを使用する
@@ -1704,15 +2006,23 @@ warp	Stop	ストップ
 	Users	複数のユーザー
 	Variant Gallery	バリエーション ギャラリー
 	Variants	バリエーション
+direction	Vertical	縦書き
 effect	Vertical	垂直
+position	Vertical	垂直位置
+	Vertical (all characters upright)	縦書き (すべての文字を縦向き)
 	Vertical (in):	垂直位置 (インチ):
 	Vertical alignment	垂直方向の配置
 	Vertical Box List	縦方向ボックス リスト
 	Vertical Bullet List	縦方向箇条書きリスト
 	Vertical Figure 8	縦 8 の字
+	Vertical In	縦方向・内側へ
+	Vertical Out	縦方向・外側へ
 	Vertical Picture List	縦方向画像リスト
+	Vertical position must be a length	垂直位置には長さを入力してください
 	Vertical Process	縦方向ステップ
+	Vertical Text Box	縦書きテキスト ボックス
 	Vertical Title and Text	縦書きタイトルとテキスト
+position	Vertical:	垂直位置:
 	Very Loose	非常に広い
 	Very loose	非常に広い
 	Very Tight	非常に狭い
@@ -1721,6 +2031,7 @@ effect	Vertical	垂直
 	Video from File…	ファイルからのビデオ…
 	Volume	音量
 	Vortex	渦巻き
+	Warm matte	温かみのあるマット
 	Washout	ウォッシュアウト
 	Waterfall	ウォーターフォール
 	Wave	波
@@ -1742,8 +2053,10 @@ effect	Vertical	垂直
 	Widescreen (16:9)	ワイド画面 (16:9)
 	Width (in):	幅 (インチ):
 	Width (pixels):	幅 (ピクセル):
+	Width must be a length	幅には長さを入力してください
 	Width: 	幅: 
 	Width: enter {MIN_WIDTH} to {MAX_WIDTH} pixels	幅: {MIN_WIDTH}～{MAX_WIDTH} ピクセルの値を入力してください
+@msg	Width: enter {min} to {max} pixels	幅: {min}～{max} ピクセルの値を入力してください
 	Wind	風
 transition	Window	窓
 	Wipe	ワイプ
@@ -1751,6 +2064,7 @@ transition	Window	窓
 	With Previous	前の効果と同時
 	With:	置換後:
 	WordArt	ワードアート
+	WordArt style {n}	ワードアート スタイル {n}
 	WordArt Styles	ワードアートのスタイル
 transition	Words	単語
 	Wrap Text in Shape	図形内でテキストを折り返す
@@ -1767,22 +2081,60 @@ transition	Words	単語
 	Zoom to	倍率
 	Zoom…	ズーム…
 	{a} and {b}	{a} と {b}
+@msg	{a} and {b} aren't installed on this computer. Text that uses them is shown in a similar font.	{a} と {b} はこのコンピューターにインストールされていません。これらのフォントを使うテキストは、似たフォントで表示されます。
+@msg	{a} isn't installed on this computer. Text that uses it is shown in a similar font.	{a} はこのコンピューターにインストールされていません。このフォントを使うテキストは、似たフォントで表示されます。
 	{a}, {b} and {c}	{a}、{b}、{c}
+@msg	{a}, {b} and {c} aren't installed on this computer. Text that uses them is shown in a similar font.	{a}、{b}、{c} はこのコンピューターにインストールされていません。これらのフォントを使うテキストは、似たフォントで表示されます。
+@msg	{a}, {b}, {c} and {n} more aren't installed on this computer. Text that uses them is shown in a similar font.	{a}、{b}、{c} ほか {n} 個のフォントはこのコンピューターにインストールされていません。これらのフォントを使うテキストは、似たフォントで表示されます。
+	{bullet}  Bullet	{bullet}  箇条書き記号
 	{b} bytes	{b} バイト
 	{ch}  Bullet	{ch}  箇条書き記号
+	{color} hex	{color} (16 進数)
+	{cols}x{rows} Table	{cols} x {rows} の表
+	{distance} pt (centre)	{distance} pt (中央)
+	{distance} pt above centre	中央から上へ {distance} pt
+	{distance} pt below centre	中央から下へ {distance} pt
+	{distance} pt left of centre	中央から左へ {distance} pt
+	{distance} pt right of centre	中央から右へ {distance} pt
+	{effect} — {class}	{effect} ({class})
+	{f} (Asian Body)	{f} (本文・アジア文字)
+	{f} (Asian Headings)	{f} (見出し・アジア文字)
 	{f} (Body)	{f} (本文)
 	{f} (Headings)	{f} (見出し)
 	{kind_label} (click to change)	{kind_label} (クリックして変更)
 	{label} must be a number	{label} には数値を入力してください
+@msg	{label} needs a colour like #RRGGBB.	{label} には #RRGGBB 形式の色を指定してください。
+	{language}  (dictionary)	{language}  (辞書あり)
+	{language} (not checked)	{language} (チェック対象外)
 	{name}  (dictionary)	{name}  (辞書あり)
+	{name} ({count} slides)	{name} (スライド {count} 枚)
+	{name} list	{name} の一覧
+	{name} Slide Master	{name} スライド マスター
+@msg	{name} was not applied: the layout it was chosen for was deleted	{name} は適用されませんでした: 対象のレイアウトが削除されています
 	{name} was not applied: the presentation it was chosen for is closed	{name} は適用されませんでした: 対象のプレゼンテーションが閉じられています
+@msg	{name} was not applied: the presentation it was chosen for is closed	{name} は適用されませんでした: 対象のプレゼンテーションが閉じられています
+@msg	{name} was not applied: the slide it was chosen for was deleted	{name} は適用されませんでした: 対象のスライドが削除されています
+@msg	{name} was not applied: the slide master it was chosen for was deleted	{name} は適用されませんでした: 対象のスライド マスターが削除されています
+@msg	{name} was not applied: there was no slide to put it on	{name} は適用されませんでした: 配置先のスライドがありません
 	{name} was not applied: {e}	{name} は適用されませんでした: {e}
+@msg	{name} was not applied: {e}	{name} は適用されませんでした: {e}
 	{name}: DeckCraft can't open this kind of file	{name}: DeckCraft ではこの種類のファイルを開けません
+@msg	{name}: DeckCraft can't open this kind of file	{name}: DeckCraft ではこの種類のファイルを開けません
+	{n}  Hidden	{n}  非表示
+	{n} contributors · {commits} commits	貢献者 {n} 人 · コミット {commits} 件
+	{n} Slides	スライド {n} 枚
 	{n} slides per page	1 ページに {n} スライド
+	{page} of {count}	{page} / {count}
 	{path} — this file can't be found	{path} — このファイルが見つかりません
+@msg	{path}: reading the file stopped unexpectedly	{path}: ファイルの読み込みが予期せず中断されました
 	{r} pt glow	光彩 {r} pt
+	{size} KB	{size} KB
+	{size} MB	{size} MB
+	{size} pt glow	光彩 {size} pt
+	{title} — Edited	{title} — 編集済み
 	{when} · Resolved	{when} · 解決済み
 	“{from}” isn't used explicitly.	「{from}」は明示的には使用されていません。
+	“{name}” is not available yet.	「{name}」はまだ使用できません。
 	■ Stop	■ 停止
 	▶ Play All	▶ すべて再生
 	▶ Play From	▶ ここから再生
