@@ -296,7 +296,7 @@
 	Characters	字符
 	Characters (no spaces)	字符数（不计空格）
 	Characters (with spaces)	字符数（计空格）
-	Characters per line:	每行字数：
+	Characters per line:	每行字符数：
 	Chart	图表
 	Chart Design	图表设计
 	Chart Layouts	图表布局
@@ -535,7 +535,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	不朗读 Zotero、Mendeley 或 EndNote 的引文和参考文献
 	Dot dash	点划线
 	Dot-dash	点划线
-	Dot-dot-dash	双点划线
+	Dot-dot-dash	点点划线
 	Double	双线
 	Double Closing Quote	右双引号
 	Double Opening Quote	左双引号
@@ -2056,3 +2056,62 @@
 	{width} × {height} pixels	{width} × {height} 像素
 	{words} words	{words} 个字
 	“{text}” ({row}, {series}) isn't a number.	“{text}”（{row}，{series}）不是数字。
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	裁剪标记
+	Don't show again	不再显示
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	此文档使用了未安装的 Aptos 字体。换行和分页可能与 Word 不同。
+	Non-Asian words	非亚洲语言字数
+	Asian characters and Korean words	亚洲字符和朝鲜语单词
+	Get Aptos from Microsoft	从 Microsoft 获取 Aptos
+	Text boundaries	正文边框
+	Half-width	半角
+	Full-width	全角
+	Hiragana	平假名
+	Katakana	片假名
+	Asian Layout	中文版式
+	Horizontal in Vertical	纵横混排
+	Combine Characters	合并字符
+	Two Lines in One	双行合一
+	Adjust Width	调整宽度
+	Emphasis Mark	着重号
+	Emphasis mark:	着重号：
+	Underline style:	下划线线型:
+	Enclose in characters:	括号样式：
+	Fit in line	适应行宽
+	Current text width:	当前文字宽度：
+	New text width:	新文字宽度：
+	Select one to six characters.	请选择一到六个字符。
+	Dot	点
+	Comma	逗点
+	Under dot	下点
+	Horizontal in Vertical…	纵横混排…
+	Combine Characters…	合并字符…
+	Two Lines in One…	双行合一…
+	Adjust Width…	调整宽度…
+	Available formats:	可用格式:
+	Language:	语言:
+	Update automatically	自动更新
+	Match half/full-width forms	区分全/半角
+	Sounds like (Japanese)	同音(日语)
+	Kinsoku Characters	禁则字符
+	Text alignment:	文本对齐方式:
+	Baseline	基线
+	Snap to grid when document grid is defined	如果定义了文档网格，则对齐到网格
+	Automatically adjust right indent when document grid is defined	如果定义了文档网格，则自动调整右缩进
+	Text direction:	文字排列：
+	Specify line grid only	只指定行网格
+	Specify line and character grid	指定行和字符网格
+	Text snaps to character grid	文字对齐字符网格
+	Pitch:	跨度：
+	Use default pitch	使用默认跨度
+	Number format:	编号格式：
+	Include chapter number	包含章节号
+	Chapter starts with style:	章节起始样式：
+	Use separator:	使用分隔符：
+	Examples:	示例：
+	- (hyphen)	- (连字符)
+	. (period)	. (句点)
+	: (colon)	: (冒号)
+	— (em dash)	— (长划线)
+	– (en dash)	– (短划线)

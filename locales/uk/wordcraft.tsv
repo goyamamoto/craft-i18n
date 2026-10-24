@@ -537,7 +537,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Не читати цитати й бібліографії Zotero, Mendeley чи EndNote
 	Dot dash	Штрихпунктирна
 	Dot-dash	Штрихпунктирна
-	Dot-dot-dash	Штрихпунктирна з двома крапками
+	Dot-dot-dash	Штрих-крапка-крапка
 	Dotted	Пунктирна
 	Double	Подвійна
 	Double Closing Quote	Закривні подвійні лапки
@@ -1278,7 +1278,7 @@
 	Page image (*.png)	Зображення сторінки (*.png)
 	Page Movement	Переміщення сторінок
 	Page Number	Номер сторінки
-	Page Number Format	Формат номерів сторінок
+	Page Number Format	Формат номера сторінки
 	Page number style	Стиль номера сторінки
 	Page numbering	Нумерація сторінок
 	Page numbers at the right margin	Номери сторінок біля правого поля
@@ -2064,3 +2064,62 @@
 	{width} × {height} pixels	{width} × {height} пікс.
 	{words} words	Слів: {words}
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) — не число.
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	Мітки обрізання
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	У цьому документі використано шрифт Aptos, який не встановлено. Розриви рядків і сторінок можуть відрізнятися від Word.
+	Don't show again	Більше не показувати
+	Non-Asian words	Неазійські слова
+	Asian characters and Korean words	Азійські символи та корейські слова
+	Get Aptos from Microsoft	Завантажити Aptos від Microsoft
+	Text boundaries	Межі тексту
+	Half-width	Половинна ширина
+	Full-width	Повна ширина
+	Hiragana	Хірагана
+	Katakana	Катакана
+	Asian Layout	Азійське розмічення
+	Horizontal in Vertical	Горизонтально у вертикальному
+	Combine Characters	Об’єднати знаки
+	Two Lines in One	Два рядки в одному
+	Adjust Width	Налаштувати ширину
+	Emphasis Mark	Знак виділення
+	Emphasis mark:	Знак виділення:
+	Underline style:	Підкреслення:
+	Enclose in characters:	Узяти в знаки:
+	Fit in line	Вписати в рядок
+	Current text width:	Поточна ширина тексту:
+	New text width:	Нова ширина тексту:
+	Select one to six characters.	Виділіть від одного до шести знаків.
+	Dot	Крапка
+	Comma	Кома
+	Under dot	Крапка знизу
+	Horizontal in Vertical…	Горизонтально у вертикальному…
+	Combine Characters…	Об’єднати знаки…
+	Two Lines in One…	Два рядки в одному…
+	Adjust Width…	Налаштувати ширину…
+	Available formats:	Доступні формати:
+	Language:	Мова:
+	Update automatically	Оновлювати автоматично
+	Match half/full-width forms	Розрізняти півширинні та повноширинні форми
+	Sounds like (Japanese)	Вимовляється як (японська)
+	Kinsoku Characters	Символи кінсоку
+	Text alignment:	Вирівнювання тексту:
+	Baseline	Базова лінія
+	Snap to grid when document grid is defined	Прив'язати до сітки, якщо задано сітку документа
+	Automatically adjust right indent when document grid is defined	Автоматично підбирати правий відступ, якщо задано сітку документа
+	Text direction:	Напрямок тексту:
+	Specify line grid only	Лише сітка рядків
+	Specify line and character grid	Сітка рядків і знаків
+	Text snaps to character grid	Текст за сіткою знаків
+	Pitch:	Крок:
+	Use default pitch	Крок за замовчуванням
+	Number format:	Формат номера:
+	Include chapter number	Включити номер розділу
+	Chapter starts with style:	Починається зі стилю:
+	Use separator:	Розділювач:
+	Examples:	Приклади:
+	- (hyphen)	- (дефіс)
+	. (period)	. (крапка)
+	: (colon)	: (двокрапка)
+	— (em dash)	— (довге тире)
+	– (en dash)	– (коротке тире)

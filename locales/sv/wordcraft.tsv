@@ -1472,7 +1472,7 @@ template	Letter	Brev
 	Page image (*.png)	Sidbild (*.png)
 	Page Movement	Sidbläddring
 	Page Number	Sidnummer
-	Page Number Format	Format för sidnummer
+	Page Number Format	Sidnummerformat
 	Page number style	Sidnummerformat
 	Page numbering	Sidnumrering
 	Page numbers at the right margin	Sidnummer vid högermarginalen
@@ -2355,3 +2355,61 @@ preview	Title	Titel
 	✓ None	✓ Ingen
 	➕ New comment	➕ Ny kommentar
 	📂  Browse…	📂  Bläddra…
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	Skärmärken
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	Det här dokumentet använder teckensnittet Aptos, som inte är installerat. Rad- och sidbrytningar kan skilja sig från Word.
+	Don't show again	Visa inte igen
+	Non-Asian words	Icke-asiatiska ord
+	Asian characters and Korean words	Asiatiska tecken och koreanska ord
+	Get Aptos from Microsoft	Hämta Aptos från Microsoft
+	Text boundaries	Textgränser
+	Half-width	Halv bredd
+	Full-width	Full bredd
+	Hiragana	Hiragana
+	Katakana	Katakana
+	Asian Layout	Asiatisk layout
+	Horizontal in Vertical	Horisontellt i vertikalt
+	Combine Characters	Kombinera tecken
+	Two Lines in One	Två rader i en
+	Adjust Width	Justera bredd
+	Emphasis Mark	Betoningstecken
+	Emphasis mark:	Betoningstecken:
+	Underline style:	Understrykning:
+	Enclose in characters:	Omslut med tecken:
+	Fit in line	Anpassa till raden
+	Current text width:	Aktuell textbredd:
+	New text width:	Ny textbredd:
+	Select one to six characters.	Markera ett till sex tecken.
+	Comma	Kommatecken
+	Under dot	Punkt under
+	Horizontal in Vertical…	Horisontellt i vertikalt…
+	Combine Characters…	Kombinera tecken…
+	Two Lines in One…	Två rader i en…
+	Adjust Width…	Justera bredd…
+	Available formats:	Tillgängliga format:
+	Language:	Språk:
+	Update automatically	Uppdatera automatiskt
+	Match half/full-width forms	Matcha halv-/fullbreddsformer
+	Sounds like (Japanese)	Låter som (japanska)
+	Kinsoku Characters	Kinsoku-tecken
+	Text alignment:	Textjustering:
+	Baseline	Baslinje
+	Snap to grid when document grid is defined	Fäst mot rutnät när dokumentets rutnät är definierat
+	Automatically adjust right indent when document grid is defined	Justera höger indrag automatiskt när dokumentets rutnät är definierat
+	Text direction:	Textriktning:
+	Specify line grid only	Ange endast radrutnät
+	Specify line and character grid	Ange rad- och teckenrutnät
+	Text snaps to character grid	Fäst text mot teckenrutnätet
+	Pitch:	Delning:
+	Use default pitch	Använd standarddelning
+	Number format:	Talformat:
+	Include chapter number	Inkludera kapitelnummer
+	Chapter starts with style:	Kapitel börjar med formatmall:
+	Use separator:	Avgränsare:
+	Examples:	Exempel:
+	- (hyphen)	- (bindestreck)
+	. (period)	. (punkt)
+	: (colon)	: (kolon)
+	— (em dash)	— (långt tankstreck)
+	– (en dash)	– (tankstreck)

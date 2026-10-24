@@ -515,7 +515,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Ära loe ette Zotero, Mendeley ega EndNote'i viiteid ja allikaloendeid
 	Dot dash	Punktkriips
 	Dot-dash	Punkt-kriipsjoon
-	Dot-dot-dash	Punkt-punkt-kriipsjoon
+	Dot-dot-dash	Punkt-punkt-kriips
 	Double	Kahekordne
 	Double Closing Quote	Kahekordne lõpujutumärk
 	Double Opening Quote	Kahekordne algusjutumärk
@@ -1034,7 +1034,7 @@
 	More Symbols…	Rohkem sümboleid…
 	More tabs	Veel vahekaarte
 	More templates →	Veel malle →
-	More Underlines…	Rohkem allajooni…
+	More Underlines…	Veel allajoonimisi…
 	Move in Equation	Liigu võrrandis
 	Move or Resize	Teisalda või muuda suurust
 	Move Paragraph Down	Teisalda lõik alla
@@ -1984,3 +1984,62 @@
 	{width} × {height} pixels	{width} × {height} pikslit
 	{words} words	Sõnu: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) ei ole arv.
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	Lõikemärgid
+	Non-Asian words	Mitte-Aasia sõnad
+	Asian characters and Korean words	Aasia märgid ja korea sõnad
+	Don't show again	Ära enam näita
+	Get Aptos from Microsoft	Hangi Aptos Microsoftilt
+	Text boundaries	Tekstipiirid
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	See dokument kasutab fonti Aptos, mis pole installitud. Rea- ja leheküljepiirid võivad Wordist erineda.
+	Half-width	Poollaiusega
+	Full-width	Täislaiusega
+	Hiragana	Hiragana
+	Katakana	Katakana
+	Asian Layout	Aasia paigutus
+	Horizontal in Vertical	Horisontaalne vertikaalses
+	Combine Characters	Märkide ühendamine
+	Two Lines in One	Kaks rida ühes
+	Adjust Width	Laiuse kohandamine
+	Emphasis Mark	Rõhumärk
+	Emphasis mark:	Rõhumärk:
+	Underline style:	Allajoonimise laad:
+	Enclose in characters:	Ümbritse märkidega:
+	Fit in line	Mahuta reale
+	Current text width:	Teksti praegune laius:
+	New text width:	Teksti uus laius:
+	Select one to six characters.	Valige üks kuni kuus märki.
+	Dot	Punkt
+	Comma	Koma
+	Under dot	Punkt all
+	Horizontal in Vertical…	Horisontaalne vertikaalses…
+	Combine Characters…	Märkide ühendamine…
+	Two Lines in One…	Kaks rida ühes…
+	Adjust Width…	Laiuse kohandamine…
+	Available formats:	Saadaolevad vormingud:
+	Language:	Keel:
+	Update automatically	Värskenda automaatselt
+	Match half/full-width forms	Erista pool-/täislaiuses vorme
+	Sounds like (Japanese)	Kõlab nagu (jaapani)
+	Kinsoku Characters	Kinsoku märgid
+	Text alignment:	Teksti joondus:
+	Baseline	Baasjoon
+	Snap to grid when document grid is defined	Kinnita ruudustikule, kui dokumendi ruudustik on määratud
+	Automatically adjust right indent when document grid is defined	Kohanda paremtaanet automaatselt, kui dokumendi ruudustik on määratud
+	Text direction:	Teksti suund:
+	Specify line grid only	Määra ainult reavõrgustik
+	Specify line and character grid	Määra rea- ja märgivõrgustik
+	Text snaps to character grid	Tekst joondub märgivõrgustikule
+	Pitch:	Samm:
+	Use default pitch	Kasuta vaikesammu
+	Number format:	Numbrivorming:
+	Include chapter number	Kaasa peatüki number
+	Chapter starts with style:	Peatükk algab laadiga:
+	Use separator:	Eraldaja:
+	Examples:	Näited:
+	- (hyphen)	- (sidekriips)
+	. (period)	. (punkt)
+	: (colon)	: (koolon)
+	— (em dash)	— (pikk mõttekriips)
+	– (en dash)	– (mõttekriips)

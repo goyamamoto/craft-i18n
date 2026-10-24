@@ -452,7 +452,7 @@
 	Content Control Properties	Svojstva kontrole sadržaja
 	Contents can't be edited	Sadržaj se ne može uređivati
 	Context	Kontekst
-	Continue from previous section	Nastavi od prethodnog odjeljka
+	Continue from previous section	Nastavi iz prethodnog odjeljka
 	Continuous	Neprekinuto
 	Continuous numbering	Neprekinuto numeriranje
 	Contour Integral	Konturni integral
@@ -624,7 +624,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Zanemari citate i bibliografije iz programa Zotero, Mendeley ili EndNote
 	Dot dash	Točka crtica
 	Dot-dash	Točka-crtica
-	Dot-dot-dash	Točka-točka-crtica
+	Dot-dot-dash	Točka-točka-crta
 	Double	Dvostruko
 	Double Bar	Dvostruka okomita crta
 	Double Closing Quote	Dvostruki završni navodnik
@@ -1470,7 +1470,7 @@ template	Letter	Pismo
 	Page image (*.png)	Slika stranice (*.png)
 	Page Movement	Kretanje po stranicama
 	Page Number	Broj stranice
-	Page Number Format	Format broja stranice
+	Page Number Format	Oblik broja stranice
 	Page number style	Stil broja stranice
 	Page numbering	Numeriranje stranica
 	Page numbers at the right margin	Brojevi stranica na desnoj margini
@@ -2353,3 +2353,61 @@ preview	Title	Naslov
 	✓ None	✓ Nema
 	➕ New comment	➕ Novi komentar
 	📂  Browse…	📂  Pregledaj…
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	Oznake obrezivanja
+	Non-Asian words	Neazijske riječi
+	Asian characters and Korean words	Azijski znakovi i korejske riječi
+	Don't show again	Ne prikazuj ponovno
+	Get Aptos from Microsoft	Preuzmi Aptos od Microsofta
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	Ovaj dokument koristi font Aptos koji nije instaliran. Prijelomi redaka i stranica mogu se razlikovati od Worda.
+	Text boundaries	Granice teksta
+	Half-width	Polovična širina
+	Full-width	Puna širina
+	Hiragana	Hiragana
+	Katakana	Katakana
+	Asian Layout	Azijski raspored
+	Horizontal in Vertical	Vodoravno u okomitom
+	Combine Characters	Kombiniraj znakove
+	Two Lines in One	Dva retka u jednom
+	Adjust Width	Prilagodi širinu
+	Emphasis Mark	Oznaka naglaska
+	Emphasis mark:	Oznaka naglaska:
+	Underline style:	Stil podcrtavanja:
+	Enclose in characters:	Zatvori u znakove:
+	Fit in line	Prilagodi retku
+	Current text width:	Trenutna širina teksta:
+	New text width:	Nova širina teksta:
+	Select one to six characters.	Odaberite jedan do šest znakova.
+	Comma	Zarez
+	Under dot	Točka ispod
+	Horizontal in Vertical…	Vodoravno u okomitom…
+	Combine Characters…	Kombiniraj znakove…
+	Two Lines in One…	Dva retka u jednom…
+	Adjust Width…	Prilagodi širinu…
+	Available formats:	Dostupni formati:
+	Language:	Jezik:
+	Update automatically	Automatski ažuriraj
+	Match half/full-width forms	Razlikuj oblike polovične/pune širine
+	Sounds like (Japanese)	Zvuči kao (japanski)
+	Kinsoku Characters	Znakovi kinsoku
+	Text alignment:	Poravnanje teksta:
+	Baseline	Osnovna linija
+	Snap to grid when document grid is defined	Poravnaj s rešetkom kad je rešetka dokumenta definirana
+	Automatically adjust right indent when document grid is defined	Automatski prilagodi desnu uvlaku kad je rešetka dokumenta definirana
+	Text direction:	Smjer teksta:
+	Specify line grid only	Samo rešetka redaka
+	Specify line and character grid	Rešetka redaka i znakova
+	Text snaps to character grid	Tekst se poravnava s rešetkom znakova
+	Pitch:	Korak:
+	Use default pitch	Koristi zadani korak
+	Number format:	Oblik broja:
+	Include chapter number	Uključi broj poglavlja
+	Chapter starts with style:	Poglavlje počinje stilom:
+	Use separator:	Razdjelnik:
+	Examples:	Primjeri:
+	- (hyphen)	- (spojnica)
+	. (period)	. (točka)
+	: (colon)	: (dvotočka)
+	— (em dash)	— (dugačka crtica)
+	– (en dash)	– (crtica)

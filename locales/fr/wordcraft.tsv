@@ -464,7 +464,7 @@
 	Content Control Properties	Propriétés du contrôle de contenu
 	Contents can't be edited	Contenu non modifiable
 	Context	Contexte
-	Continue from previous section	Continuer depuis la section précédente
+	Continue from previous section	À la suite de la section précédente
 	Continuous	Continu
 	Continuous numbering	Numérotation continue
 	Contour Integral	Intégrale curviligne
@@ -641,7 +641,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Ne pas lire les citations et les bibliographies Zotero, Mendeley ou EndNote
 	Dot dash	Tiret-point
 	Dot-dash	Tiret-point
-	Dot-dot-dash	Tiret-point-point
+	Dot-dot-dash	Point-point-tiret
 	Double	Double
 	Double Bar	Double barre
 	Double Closing Quote	Guillemet double fermant
@@ -2410,3 +2410,62 @@ preview	Title	Titre
 	✓ None	✓ Aucun
 	➕ New comment	➕ Nouveau commentaire
 	📂  Browse…	📂  Parcourir…
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	Traits de coupe
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	Ce document utilise la police Aptos, qui n'est pas installée. Les sauts de ligne et de page peuvent différer de Word.
+	Don't show again	Ne plus afficher
+	Non-Asian words	Mots non asiatiques
+	Asian characters and Korean words	Caractères asiatiques et mots coréens
+	Get Aptos from Microsoft	Obtenir Aptos auprès de Microsoft
+	Text boundaries	Limites de texte
+	Half-width	Demi-chasse
+	Full-width	Pleine chasse
+	Hiragana	Hiragana
+	Katakana	Katakana
+	Asian Layout	Disposition asiatique
+	Horizontal in Vertical	Horizontal dans vertical
+	Combine Characters	Combiner les caractères
+	Two Lines in One	Deux lignes en une
+	Adjust Width	Ajuster la largeur
+	Emphasis Mark	Marque d’emphase
+	Emphasis mark:	Marque d’emphase :
+	Underline style:	Soulignement :
+	Enclose in characters:	Encadrer par des caractères :
+	Fit in line	Ajuster à la ligne
+	Current text width:	Largeur actuelle du texte :
+	New text width:	Nouvelle largeur du texte :
+	Select one to six characters.	Sélectionnez de un à six caractères.
+	Dot	Point
+	Comma	Virgule
+	Under dot	Point en dessous
+	Horizontal in Vertical…	Horizontal dans vertical…
+	Combine Characters…	Combiner les caractères…
+	Two Lines in One…	Deux lignes en une…
+	Adjust Width…	Ajuster la largeur…
+	Available formats:	Formats disponibles :
+	Language:	Langue :
+	Update automatically	Mettre à jour automatiquement
+	Match half/full-width forms	Respecter les formes demi-chasse/pleine chasse
+	Sounds like (Japanese)	Recherche phonétique (japonais)
+	Kinsoku Characters	Caractères kinsoku
+	Text alignment:	Alignement du texte :
+	Baseline	Ligne de base
+	Snap to grid when document grid is defined	Aligner sur la grille lorsque la grille du document est définie
+	Automatically adjust right indent when document grid is defined	Ajuster automatiquement le retrait droit lorsque la grille du document est définie
+	Text direction:	Orientation du texte :
+	Specify line grid only	Spécifier la grille de lignes seulement
+	Specify line and character grid	Spécifier la grille de lignes et de caractères
+	Text snaps to character grid	Aligner le texte sur la grille de caractères
+	Pitch:	Pas :
+	Use default pitch	Utiliser le pas par défaut
+	Number format:	Format de la numérotation :
+	Include chapter number	Inclure le numéro de chapitre
+	Chapter starts with style:	Style de début de chapitre :
+	Use separator:	Séparateur :
+	Examples:	Exemples :
+	- (hyphen)	- (trait d'union)
+	. (period)	. (point)
+	: (colon)	: (deux-points)
+	— (em dash)	— (tiret cadratin)
+	– (en dash)	– (tiret demi-cadratin)

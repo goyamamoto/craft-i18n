@@ -373,7 +373,7 @@
 	Content Control Properties	Svojstva kontrole sadržaja
 	Contents can't be edited	Sadržaj ne može da se uređuje
 	Context	Kontekst
-	Continue from previous section	Nastavi od prethodnog odeljka
+	Continue from previous section	Nastavi iz prethodnog odeljka
 	Continuous	Neprekidno
 	Continuous numbering	Neprekidna numeracija
 	Controls	Kontrole
@@ -1229,9 +1229,9 @@
 	Page image (*.png)	Slika strane (*.png)
 	Page Movement	Kretanje stranama
 	Page Number	Broj strane
-	Page Number Format	Format broja stranice
+	Page Number Format	Format broja strane
 	Page number style	Stil broja stranice
-	Page numbering	Numeracija stranica
+	Page numbering	Numerisanje strana
 	Page numbers at the right margin	Brojevi stranica uz desnu marginu
 	Page on which a bookmarked passage falls	Broj stranice obeleživača
 	Page Setup	Podešavanje strane
@@ -1999,3 +1999,62 @@
 	{width} × {height} pixels	{width} × {height} piksela
 	{words} words	{words} reči
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) nije broj.
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	Oznake za opsecanje
+	Don't show again	Ne prikazuj ponovo
+	Get Aptos from Microsoft	Preuzmi Aptos od Microsoft-a
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	Ovaj dokument koristi font Aptos koji nije instaliran. Prelomi redova i stranica mogu se razlikovati od Word-a.
+	Non-Asian words	Neazijske reči
+	Asian characters and Korean words	Azijski znakovi i korejske reči
+	Text boundaries	Granice teksta
+	Half-width	Polovična širina
+	Full-width	Puna širina
+	Hiragana	Hiragana
+	Katakana	Katakana
+	Asian Layout	Azijski raspored
+	Horizontal in Vertical	Horizontalno u vertikalnom
+	Combine Characters	Kombinuj znakove
+	Two Lines in One	Dva reda u jednom
+	Adjust Width	Podesi širinu
+	Emphasis Mark	Oznaka naglaska
+	Emphasis mark:	Oznaka naglaska:
+	Underline style:	Stil podvlačenja:
+	Enclose in characters:	Zatvori u znakove:
+	Fit in line	Uklopi u red
+	Current text width:	Trenutna širina teksta:
+	New text width:	Nova širina teksta:
+	Select one to six characters.	Izaberite jedan do šest znakova.
+	Dot	Tačka
+	Comma	Zarez
+	Under dot	Tačka ispod
+	Horizontal in Vertical…	Horizontalno u vertikalnom…
+	Combine Characters…	Kombinuj znakove…
+	Two Lines in One…	Dva reda u jednom…
+	Adjust Width…	Podesi širinu…
+	Available formats:	Dostupni formati:
+	Language:	Jezik:
+	Update automatically	Automatski ažuriraj
+	Match half/full-width forms	Razlikuj oblike polovične/pune širine
+	Sounds like (Japanese)	Zvuči kao (japanski)
+	Kinsoku Characters	Znakovi kinsoku
+	Text alignment:	Poravnanje teksta:
+	Baseline	Osnovna linija
+	Snap to grid when document grid is defined	Poravnaj sa mrežom kada je mreža dokumenta definisana
+	Automatically adjust right indent when document grid is defined	Automatski prilagodi desno uvlačenje kada je mreža dokumenta definisana
+	Text direction:	Smer teksta:
+	Specify line grid only	Samo mreža redova
+	Specify line and character grid	Mreža redova i znakova
+	Text snaps to character grid	Tekst se poravnava uz mrežu znakova
+	Pitch:	Korak:
+	Use default pitch	Koristi podrazumevani korak
+	Number format:	Format broja:
+	Include chapter number	Uključi broj poglavlja
+	Chapter starts with style:	Poglavlje počinje stilom:
+	Use separator:	Razdvajač:
+	Examples:	Primeri:
+	- (hyphen)	- (crtica)
+	. (period)	. (tačka)
+	: (colon)	: (dve tačke)
+	— (em dash)	— (duga crta)
+	– (en dash)	– (crta)

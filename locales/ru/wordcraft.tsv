@@ -450,7 +450,7 @@
 	Content Control Properties	Свойства элемента управления содержимым
 	Contents can't be edited	Содержимое нельзя изменять
 	Context	Контекст
-	Continue from previous section	Продолжить из предыдущего раздела
+	Continue from previous section	Продолжить предыдущий раздел
 	Continuous	Непрерывный
 	Continuous numbering	Сквозная нумерация
 	Contour Integral	Контурный интеграл
@@ -624,7 +624,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Не читать ссылки и списки литературы Zotero, Mendeley и EndNote
 	Dot dash	Штрихпунктир
 	Dot-dash	Штрихпунктирный
-	Dot-dot-dash	Штрихпунктирный с двумя точками
+	Dot-dot-dash	Штрих-точка-точка
 	Dots	Многоточия
 	Dotted	Точечный
 	Double	Двойной
@@ -1263,7 +1263,7 @@
 	More Symbols…	Другие символы…
 	More tabs	Другие вкладки
 	More templates →	Другие шаблоны →
-	More Underlines…	Другие подчёркивания…
+	More Underlines…	Другие подчеркивания…
 	Move in Equation	Перемещение в уравнении
 	Move or Resize	Переместить или изменить размер
 	Move Paragraph Down	Переместить абзац вниз
@@ -1469,7 +1469,7 @@
 	Page image (*.png)	Изображение страницы (*.png)
 	Page Movement	Перелистывание страниц
 	Page Number	Номер страницы
-	Page Number Format	Формат номеров страниц
+	Page Number Format	Формат номера страницы
 	Page number style	Стиль номеров страниц
 	Page numbering	Нумерация страниц
 	Page numbers at the right margin	Номера страниц по правому краю
@@ -2357,3 +2357,61 @@ preview	Title	Пример
 	{words} words	Слов: {words}
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) — не число.
 	✓ None	✓ Нет
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	Метки обрезки
+	Non-Asian words	Неазиатские слова
+	Asian characters and Korean words	Азиатские знаки и корейские слова
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	В этом документе используется шрифт Aptos, который не установлен. Разрывы строк и страниц могут отличаться от Word.
+	Don't show again	Больше не показывать
+	Get Aptos from Microsoft	Скачать Aptos у Microsoft
+	Text boundaries	Границы текста
+	Half-width	Половинная ширина
+	Full-width	Полная ширина
+	Hiragana	Хирагана
+	Katakana	Катакана
+	Asian Layout	Азиатская разметка
+	Horizontal in Vertical	Горизонтально в вертикальном
+	Combine Characters	Объединить знаки
+	Two Lines in One	Две строки в одной
+	Adjust Width	Настроить ширину
+	Emphasis Mark	Знак выделения
+	Emphasis mark:	Знак выделения:
+	Underline style:	Подчеркивание:
+	Enclose in characters:	Заключить в знаки:
+	Fit in line	Вписать в строку
+	Current text width:	Текущая ширина текста:
+	New text width:	Новая ширина текста:
+	Select one to six characters.	Выделите от одного до шести знаков.
+	Comma	Запятая
+	Under dot	Точка снизу
+	Horizontal in Vertical…	Горизонтально в вертикальном…
+	Combine Characters…	Объединить знаки…
+	Two Lines in One…	Две строки в одной…
+	Adjust Width…	Настроить ширину…
+	Available formats:	Доступные форматы:
+	Language:	Язык:
+	Update automatically	Обновлять автоматически
+	Match half/full-width forms	Различать полуширинные и полноширинные формы
+	Sounds like (Japanese)	Произносится как (японский)
+	Kinsoku Characters	Символы кинсоку
+	Text alignment:	Выравнивание текста:
+	Baseline	Базовая линия
+	Snap to grid when document grid is defined	Привязать к сетке, если задана сетка документа
+	Automatically adjust right indent when document grid is defined	Автоматически подбирать правый отступ, если задана сетка документа
+	Text direction:	Направление текста:
+	Specify line grid only	Только сетка строк
+	Specify line and character grid	Сетка строк и знаков
+	Text snaps to character grid	Текст по сетке знаков
+	Pitch:	Шаг:
+	Use default pitch	Шаг по умолчанию
+	Number format:	Формат номера:
+	Include chapter number	Включить номер главы
+	Chapter starts with style:	Начинается со стиля:
+	Use separator:	Разделитель:
+	Examples:	Примеры:
+	- (hyphen)	- (дефис)
+	. (period)	. (точка)
+	: (colon)	: (двоеточие)
+	— (em dash)	— (длинное тире)
+	– (en dash)	– (короткое тире)

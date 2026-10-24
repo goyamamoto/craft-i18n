@@ -626,7 +626,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Nečíst citace a bibliografie Zotero, Mendeley ani EndNote
 	Dot dash	Čerchované
 	Dot-dash	Čerchované
-	Dot-dot-dash	Dvojitě čerchované
+	Dot-dot-dash	Čerchovaná dvojitá
 	Dotted	Tečkované
 	Double	Dvojité
 	Double Bar	Dvojitá čára
@@ -1469,7 +1469,7 @@
 	Page image (*.png)	Obrázek stránky (*.png)
 	Page Movement	Pohyb stránek
 	Page Number	Číslo stránky
-	Page Number Format	Formát čísel stránek
+	Page Number Format	Formát čísla stránky
 	Page number style	Styl čísel stránek
 	Page numbering	Číslování stránek
 	Page numbers at the right margin	Čísla stránek u pravého okraje
@@ -2356,3 +2356,61 @@ preview	Title	Ukázka
 	✓ None	✓ Žádné
 	➕ New comment	➕ Nový komentář
 	📂  Browse…	📂  Procházet…
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	Ořezové značky
+	Non-Asian words	Neasijská slova
+	Asian characters and Korean words	Asijské znaky a korejská slova
+	Don't show again	Znovu nezobrazovat
+	Get Aptos from Microsoft	Získat Aptos od Microsoftu
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	Tento dokument používá písmo Aptos, které není nainstalováno. Zalomení řádků a stránek se může lišit od Wordu.
+	Text boundaries	Hranice textu
+	Half-width	Poloviční šířka
+	Full-width	Plná šířka
+	Hiragana	Hiragana
+	Katakana	Katakana
+	Asian Layout	Asijské rozložení
+	Horizontal in Vertical	Vodorovně ve svislém
+	Combine Characters	Sloučit znaky
+	Two Lines in One	Dva řádky v jednom
+	Adjust Width	Upravit šířku
+	Emphasis Mark	Zvýrazňovací značka
+	Emphasis mark:	Zvýrazňovací značka:
+	Underline style:	Styl podtržení:
+	Enclose in characters:	Uzavřít do znaků:
+	Fit in line	Přizpůsobit řádku
+	Current text width:	Aktuální šířka textu:
+	New text width:	Nová šířka textu:
+	Select one to six characters.	Vyberte jeden až šest znaků.
+	Comma	Čárka
+	Under dot	Tečka pod
+	Horizontal in Vertical…	Vodorovně ve svislém…
+	Combine Characters…	Sloučit znaky…
+	Two Lines in One…	Dva řádky v jednom…
+	Adjust Width…	Upravit šířku…
+	Available formats:	Dostupné formáty:
+	Language:	Jazyk:
+	Update automatically	Aktualizovat automaticky
+	Match half/full-width forms	Rozlišovat formy poloviční/plné šířky
+	Sounds like (Japanese)	Zní jako (japonština)
+	Kinsoku Characters	Znaky kinsoku
+	Text alignment:	Zarovnání textu:
+	Baseline	Účaří
+	Snap to grid when document grid is defined	Přichytit k mřížce, je-li definována mřížka dokumentu
+	Automatically adjust right indent when document grid is defined	Automaticky upravit pravé odsazení, je-li definována mřížka dokumentu
+	Text direction:	Směr textu:
+	Specify line grid only	Pouze mřížka řádků
+	Specify line and character grid	Mřížka řádků a znaků
+	Text snaps to character grid	Text přichytávat k mřížce znaků
+	Pitch:	Rozteč:
+	Use default pitch	Použít výchozí rozteč
+	Number format:	Formát čísel:
+	Include chapter number	Zahrnout číslo kapitoly
+	Chapter starts with style:	Kapitola začíná stylem:
+	Use separator:	Oddělovač:
+	Examples:	Příklady:
+	- (hyphen)	- (spojovník)
+	. (period)	. (tečka)
+	: (colon)	: (dvojtečka)
+	— (em dash)	— (dlouhá pomlčka)
+	– (en dash)	– (pomlčka)

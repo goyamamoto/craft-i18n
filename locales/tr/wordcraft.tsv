@@ -1458,7 +1458,7 @@
 	Page image (*.png)	Sayfa görüntüsü (*.png)
 	Page Movement	Sayfa Geçişi
 	Page Number	Sayfa Numarası
-	Page Number Format	Sayfa numarası biçimi
+	Page Number Format	Sayfa Numarası Biçimi
 	Page number style	Sayfa numarası stili
 	Page numbering	Sayfa numaralandırma
 	Page numbers at the right margin	Sayfa numaraları sağ kenar boşluğunda
@@ -2341,3 +2341,61 @@ preview	Title	Örnek
 	{words} words	{words} sözcük
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) bir sayı değil.
 	✓ None	✓ Yok
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	Kesim işaretleri
+	Non-Asian words	Asya dışı sözcükler
+	Asian characters and Korean words	Asya karakterleri ve Korece sözcükler
+	Don't show again	Bir daha gösterme
+	Get Aptos from Microsoft	Aptos'u Microsoft'tan edinin
+	Text boundaries	Metin sınırları
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	Bu belge yüklü olmayan Aptos yazı tipini kullanıyor. Satır ve sayfa sonları Word'den farklı olabilir.
+	Half-width	Yarım genişlik
+	Full-width	Tam genişlik
+	Hiragana	Hiragana
+	Katakana	Katakana
+	Asian Layout	Asya Düzeni
+	Horizontal in Vertical	Dikeyde Yatay
+	Combine Characters	Karakterleri Birleştir
+	Two Lines in One	Bir Satırda İki Satır
+	Adjust Width	Genişliği Ayarla
+	Emphasis Mark	Vurgu İşareti
+	Emphasis mark:	Vurgu işareti:
+	Underline style:	Alt çizgi stili:
+	Enclose in characters:	Karakterlerle çevrele:
+	Fit in line	Satıra sığdır
+	Current text width:	Geçerli metin genişliği:
+	New text width:	Yeni metin genişliği:
+	Select one to six characters.	Bir ila altı karakter seçin.
+	Comma	Virgül
+	Under dot	Alt nokta
+	Horizontal in Vertical…	Dikeyde Yatay…
+	Combine Characters…	Karakterleri Birleştir…
+	Two Lines in One…	Bir Satırda İki Satır…
+	Adjust Width…	Genişliği Ayarla…
+	Available formats:	Kullanılabilir biçimler:
+	Language:	Dil:
+	Update automatically	Otomatik güncelle
+	Match half/full-width forms	Yarım/tam genişlik biçimlerini eşleştir
+	Sounds like (Japanese)	Benzer sesli (Japonca)
+	Kinsoku Characters	Kinsoku karakterleri
+	Text alignment:	Metin hizalama:
+	Baseline	Taban çizgisi
+	Snap to grid when document grid is defined	Belge kılavuzu tanımlandığında kılavuza uydur
+	Automatically adjust right indent when document grid is defined	Belge kılavuzu tanımlandığında sağ girintiyi otomatik ayarla
+	Text direction:	Metin yönü:
+	Specify line grid only	Yalnızca satır ızgarasını belirt
+	Specify line and character grid	Satır ve karakter ızgarasını belirt
+	Text snaps to character grid	Metni karakter ızgarasına yasla
+	Pitch:	Aralık:
+	Use default pitch	Varsayılan aralığı kullan
+	Number format:	Sayı biçimi:
+	Include chapter number	Bölüm numarasını içer
+	Chapter starts with style:	Bölüm şu stille başlar:
+	Use separator:	Ayırıcı:
+	Examples:	Örnekler:
+	- (hyphen)	- (kısa çizgi)
+	. (period)	. (nokta)
+	: (colon)	: (iki nokta)
+	— (em dash)	— (uzun tire)
+	– (en dash)	– (orta tire)

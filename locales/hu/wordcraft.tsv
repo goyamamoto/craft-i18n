@@ -459,7 +459,7 @@
 	Content Control Properties	Tartalomvezérlő tulajdonságai
 	Contents can't be edited	A tartalom nem szerkeszthető
 	Context	Környezetfüggő
-	Continue from previous section	Folytatás az előző szakaszból
+	Continue from previous section	Folytatás az előző szakasztól
 	Continuous	Folyamatos
 	Continuous numbering	Folyamatos számozás
 	Contour Integral	Görbementi integrál
@@ -1488,7 +1488,7 @@
 	Page image (*.png)	Oldalkép (*.png)
 	Page Movement	Lapozás
 	Page Number	Oldalszám
-	Page Number Format	Oldalszám formátuma
+	Page Number Format	Oldalszámformátum
 	Page number style	Oldalszám stílusa
 	Page numbering	Oldalszámozás
 	Page numbers at the right margin	Oldalszámok a jobb margónál
@@ -2373,3 +2373,61 @@
 	✓ None	✓ Nincs
 	➕ New comment	➕ Új megjegyzés
 	📂  Browse…	📂  Tallózás…
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	Vágójelek
+	Non-Asian words	Nem ázsiai szavak
+	Asian characters and Korean words	Ázsiai karakterek és koreai szavak
+	Don't show again	Ne jelenjen meg többé
+	Get Aptos from Microsoft	Aptos letöltése a Microsofttól
+	Text boundaries	Szöveghatárok
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	Ez a dokumentum az Aptos betűtípust használja, amely nincs telepítve. A sor- és oldaltörések eltérhetnek a Wordtől.
+	Half-width	Félszélességű
+	Full-width	Teljes szélességű
+	Hiragana	Hiragana
+	Katakana	Katakana
+	Asian Layout	Ázsiai elrendezés
+	Horizontal in Vertical	Vízszintes a függőlegesben
+	Combine Characters	Karakterek egyesítése
+	Two Lines in One	Két sor egyben
+	Adjust Width	Szélesség igazítása
+	Emphasis Mark	Kiemelő jel
+	Emphasis mark:	Kiemelő jel:
+	Underline style:	Aláhúzás stílusa:
+	Enclose in characters:	Karakterek közé zárás:
+	Fit in line	Sorhoz igazítás
+	Current text width:	Jelenlegi szövegszélesség:
+	New text width:	Új szövegszélesség:
+	Select one to six characters.	Jelöljön ki egy–hat karaktert.
+	Comma	Vessző
+	Under dot	Pont alul
+	Horizontal in Vertical…	Vízszintes a függőlegesben…
+	Combine Characters…	Karakterek egyesítése…
+	Two Lines in One…	Két sor egyben…
+	Adjust Width…	Szélesség igazítása…
+	Available formats:	Elérhető formátumok:
+	Language:	Nyelv:
+	Update automatically	Automatikus frissítés
+	Match half/full-width forms	Fél/teljes szélességű alakok megkülönböztetése
+	Sounds like (Japanese)	Hasonló hangzású (japán)
+	Kinsoku Characters	Kinsoku karakterek
+	Text alignment:	Szövegigazítás:
+	Baseline	Alapvonal
+	Snap to grid when document grid is defined	Rácshoz igazítás, ha a dokumentumrács meg van adva
+	Automatically adjust right indent when document grid is defined	Jobb behúzás automatikus igazítása, ha a dokumentumrács meg van adva
+	Text direction:	Szövegirány:
+	Specify line grid only	Csak sorrács megadása
+	Specify line and character grid	Sor- és karakterrács megadása
+	Text snaps to character grid	Szöveg igazítása a karakterrácshoz
+	Pitch:	Osztásköz:
+	Use default pitch	Alapértelmezett osztásköz
+	Number format:	Számformátum:
+	Include chapter number	Fejezetszámmal
+	Chapter starts with style:	Fejezetkezdő stílus:
+	Use separator:	Elválasztó:
+	Examples:	Példák:
+	- (hyphen)	- (kötőjel)
+	. (period)	. (pont)
+	: (colon)	: (kettőspont)
+	— (em dash)	— (hosszú gondolatjel)
+	– (en dash)	– (gondolatjel)

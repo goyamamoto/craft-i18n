@@ -536,7 +536,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	不朗讀 Zotero、Mendeley 或 EndNote 的引文和參考文獻
 	Dot dash	點虛線
 	Dot-dash	點虛線
-	Dot-dot-dash	雙點虛線
+	Dot-dot-dash	點點劃線
 	Double	雙線
 	Double Closing Quote	右雙引號
 	Double Opening Quote	左雙引號
@@ -2049,3 +2049,64 @@
 	{width} × {height} pixels	{width} × {height} 像素
 	{words} words	{words} 個字
 	“{text}” ({row}, {series}) isn't a number.	「{text}」（{row}，{series}）不是數字。
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	裁切標記
+	Don't show again	不再顯示
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	此文件使用了未安裝的 Aptos 字型。換行與分頁可能與 Word 不同。
+	Non-Asian words	非亞洲語言字數
+	Asian characters and Korean words	亞洲字元和韓文字詞
+	Get Aptos from Microsoft	從 Microsoft 取得 Aptos
+	Text boundaries	文字邊界
+	Half-width	半形
+	Full-width	全形
+	Hiragana	平假名
+	Katakana	片假名
+	Asian Layout	亞洲方式配置
+	Horizontal in Vertical	橫向文字
+	Combine Characters	組排文字
+	Two Lines in One	並列文字
+	Adjust Width	調整寬度
+	Emphasis Mark	強調標記
+	Emphasis mark:	強調標記：
+	Underline style:	底線樣式:
+	Enclose in characters:	以字元括住：
+	Fit in line	符合行寬
+	Current text width:	目前文字寬度：
+	New text width:	新文字寬度：
+	Select one to six characters.	請選取一到六個字元。
+	Dot	點
+	Comma	逗點
+	Under dot	下點
+	Horizontal in Vertical…	橫向文字…
+	Combine Characters…	組排文字…
+	Two Lines in One…	並列文字…
+	Adjust Width…	調整寬度…
+	Available formats:	可用格式:
+	Language:	語言:
+	Update automatically	自動更新
+	Match half/full-width forms	區分全/半形
+	Sounds like (Japanese)	同音(日文)
+	Kinsoku Characters	禁則字元
+	Text alignment:	文字對齊方式:
+	Baseline	基線
+	Snap to grid when document grid is defined	若已定義文件格線，則貼齊格線
+	Automatically adjust right indent when document grid is defined	若已定義文件格線，則自動調整右縮排
+	Text direction:	文字方向：
+	Specify line grid only	只指定行格線
+	Specify line and character grid	指定行與字元格線
+	Text snaps to character grid	文字貼齊字元格線
+	Pitch:	間距：
+	Use default pitch	使用預設間距
+direction	Horizontal	橫書
+direction	Vertical	直書
+	Number format:	數字格式：
+	Include chapter number	包含章節編號
+	Chapter starts with style:	章節起始樣式：
+	Use separator:	使用分隔符號：
+	Examples:	範例：
+	- (hyphen)	- (連字號)
+	. (period)	. (句點)
+	: (colon)	: (冒號)
+	— (em dash)	— (長破折號)
+	– (en dash)	– (短破折號)

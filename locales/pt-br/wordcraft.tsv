@@ -2013,3 +2013,62 @@
 	{width} × {height} pixels	{width} × {height} pixels
 	{words} words	Palavras: {words}
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) não é um número.
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	Marcas de corte
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	Este documento usa a fonte Aptos, que não está instalada. As quebras de linha e de página podem ser diferentes do Word.
+	Don't show again	Não mostrar novamente
+	Non-Asian words	Palavras não asiáticas
+	Asian characters and Korean words	Caracteres asiáticos e palavras coreanas
+	Get Aptos from Microsoft	Obter o Aptos da Microsoft
+	Text boundaries	Limites de texto
+	Half-width	Meia largura
+	Full-width	Largura inteira
+	Hiragana	Hiragana
+	Katakana	Katakana
+	Asian Layout	Layout asiático
+	Horizontal in Vertical	Horizontal em vertical
+	Combine Characters	Combinar caracteres
+	Two Lines in One	Duas linhas em uma
+	Adjust Width	Ajustar largura
+	Emphasis Mark	Marca de ênfase
+	Emphasis mark:	Marca de ênfase:
+	Underline style:	Estilo de sublinhado:
+	Enclose in characters:	Delimitar com caracteres:
+	Fit in line	Ajustar à linha
+	Current text width:	Largura atual do texto:
+	New text width:	Nova largura do texto:
+	Select one to six characters.	Selecione de um a seis caracteres.
+	Dot	Ponto
+	Comma	Vírgula
+	Under dot	Ponto abaixo
+	Horizontal in Vertical…	Horizontal em vertical…
+	Combine Characters…	Combinar caracteres…
+	Two Lines in One…	Duas linhas em uma…
+	Adjust Width…	Ajustar largura…
+	Available formats:	Formatos disponíveis:
+	Language:	Idioma:
+	Update automatically	Atualizar automaticamente
+	Match half/full-width forms	Diferenciar formas de meia/largura total
+	Sounds like (Japanese)	Semelhante a (japonês)
+	Kinsoku Characters	Caracteres kinsoku
+	Text alignment:	Alinhamento do texto:
+	Baseline	Linha de base
+	Snap to grid when document grid is defined	Ajustar à grade quando a grade do documento for definida
+	Automatically adjust right indent when document grid is defined	Ajustar automaticamente o recuo direito quando a grade do documento for definida
+	Text direction:	Direção do texto:
+	Specify line grid only	Especificar somente grade de linhas
+	Specify line and character grid	Especificar grade de linhas e caracteres
+	Text snaps to character grid	Alinhar texto à grade de caracteres
+	Pitch:	Passo:
+	Use default pitch	Usar passo padrão
+	Number format:	Formato do número:
+	Include chapter number	Incluir número do capítulo
+	Chapter starts with style:	O capítulo começa com o estilo:
+	Use separator:	Usar separador:
+	Examples:	Exemplos:
+	- (hyphen)	- (hífen)
+	. (period)	. (ponto)
+	: (colon)	: (dois-pontos)
+	— (em dash)	— (travessão)
+	– (en dash)	– (meia-risca)

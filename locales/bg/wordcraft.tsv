@@ -1481,7 +1481,7 @@
 	Page image (*.png)	Изображение на страница (*.png)
 	Page Movement	Придвижване по страници
 	Page Number	Номер на страница
-	Page Number Format	Формат на номерата на страниците
+	Page Number Format	Формат на номера на страницата
 	Page number style	Стил на номерата на страници
 	Page numbering	Номериране на страниците
 	Page numbers at the right margin	Номера на страници в дясното поле
@@ -2369,3 +2369,61 @@
 	{words} words	Думи: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}“ ({row}, {series}) не е число.
 	✓ None	✓ Няма
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	Знаци за изрязване
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	Този документ използва шрифта Aptos, който не е инсталиран. Пренасянията на редове и страници може да се различават от Word.
+	Don't show again	Да не се показва отново
+	Non-Asian words	Неазиатски думи
+	Asian characters and Korean words	Азиатски знаци и корейски думи
+	Get Aptos from Microsoft	Изтегляне на Aptos от Microsoft
+	Text boundaries	Граници на текста
+	Half-width	Половин ширина
+	Full-width	Пълна ширина
+	Hiragana	Хирагана
+	Katakana	Катакана
+	Asian Layout	Азиатско оформление
+	Horizontal in Vertical	Хоризонтално във вертикално
+	Combine Characters	Комбиниране на знаци
+	Two Lines in One	Два реда в един
+	Adjust Width	Настройване на ширината
+	Emphasis Mark	Знак за акцент
+	Emphasis mark:	Знак за акцент:
+	Underline style:	Стил на подчертаване:
+	Enclose in characters:	Огради със знаци:
+	Fit in line	Побиране в реда
+	Current text width:	Текуща ширина на текста:
+	New text width:	Нова ширина на текста:
+	Select one to six characters.	Изберете от един до шест знака.
+	Comma	Запетая
+	Under dot	Точка отдолу
+	Horizontal in Vertical…	Хоризонтално във вертикално…
+	Combine Characters…	Комбиниране на знаци…
+	Two Lines in One…	Два реда в един…
+	Adjust Width…	Настройване на ширината…
+	Available formats:	Налични формати:
+	Language:	Език:
+	Update automatically	Автоматично обновяване
+	Match half/full-width forms	Различаване на форми с половин/пълна ширина
+	Sounds like (Japanese)	Звучи като (японски)
+	Kinsoku Characters	Знаци за kinsoku
+	Text alignment:	Подравняване на текста:
+	Baseline	Базова линия
+	Snap to grid when document grid is defined	Прилепване към мрежата, когато е зададена мрежа на документа
+	Automatically adjust right indent when document grid is defined	Автоматично регулиране на десния отстъп, когато е зададена мрежа на документа
+	Text direction:	Посока на текста:
+	Specify line grid only	Само мрежа от редове
+	Specify line and character grid	Мрежа от редове и знаци
+	Text snaps to character grid	Текстът се подравнява по мрежата от знаци
+	Pitch:	Стъпка:
+	Use default pitch	Стъпка по подразбиране
+	Number format:	Формат на числата:
+	Include chapter number	Включване на номера на главата
+	Chapter starts with style:	Главата започва със стил:
+	Use separator:	Разделител:
+	Examples:	Примери:
+	- (hyphen)	- (тире)
+	. (period)	. (точка)
+	: (colon)	: (двоеточие)
+	— (em dash)	— (дълго тире)
+	– (en dash)	– (късо тире)

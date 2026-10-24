@@ -383,7 +383,7 @@
 	Content Control Properties	Eigenschaften des Inhaltssteuerelements
 	Contents can't be edited	Inhalt kann nicht bearbeitet werden
 	Context	Kontext
-	Continue from previous section	Fortlaufend vom vorherigen Abschnitt
+	Continue from previous section	Fortsetzen vom vorherigen Abschnitt
 	Continuous	Fortlaufend
 	Continuous numbering	Fortlaufende Nummerierung
 	Controls	Steuerelemente
@@ -531,7 +531,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Zitate und Literaturverzeichnisse aus Zotero, Mendeley oder EndNote nicht vorlesen
 	Dot dash	Punkt-Strich
 	Dot-dash	Punkt-Strich
-	Dot-dot-dash	Punkt-Punkt-Strich
+	Dot-dot-dash	Strich-Punkt-Punkt
 	Double	Doppelt
 	Double Closing Quote	Doppeltes schließendes Anführungszeichen
 	Double Opening Quote	Doppeltes öffnendes Anführungszeichen
@@ -1258,9 +1258,9 @@
 	Page image (*.png)	Seitenbild (*.png)
 	Page Movement	Seitennavigation
 	Page Number	Seitenzahl
-	Page Number Format	Format der Seitenzahlen
+	Page Number Format	Seitenzahlenformat
 	Page number style	Seitenzahlformat
-	Page numbering	Seitenzahlen
+	Page numbering	Seitennummerierung
 	Page numbers at the right margin	Seitenzahlen am rechten Rand
 	Page on which a bookmarked passage falls	Seite, auf der eine mit Textmarke versehene Passage liegt
 	Page Setup	Seite einrichten
@@ -2038,3 +2038,62 @@
 	{width} × {height} pixels	{width} × {height} Pixel
 	{words} words	Wörter: {words}
 	“{text}” ({row}, {series}) isn't a number.	„{text}“ ({row}, {series}) ist keine Zahl.
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	Schnittmarken
+	Don't show again	Nicht mehr anzeigen
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	Dieses Dokument verwendet die Schriftart Aptos, die nicht installiert ist. Zeilen- und Seitenumbrüche können von Word abweichen.
+	Non-Asian words	Nicht-asiatische Wörter
+	Asian characters and Korean words	Asiatische Zeichen und koreanische Wörter
+	Get Aptos from Microsoft	Aptos bei Microsoft herunterladen
+	Text boundaries	Textbegrenzungen
+	Half-width	Halbe Breite
+	Full-width	Volle Breite
+	Hiragana	Hiragana
+	Katakana	Katakana
+	Asian Layout	Asiatisches Layout
+	Horizontal in Vertical	Horizontal in Vertikal
+	Combine Characters	Zeichen kombinieren
+	Two Lines in One	Zwei Zeilen in einer
+	Adjust Width	Breite anpassen
+	Emphasis Mark	Hervorhebungszeichen
+	Emphasis mark:	Hervorhebungszeichen:
+	Underline style:	Unterstreichung:
+	Enclose in characters:	In Zeichen einschließen:
+	Fit in line	An Zeile anpassen
+	Current text width:	Aktuelle Textbreite:
+	New text width:	Neue Textbreite:
+	Select one to six characters.	Wählen Sie ein bis sechs Zeichen aus.
+	Dot	Punkt
+	Comma	Komma
+	Under dot	Punkt unten
+	Horizontal in Vertical…	Horizontal in Vertikal…
+	Combine Characters…	Zeichen kombinieren…
+	Two Lines in One…	Zwei Zeilen in einer…
+	Adjust Width…	Breite anpassen…
+	Available formats:	Verfügbare Formate:
+	Language:	Sprache:
+	Update automatically	Automatisch aktualisieren
+	Match half/full-width forms	Halbbreite/vollbreite Formen unterscheiden
+	Sounds like (Japanese)	Ähnliche Schreibweise (Japanisch)
+	Kinsoku Characters	Kinsoku-Zeichen
+	Text alignment:	Textausrichtung:
+	Baseline	Grundlinie
+	Snap to grid when document grid is defined	Am Raster ausrichten, wenn ein Dokumentraster definiert ist
+	Automatically adjust right indent when document grid is defined	Rechten Einzug automatisch anpassen, wenn ein Dokumentraster definiert ist
+	Text direction:	Textrichtung:
+	Specify line grid only	Nur Zeilenraster festlegen
+	Specify line and character grid	Zeilen- und Zeichenraster festlegen
+	Text snaps to character grid	Text am Zeichenraster ausrichten
+	Pitch:	Abstand:
+	Use default pitch	Standardabstand verwenden
+	Number format:	Zahlenformat:
+	Include chapter number	Kapitelnummer einbeziehen
+	Chapter starts with style:	Kapitel beginnt mit Formatvorlage:
+	Use separator:	Trennzeichen:
+	Examples:	Beispiele:
+	- (hyphen)	- (Bindestrich)
+	. (period)	. (Punkt)
+	: (colon)	: (Doppelpunkt)
+	— (em dash)	— (Geviertstrich)
+	– (en dash)	– (Halbgeviertstrich)

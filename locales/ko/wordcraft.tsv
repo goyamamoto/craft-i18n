@@ -455,7 +455,7 @@
 	Content Control Properties	콘텐츠 컨트롤 속성
 	Contents can't be edited	내용을 편집할 수 없음
 	Context	상황에 맞게
-	Continue from previous section	이전 구역에서 계속
+	Continue from previous section	이전 구역에 이어서
 	Continuous	연속
 	Continuous numbering	연속 번호 매기기
 	Contour Integral	윤곽 적분
@@ -621,7 +621,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Zotero, Mendeley 또는 EndNote의 인용 및 참고 문헌을 읽지 않음
 	Dot dash	파선
 	Dot-dash	일점쇄선
-	Dot-dot-dash	이점쇄선
+	Dot-dot-dash	점-점-선
 	Double	이중선
 	Double Bar	이중 막대
 	Double Closing Quote	닫는 큰따옴표
@@ -2285,3 +2285,61 @@ preview	Title	제목
 	✓ None	✓ 없음
 	➕ New comment	➕ 새 메모
 	📂  Browse…	📂  찾아보기…
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	재단 표시
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	이 문서는 설치되지 않은 Aptos 글꼴을 사용합니다. 줄과 페이지 나누기가 Word와 다를 수 있습니다.
+	Don't show again	다시 표시 안 함
+	Non-Asian words	비아시아 단어 수
+	Asian characters and Korean words	아시아 문자 및 한국어 단어 수
+	Get Aptos from Microsoft	Microsoft에서 Aptos 받기
+	Text boundaries	텍스트 경계
+	Half-width	반자
+	Full-width	전자
+	Hiragana	히라가나
+	Katakana	가타카나
+	Asian Layout	아시아 레이아웃
+	Horizontal in Vertical	세로쓰기 가로 문자
+	Combine Characters	문자 모아쓰기
+	Two Lines in One	한 줄에 두 줄
+	Adjust Width	너비 조정
+	Emphasis Mark	강조점
+	Emphasis mark:	강조점:
+	Underline style:	밑줄 스타일:
+	Enclose in characters:	문자로 묶기:
+	Fit in line	줄에 맞춤
+	Current text width:	현재 텍스트 너비:
+	New text width:	새 텍스트 너비:
+	Select one to six characters.	1~6개의 문자를 선택하세요.
+	Comma	쉼표
+	Under dot	아래 점
+	Horizontal in Vertical…	세로쓰기 가로 문자…
+	Combine Characters…	문자 모아쓰기…
+	Two Lines in One…	한 줄에 두 줄…
+	Adjust Width…	너비 조정…
+	Available formats:	사용 가능한 형식:
+	Language:	언어:
+	Update automatically	자동으로 업데이트
+	Match half/full-width forms	전자/반자 구분
+	Sounds like (Japanese)	유사 발음(일본어)
+	Kinsoku Characters	금칙 문자
+	Text alignment:	텍스트 맞춤:
+	Baseline	기준선
+	Snap to grid when document grid is defined	문서 눈금이 정의된 경우 눈금에 맞춤
+	Automatically adjust right indent when document grid is defined	문서 눈금이 정의된 경우 오른쪽 들여쓰기 자동 조정
+	Text direction:	텍스트 방향:
+	Specify line grid only	줄 눈금만 지정
+	Specify line and character grid	줄 및 문자 눈금 지정
+	Text snaps to character grid	문자 눈금에 텍스트 맞춤
+	Pitch:	간격:
+	Use default pitch	기본 간격 사용
+	Number format:	번호 서식:
+	Include chapter number	장 번호 포함
+	Chapter starts with style:	장 시작 스타일:
+	Use separator:	구분 기호:
+	Examples:	예:
+	- (hyphen)	- (하이픈)
+	. (period)	. (마침표)
+	: (colon)	: (콜론)
+	— (em dash)	— (전각 대시)
+	– (en dash)	– (반각 대시)

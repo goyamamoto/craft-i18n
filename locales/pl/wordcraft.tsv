@@ -630,7 +630,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Nie czytaj cytatów ani bibliografii z Zotero, Mendeley i EndNote
 	Dot dash	Kreska-kropka
 	Dot-dash	Kreska-kropka
-	Dot-dot-dash	Kreska-kropka-kropka
+	Dot-dot-dash	Kropka-kropka-kreska
 	Dotted	Kropkowane
 	Double	Podwójne
 	Double Bar	Podwójna kreska nad znakiem
@@ -1498,9 +1498,9 @@
 	Page image (*.png)	Obraz strony (*.png)
 	Page Movement	Przewijanie stron
 	Page Number	Numer strony
-	Page Number Format	Format numerów stron
+	Page Number Format	Format numeru strony
 	Page number style	Styl numeru strony
-	Page numbering	Numeracja stron
+	Page numbering	Numerowanie stron
 	Page numbers at the right margin	Numery stron przy prawym marginesie
 	Page on which a bookmarked passage falls	Strona, na której znajduje się fragment oznaczony zakładką
 	Page Setup	Ustawienia strony
@@ -2394,3 +2394,61 @@ preview	Title	Tytuł
 	✓ None	✓ Brak
 	➕ New comment	➕ Nowy komentarz
 	📂  Browse…	📂  Przeglądaj…
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	Znaczniki cięcia
+	Non-Asian words	Słowa nieazjatyckie
+	Asian characters and Korean words	Znaki azjatyckie i słowa koreańskie
+	Don't show again	Nie pokazuj ponownie
+	Get Aptos from Microsoft	Pobierz Aptos od Microsoft
+	Text boundaries	Granice tekstu
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	Ten dokument używa czcionki Aptos, która nie jest zainstalowana. Podziały wierszy i stron mogą się różnić od programu Word.
+	Half-width	Połowa szerokości
+	Full-width	Pełna szerokość
+	Hiragana	Hiragana
+	Katakana	Katakana
+	Asian Layout	Układ azjatycki
+	Horizontal in Vertical	Poziomo w pionie
+	Combine Characters	Połącz znaki
+	Two Lines in One	Dwa wiersze w jednym
+	Adjust Width	Dopasuj szerokość
+	Emphasis Mark	Znak wyróżnienia
+	Emphasis mark:	Znak wyróżnienia:
+	Underline style:	Styl podkreślenia:
+	Enclose in characters:	Ujmij w znaki:
+	Fit in line	Dopasuj do wiersza
+	Current text width:	Bieżąca szerokość tekstu:
+	New text width:	Nowa szerokość tekstu:
+	Select one to six characters.	Zaznacz od jednego do sześciu znaków.
+	Comma	Przecinek
+	Under dot	Kropka pod
+	Horizontal in Vertical…	Poziomo w pionie…
+	Combine Characters…	Połącz znaki…
+	Two Lines in One…	Dwa wiersze w jednym…
+	Adjust Width…	Dopasuj szerokość…
+	Available formats:	Dostępne formaty:
+	Language:	Język:
+	Update automatically	Aktualizuj automatycznie
+	Match half/full-width forms	Rozróżniaj formy o połowie/pełnej szerokości
+	Sounds like (Japanese)	Brzmi jak (japoński)
+	Kinsoku Characters	Znaki kinsoku
+	Text alignment:	Wyrównanie tekstu:
+	Baseline	Linia bazowa
+	Snap to grid when document grid is defined	Przyciągaj do siatki, gdy zdefiniowano siatkę dokumentu
+	Automatically adjust right indent when document grid is defined	Automatycznie dopasuj wcięcie z prawej, gdy zdefiniowano siatkę dokumentu
+	Text direction:	Kierunek tekstu:
+	Specify line grid only	Określ tylko siatkę wierszy
+	Specify line and character grid	Określ siatkę wierszy i znaków
+	Text snaps to character grid	Przyciągaj tekst do siatki znaków
+	Pitch:	Odstęp:
+	Use default pitch	Użyj domyślnego odstępu
+	Number format:	Format liczb:
+	Include chapter number	Dołącz numer rozdziału
+	Chapter starts with style:	Rozdział zaczyna się od stylu:
+	Use separator:	Separator:
+	Examples:	Przykłady:
+	- (hyphen)	- (łącznik)
+	. (period)	. (kropka)
+	: (colon)	: (dwukropek)
+	— (em dash)	— (pauza)
+	– (en dash)	– (półpauza)

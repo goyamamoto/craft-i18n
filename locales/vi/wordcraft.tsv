@@ -641,7 +641,7 @@
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Không đọc trích dẫn và danh mục tham khảo do Zotero, Mendeley hoặc EndNote quản lý
 	Dot dash	Nét chấm gạch
 	Dot-dash	Nét chấm gạch
-	Dot-dot-dash	Nét chấm chấm gạch
+	Dot-dot-dash	Chấm-chấm-gạch
 	Dots	Các dấu chấm
 	Dotted	Nét chấm
 	Double	Nét đôi
@@ -1325,7 +1325,7 @@ template	Letter	Thư
 	More Symbols…	Thêm ký hiệu…
 	More tabs	Các tab khác
 	More templates →	Xem thêm mẫu →
-	More Underlines…	Kiểu gạch chân khác…
+	More Underlines…	Gạch dưới khác…
 	Move in Equation	Di chuyển trong phương trình
 	Move or Resize	Di chuyển hoặc đổi kích thước
 	Move Paragraph Down	Di chuyển đoạn xuống
@@ -2449,3 +2449,64 @@ template	Letter	Thư
 	✓ None	✓ Không có
 	➕ New comment	➕ Nhận xét mới
 	📂  Browse…	📂  Duyệt…
+
+# WordCraft-ja (goyamamoto/wordcraft ja/east-asian-text) rows not yet in craft-i18n
+	Crop marks	Dấu cắt xén
+	This document uses the Aptos font, which isn't installed. Lines and pages may break differently from Word.	Tài liệu này dùng phông Aptos, phông chưa được cài đặt. Ngắt dòng và ngắt trang có thể khác với Word.
+	Don't show again	Không hiển thị lại
+	Non-Asian words	Từ không phải châu Á
+	Asian characters and Korean words	Ký tự châu Á và từ tiếng Hàn
+	Get Aptos from Microsoft	Tải Aptos từ Microsoft
+	Text boundaries	Ranh giới văn bản
+	Half-width	Nửa độ rộng
+	Full-width	Toàn độ rộng
+	Hiragana	Hiragana
+	Katakana	Katakana
+	Asian Layout	Bố cục châu Á
+	Horizontal in Vertical	Ngang trong dọc
+	Combine Characters	Kết hợp ký tự
+	Two Lines in One	Hai dòng trong một
+	Adjust Width	Điều chỉnh độ rộng
+	Emphasis Mark	Dấu nhấn mạnh
+	Emphasis mark:	Dấu nhấn mạnh:
+	Underline style:	Kiểu gạch dưới:
+	Enclose in characters:	Bao trong ký tự:
+	Fit in line	Vừa trong dòng
+	Current text width:	Độ rộng văn bản hiện tại:
+	New text width:	Độ rộng văn bản mới:
+	Select one to six characters.	Chọn từ một đến sáu ký tự.
+	Comma	Dấu phẩy
+	Under dot	Chấm dưới
+	Horizontal in Vertical…	Ngang trong dọc…
+	Combine Characters…	Kết hợp ký tự…
+	Two Lines in One…	Hai dòng trong một…
+	Adjust Width…	Điều chỉnh độ rộng…
+	Available formats:	Định dạng có sẵn:
+	Language:	Ngôn ngữ:
+	Update automatically	Tự động cập nhật
+	Match half/full-width forms	Phân biệt dạng nửa/toàn độ rộng
+	Sounds like (Japanese)	Phát âm giống (tiếng Nhật)
+	Kinsoku Characters	Ký tự kinsoku
+	Text alignment:	Căn chỉnh văn bản:
+	Baseline	Đường cơ sở
+	Snap to grid when document grid is defined	Bám lưới khi lưới tài liệu được xác định
+	Automatically adjust right indent when document grid is defined	Tự động điều chỉnh thụt lề phải khi lưới tài liệu được xác định
+	Text direction:	Hướng văn bản:
+	Specify line grid only	Chỉ định lưới dòng
+	Specify line and character grid	Chỉ định lưới dòng và ký tự
+	Text snaps to character grid	Văn bản bám theo lưới ký tự
+	Pitch:	Bước:
+	Use default pitch	Dùng bước mặc định
+direction	Horizontal	Ngang
+direction	Vertical	Dọc
+lines	Pitch:	Bước:
+	Number format:	Định dạng số:
+	Include chapter number	Bao gồm số chương
+	Chapter starts with style:	Chương bắt đầu bằng kiểu:
+	Use separator:	Dấu phân cách:
+	Examples:	Ví dụ:
+	- (hyphen)	- (gạch nối)
+	. (period)	. (dấu chấm)
+	: (colon)	: (dấu hai chấm)
+	— (em dash)	— (gạch dài)
+	– (en dash)	– (gạch ngang)
