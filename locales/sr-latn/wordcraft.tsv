@@ -2058,3 +2058,8 @@
 	: (colon)	: (dve tačke)
 	— (em dash)	— (duga crta)
 	– (en dash)	– (crta)
+
+# WordCraft-ja (goyamamoto/wordcraft ja/fork-branding): the fork's About text
+	A free, open-source word processor written from scratch in Rust.\nA Japanese-enhanced build of WordCraft.	Besplatan program za obradu teksta otvorenog koda, napisan od nule u Rust-u.\nIzdanje WordCraft-a sa proširenom podrškom za japanski.
+	Source code: github.com/goyamamoto/wordcraft	Izvorni kod: github.com/goyamamoto/wordcraft
+	Upstream project: github.com/storytold/wordcraft	Izvorni projekat: github.com/storytold/wordcraft

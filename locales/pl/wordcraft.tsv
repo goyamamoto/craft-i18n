@@ -2452,3 +2452,8 @@ preview	Title	Tytuł
 	: (colon)	: (dwukropek)
 	— (em dash)	— (pauza)
 	– (en dash)	– (półpauza)
+
+# WordCraft-ja (goyamamoto/wordcraft ja/fork-branding): the fork's About text
+	A free, open-source word processor written from scratch in Rust.\nA Japanese-enhanced build of WordCraft.	Darmowy edytor tekstu o otwartym kodzie, napisany od podstaw w Ruście.\nWydanie WordCraft z rozszerzoną obsługą japońskiego.
+	Source code: github.com/goyamamoto/wordcraft	Kod źródłowy: github.com/goyamamoto/wordcraft
+	Upstream project: github.com/storytold/wordcraft	Projekt źródłowy: github.com/storytold/wordcraft

@@ -2072,3 +2072,8 @@
 	: (colon)	: (dois-pontos)
 	— (em dash)	— (travessão)
 	– (en dash)	– (meia-risca)
+
+# WordCraft-ja (goyamamoto/wordcraft ja/fork-branding): the fork's About text
+	A free, open-source word processor written from scratch in Rust.\nA Japanese-enhanced build of WordCraft.	Um processador de texto gratuito e de código aberto, escrito do zero em Rust.\nUma versão do WordCraft com suporte ampliado ao japonês.
+	Source code: github.com/goyamamoto/wordcraft	Código-fonte: github.com/goyamamoto/wordcraft
+	Upstream project: github.com/storytold/wordcraft	Projeto original: github.com/storytold/wordcraft

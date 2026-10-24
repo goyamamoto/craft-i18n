@@ -2399,3 +2399,8 @@ preview	Title	Örnek
 	: (colon)	: (iki nokta)
 	— (em dash)	— (uzun tire)
 	– (en dash)	– (orta tire)
+
+# WordCraft-ja (goyamamoto/wordcraft ja/fork-branding): the fork's About text
+	A free, open-source word processor written from scratch in Rust.\nA Japanese-enhanced build of WordCraft.	Rust ile sıfırdan yazılmış ücretsiz, açık kaynaklı bir kelime işlemci.\nWordCraft'ın Japonca desteği güçlendirilmiş sürümü.
+	Source code: github.com/goyamamoto/wordcraft	Kaynak kodu: github.com/goyamamoto/wordcraft
+	Upstream project: github.com/storytold/wordcraft	Ana proje: github.com/storytold/wordcraft

@@ -2043,3 +2043,8 @@
 	: (colon)	: (koolon)
 	— (em dash)	— (pikk mõttekriips)
 	– (en dash)	– (mõttekriips)
+
+# WordCraft-ja (goyamamoto/wordcraft ja/fork-branding): the fork's About text
+	A free, open-source word processor written from scratch in Rust.\nA Japanese-enhanced build of WordCraft.	Tasuta avatud lähtekoodiga tekstitöötlusprogramm, nullist Rustis kirjutatud.\nWordCrafti väljaanne laiendatud jaapani keele toega.
+	Source code: github.com/goyamamoto/wordcraft	Lähtekood: github.com/goyamamoto/wordcraft
+	Upstream project: github.com/storytold/wordcraft	Algne projekt: github.com/storytold/wordcraft

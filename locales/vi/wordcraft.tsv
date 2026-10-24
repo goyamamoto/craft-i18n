@@ -2510,3 +2510,8 @@ lines	Pitch:	Bước:
 	: (colon)	: (dấu hai chấm)
 	— (em dash)	— (gạch dài)
 	– (en dash)	– (gạch ngang)
+
+# WordCraft-ja (goyamamoto/wordcraft ja/fork-branding): the fork's About text
+	A free, open-source word processor written from scratch in Rust.\nA Japanese-enhanced build of WordCraft.	Trình soạn thảo văn bản miễn phí, mã nguồn mở, viết từ đầu bằng Rust.\nBản WordCraft tăng cường hỗ trợ tiếng Nhật.
+	Source code: github.com/goyamamoto/wordcraft	Mã nguồn: github.com/goyamamoto/wordcraft
+	Upstream project: github.com/storytold/wordcraft	Dự án gốc: github.com/storytold/wordcraft

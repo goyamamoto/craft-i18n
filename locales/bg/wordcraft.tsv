@@ -2427,3 +2427,8 @@
 	: (colon)	: (двоеточие)
 	— (em dash)	— (дълго тире)
 	– (en dash)	– (късо тире)
+
+# WordCraft-ja (goyamamoto/wordcraft ja/fork-branding): the fork's About text
+	A free, open-source word processor written from scratch in Rust.\nA Japanese-enhanced build of WordCraft.	Безплатен текстообработващ редактор с отворен код, написан от нулата на Rust.\nВерсия на WordCraft с разширена поддръжка на японски.
+	Source code: github.com/goyamamoto/wordcraft	Изходен код: github.com/goyamamoto/wordcraft
+	Upstream project: github.com/storytold/wordcraft	Основен проект: github.com/storytold/wordcraft
