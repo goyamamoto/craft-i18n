@@ -325,6 +325,7 @@ gradient	bottom right	右下
 	Briefing	ブリーフィング
 	Bright room	明るい部屋
 	Brightness {value}%	明るさ {value}%
+	Bring All to Front	すべてを手前に移動
 	Bring another window to the front	別のウィンドウを手前に表示
 	Bring Forward	前面へ移動
 	Bring to Front	最前面へ移動
@@ -933,6 +934,7 @@ reflection	Full	全体
 	Hide background graphics	背景のグラフィックを表示しない
 	Hide During Show	スライドショー中は非表示
 	Hide Slide	スライドを非表示
+	Hide {app}	{app} を隠す
 	Hide {name}	{name} を非表示
 	Hide\nSlide	スライドを\n非表示
 	Hierarchy	階層構造
@@ -1041,6 +1043,7 @@ position	Horizontal:	水平位置:
 	L-Shape	L 字形
 	Landscape Orientation	横向き
 	Language: {language}	言語: {language}
+	Language…	言語…
 	Large (1280 px wide)	大 (幅 1280 px)
 	Laser	レーザー
 	Last Column	最後の列
@@ -1472,6 +1475,7 @@ gradient	Path	パス
 	Quick Access Toolbar	クイック アクセス ツール バー
 	Quick Styles	クイック スタイル
 	Quick\nStyles	クイック\nスタイル
+	Quit {app}	{app} を終了
 	Radar	レーダー
 gradient	Radial	放射
 	Random Bars	ランダム バー
@@ -1796,6 +1800,7 @@ lineSpacing	Single	1 行
 	Speech Bubble: Rectangle with Corners Rounded	吹き出し: 角丸四角形
 	Spelling Dictionary	スペルチェック用辞書
 	Spelling is checked for languages marked (dictionary).	(辞書あり) と表示された言語はスペルチェックの対象です。
+	Spelling…	スペルチェック…
 	Spin	スピン
 	Spinner	スピナー
 	Spiral Left	左へらせん
@@ -1938,6 +1943,7 @@ warp	Stop	ストップ
 	There are no unsaved presentations to recover	回復できる未保存のプレゼンテーションはありません
 	there was no slide to put it on	配置先のスライドがありません
 	Thesaurus	類義語辞典
+	Thesaurus…	類義語辞典…
 	Thick Matte, Black	太いマット、黒
 	Thick Thin	太線/細線
 	Thin Thick	細線/太線
