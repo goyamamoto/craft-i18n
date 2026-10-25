@@ -418,6 +418,7 @@ transition	Characters	文字
 	Check	チェック
 	Check Accessibility	アクセシビリティ チェック
 	Check circle	丸付きチェック
+	Check Equation	数式を検査
 	Check for Issues	問題のチェック
 	Check\nAccessibility	アクセシビリティ\nチェック
 	Chevron	山形
@@ -718,7 +719,10 @@ effect	Down	下方向
 	Entrance	登場
 	Equals	等号
 	Equation	数式
+	Equation at Caret	カーソル位置の数式
 	Equation Shapes	数式図形
+	Equations you insert are listed here.	挿入した数式がここに並びます。
+	Equation…	数式…
 	Evening Talk	夜の講演
 	Exactly	固定値
 	Exciting	華やか
@@ -822,6 +826,7 @@ effect	Down	下方向
 	Format\nBackground	背景の\n書式設定
 	Format\nPane	書式設定\nウィンドウ
 	Formatting State	書式の状態
+	Fractions \frac{a}{b}, scripts x^2 y_i, roots \sqrt{x}, \sum_{i=1}^n, \left( \right), \begin{pmatrix}, Greek \alpha.	分数 \frac{a}{b}、上下付き x^2 y_i、根号 \sqrt{x}、\sum_{i=1}^n、\left( \right)、\begin{pmatrix}、ギリシャ文字 \alpha。
 	Fracture	破砕
 	Fragment	断片化
 	Frame shape	フレームの形状
@@ -1874,6 +1879,7 @@ warp	Stop	ストップ
 	Swivel	スイベル
 	Swoosh	スウッシュ
 	Symbols	記号と特殊文字
+	Symbol…	記号と特殊文字…
 	Tab stop position (in):	タブ位置 (インチ):
 	Tab stop position:	タブ位置:
 	Tab stops:	タブ位置:
@@ -2003,9 +2009,9 @@ gradient	top right	右上
 	Two Columns	2 段組み
 	Two Content	2 つのコンテンツ
 	Two pt	2 点照明
-	Type an equation in linear form (e.g. a^2+b^2=c^2, x=(-b±√(b^2-4ac))/2a).	数式を線形形式で入力してください (例: a^2+b^2=c^2、x=(-b±√(b^2-4ac))/2a)。
 	Type and organise the diagram's text	図表のテキストを入力して整理します
 	Type Text	テキストを入力
+	Type the equation in TeX; the preview follows as you type.	数式を TeX で入力してください。入力に合わせてプレビューが更新されます。
 	Type the text for the new text box	新しいテキスト ボックスに入れるテキストを入力してください
 	Type your text here	ここにテキストを入力
 	Uncover	アンカバー
