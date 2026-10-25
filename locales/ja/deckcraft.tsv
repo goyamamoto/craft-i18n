@@ -635,6 +635,7 @@ transition	Cut	カット
 	Discard Recovered Presentations	回復されたプレゼンテーションを破棄
 	Display drawing guides on screen	描画ガイドを画面に表示する
 	Display grid on screen	グリッドを画面に表示する
+	Display style	ディスプレイスタイル(別行立て)
 	Dissolve	ディゾルブ
 	Dissolve In	ディゾルブイン
 	Dissolve Out	ディゾルブアウト
