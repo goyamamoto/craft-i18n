@@ -826,7 +826,7 @@ effect	Down	下方向
 	Format\nBackground	背景の\n書式設定
 	Format\nPane	書式設定\nウィンドウ
 	Formatting State	書式の状態
-	Fractions \frac{a}{b}, scripts x^2 y_i, roots \sqrt{x}, \sum_{i=1}^n, \left( \right), \begin{pmatrix}, Greek \alpha.	分数 \frac{a}{b}、上下付き x^2 y_i、根号 \sqrt{x}、\sum_{i=1}^n、\left( \right)、\begin{pmatrix}、ギリシャ文字 \alpha。
+	Fractions \\frac{a}{b}, scripts x^2 y_i, roots \\sqrt{x}, \\sum_{i=1}^n, \\left( \\right), \\begin{pmatrix}, Greek \\alpha.	分数 \\frac{a}{b}、上下付き x^2 y_i、根号 \\sqrt{x}、\\sum_{i=1}^n、\\left( \\right)、\\begin{pmatrix}、ギリシャ文字 \\alpha。
 	Fracture	破砕
 	Fragment	断片化
 	Frame shape	フレームの形状
