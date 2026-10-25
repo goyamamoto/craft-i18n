@@ -53,6 +53,7 @@
 	[No Sound]	[サウンドなし]
 	[Stop Previous Sound]	[前のサウンドを停止]
 	A fixed copy that keeps its layout on any device	どのデバイスでもレイアウトが変わらない固定形式のコピー
+	A Japanese-enhanced build of DeckCraft.	DeckCraft の日本語強化版です。
 	A photo album holds at most 48 pictures or text boxes	フォト アルバムに追加できる画像とテキスト ボックスは合わせて 48 個までです
 	A public talk the audience can check on the way home	聴衆が帰り道に確かめられる一般向けの講演
 	A report meant to be read aloud in half an hour	30 分で読み上げるための報告
@@ -2021,6 +2022,7 @@ gradient	top right	右上
 	Unlock {name}	{name} のロックを解除
 effect	Up	上方向
 	Update automatically	自動的に更新する
+	Upstream DeckCraft on GitHub	GitHub の本家 DeckCraft
 	URL…	URL…
 	Use Destination Theme	貼り付け先のテーマを使用
 	Use Timings	タイミングを使用
