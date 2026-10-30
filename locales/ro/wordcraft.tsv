@@ -124,6 +124,9 @@
 	Advanced Find…	Căutare avansată…
 	After:	După:
 	Agents	Agenți
+	Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not.	Agenții conectați la WordCraft vă pot afișa mesaje prin Asistent. Dacă le dezactivați mesajele, li se spune că preferați să nu fiți deranjat.
+	Ah, Latin. The language of deadlines.	Ah, latina. Limba maternă a termenelor-limită.
+	Ah, the editing phase. My favourite. Very decisive.	Ah, etapa de revizuire. Preferata mea. Foarte hotărâtă.
 	Align	Aliniere
 	Align Bottom Center	Aliniere jos la centru
 	Align Bottom Left	Aliniere jos la stânga
@@ -147,6 +150,7 @@
 	All Caps	Toate majusculele
 	All caps	Toate majusculele
 	All Commands	Toate comenzile
+	All documents based on the Normal template?	Toate documentele bazate pe șablonul „Normală”?
 	All files	Toate fișierele
 	All Fonts	Toate fonturile
 	All Levels	Toate nivelurile
@@ -165,6 +169,7 @@
 	Alt Text Pane	Panou text alternativ
 	Alt:	Alt:
 	Alt\nText	Text\nalternativ
+	an agent	un agent
 	And	Și
 	Angle	Unghi
 	Angle Brackets	Paranteze unghiulare
@@ -176,6 +181,7 @@
 	Annotation Reference	Referință la adnotare
 	Annotation Subject	Subiectul adnotării
 	Annotation Text	Textul adnotării
+	Annoying	Enervant
 	Another file	Alt fișier
 	Any Character	Orice caracter
 	Any Digit	Orice cifră
@@ -209,6 +215,8 @@
 	Asian text font:	Font pentru textul asiatic:
 	Asian Typography	Tipografie asiatică
 	Assign	Atribuie
+	Assistant	Asistent
+	Assistant Suggestions	Sugestii de la Asistent
 	At least	Cel puțin
 	At least {n}	Cel puțin {n}
 	Atelier	Atelier
@@ -288,6 +296,7 @@
 	Body Text	Corp de text
 	Body text in a short paragraph to show spacing.	Text de corp într-un paragraf scurt, pentru a arăta spațierea.
 	Bold	Aldin
+	Bold choice. Ctrl+Z is right there if you need it.	Alegere curajoasă. Ctrl+Z e chiar aici, dacă aveți nevoie de el.
 	Book	Carte
 	Book Title	Titlul cărții
 	Book title	Titlul cărții
@@ -332,6 +341,7 @@
 	By author	După autor
 	Calendar	Calendar
 	Can't be deleted	Nu poate fi șters
+	Can't find a command? Press {key} and type what you want to do.	Nu găsiți o comandă? Apăsați {key} și tastați ce doriți să faceți.
 	can't split at the first row	nu se poate împărți la primul rând
 	Cancel	Anulare
 	Canvas Member	Membru al canvasului
@@ -345,6 +355,7 @@
 	Caption text	Text legendă
 	Caption:	Legendă:
 	Captions	Legende
+	Careful, any further back and we'll undo the invention of paper.	Atenție, încă un pas înapoi și anulăm inventarea hârtiei.
 	Caret Character	Caracterul accent circumflex (^)
 	Case changes	Schimbări de majuscule
 	Cases (Three Conditions)	Cazuri (trei condiții)
@@ -639,6 +650,7 @@
 	Decrease Indent	Micșorare indent
 	Deep	Adânc
 	Default	Implicit
+	Default formatting	Formatare implicită
 	Default Paragraph Font	Font implicit pentru paragraf
 	Default tab stops:	Opriri de tabulator implicite:
 	Define New Bullet	Definire marcator nou
@@ -647,6 +659,7 @@
 	Define New Number Format	Definire format de numerotare nou
 	Deflate	Deflate
 	Delete	Ștergere
+	Delete Around Caret in Equation	Ștergere în jurul cursorului în ecuație
 	Delete Back in Equation	Ștergere înapoi în ecuație
 	Delete Bookmark	Ștergere marcaj
 	Delete Cells	Ștergere celule
@@ -737,6 +750,7 @@
 	Don't hyphenate	Nu silabisi
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Nu citi citările și bibliografiile Zotero, Mendeley sau EndNote
 	Don't Save	Nu salva
+	Don't show me this tip again	Nu mai afișa acest sfat
 	Dot	Punct
 	Dot dash	Punct-linie
 	Dot-dash	Punct-linie
@@ -898,6 +912,7 @@
 	Extend Selection	Extindere selecție
 	Extend Selection by Units	Extindere selecție pe unități
 	Extra space	Spațiu suplimentar
+	Faster: {command} is {key} on the keyboard.	Mai repede: pentru {command} apăsați {key} pe tastatură.
 	Field	Câmp
 	Field code:	Cod de câmp:
 	Field Codes	Coduri de câmp
@@ -988,6 +1003,7 @@
 	Formatting at Selection	Formatare la selecție
 	Formatting exceptions	Excepții de formatare
 	Formatting marks	Semne de formatare
+	Formatting saved for new documents:	Formatare salvată pentru documentele noi:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Se compară formatarea, schimbările de majuscule, spațiile albe și tabelele; celelalte setări sunt păstrate pentru mai târziu.
 	Formula	Formulă
 	Formula:	Formulă:
@@ -1002,11 +1018,13 @@
 	From Top Left Corner	Din colțul din stânga sus
 	From Top Right Corner	Din colțul din dreapta sus
 	from Unicode (hex)	din Unicode (hex)
+	From {name}	De la {name}
 	From:	De la:
 	Full page of the same label	Pagină întreagă cu aceeași etichetă
 	Full Screen	Ecran complet
 	Full Screen View	Vizualizare ecran complet
 	Full\nScreen	Ecran\nîntreg
+	Fun fact: a blank page is just a draft that hasn't been told yet.	Știați că? O pagină goală e doar o ciornă căreia nu i-a spus nimeni încă.
 	Function	Funcție
 	Functions	Funcții
 	Gallery	Galerie
@@ -1024,6 +1042,7 @@
 	Go to Record	Salt la înregistrare
 	Go to what:	Salt la ce:
 	Go To…	Salt la…
+	Gone! Like it was never written. Mostly because it now wasn't.	Dispărut! Ca și cum n-ar fi fost scris niciodată. Mai ales pentru că acum chiar n-a fost.
 	Good afternoon	Bună ziua
 	Good evening	Bună seara
 	Good morning	Bună dimineața
@@ -1076,9 +1095,11 @@
 	Height:	Înălțime:
 	Help	Ajutor
 	Hex:	Hex:
+	Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?	Bună! Sunt Nib, asistentul dumneavoastră de scriere. Ofer sfaturi, comenzi rapide și, din când în când, o părere necerută. Să rămân prin preajmă?
 	Hidden	Ascuns
 	Hidden bookmarks	Marcaje ascunse
 	Hidden text	Text ascuns
+	Hide	Ascundere
 	Hide Codes	Ascundere coduri
 	Hide from style lists	Ascunde din listele de stiluri
 	Hide Ink	Ascundere cerneală
@@ -1117,6 +1138,8 @@
 	Hyphenation zone:	Zonă de silabisire:
 	Hyphens (--) as dashes (—)	Cratime (--) ca linii de pauză (—)
 	Hypotenuse	Ipotenuză
+	I promise it's saved. I checked. Twice.	Promit că e salvat. Am verificat. De două ori.
+	I'd write something myself, but I'm all nib and no ink.	Aș scrie și eu ceva, dar sunt numai peniță și niciun strop de cerneală.
 	I, II, III, …	I, II, III, …
 	i, ii, iii, …	i, ii, iii, …
 	Icon Color	Culoare pictogramă
@@ -1260,6 +1283,7 @@
 	ISO 690 (author-date)	ISO 690 (autor-dată)
 	ISO 690 (numerical)	ISO 690 (numeric)
 	Issue	Număr (publicație)
+	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	Se pare că scrieți o scrisoare. Doriți un plic pentru ea sau un șablon de scrisoare de la care să porniți?
 	Italian	Italiană
 	Italic	Cursiv
 	Japanese	Japoneză
@@ -1272,6 +1296,7 @@
 	Justify	Aliniere stânga-dreapta
 	Keep Lines Together	Păstrare rânduri împreună
 	Keep lines together	Păstrați rândurile împreună
+	Keep me around	Rămâi prin preajmă
 	Keep Text Only	Păstrare doar text
 	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	Păstrați parola într-un loc sigur: fără ea nimeni, nici măcar WordCraft, nu poate deschide documentul. Lăsați ambele casete goale pentru a elimina parola.
 	Keep with Next	Păstrare cu următorul
@@ -1337,6 +1362,7 @@
 template	Letter	Scrisoare
 	Letter   8.50" × 11.00"	Letter   8,50" × 11,00"
 	Letter headings	Titluri cu litere
+	Letter template	Șablon de scrisoare
 	Letter-Like Symbols	Simboluri asemănătoare literelor
 	Letters	Litere
 	Level 1	Nivelul 1
@@ -1427,6 +1453,7 @@ template	Letter	Scrisoare
 	Logical AND with Limits	ȘI logic cu limite
 	Logical OR	SAU logic
 	Logical OR with Limits	SAU logic cu limite
+	Lorem ipsum: because the real words are still at the café.	Lorem ipsum: pentru că adevăratele cuvinte sunt încă la cafenea.
 	lowercase	minuscule
 	Lum:	Lum:
 	Macros	Macrocomenzi
@@ -1529,6 +1556,7 @@ template	Letter	Scrisoare
 	Multilevel List	Listă pe mai multe niveluri
 	Multilevel List Library	Bibliotecă de liste pe mai multe niveluri
 	Multiple Pages	Mai multe pagini
+	Mute agent messages	Dezactivare mesaje de la agenți
 	My list has	Lista mea are
 	Name	Nume
 	Name (A–Z)	Nume (A–Z)
@@ -1546,6 +1574,14 @@ template	Letter	Scrisoare
 	New comments and tracked changes are recorded under this name and these initials.	Comentariile noi și modificările urmărite sunt înregistrate sub acest nume și aceste inițiale.
 	New Document	Document nou
 	New document	Document nou
+	New Documents Based on This Template	Documente noi bazate pe acest șablon
+	New documents based on this template	Documente noi bazate pe acest șablon
+	New documents will use this font.	Documentele noi vor folosi acest font.
+	New documents will use this page setup.	Documentele noi vor folosi această configurare a paginii.
+	New documents will use this paragraph formatting.	Documentele noi vor folosi această formatare a paragrafului.
+	New documents will use this style.	Documentele noi vor folosi acest stil.
+	New documents will use WordCraft's built-in formatting.	Documentele noi vor folosi formatarea încorporată a WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Documentele noi vor folosi formatarea încorporată a WordCraft. Setările implicite salvate nu vor mai putea fi recuperate. Resetați?
 	New Drawing Canvas	Canvas de desen nou
 	New Entry	Intrare nouă
 	New from Template	Nou din șablon
@@ -1573,6 +1609,8 @@ template	Letter	Scrisoare
 	Next Section	Secțiunea următoare
 	Next Sentence	Propoziția următoare
 	Next sentence	Propoziția următoare
+	Nib floats over the window with tips and the occasional remark.	Nib plutește deasupra ferestrei cu sfaturi și câte o remarcă din când în când.
+	Nib, your assistant. Drag to move; right-click for options.	Nib, asistentul dumneavoastră. Trageți pentru a muta; clic dreapta pentru opțiuni.
 	No	Nu
 	No accessibility issues found.	Nu s-au găsit probleme de accesibilitate.
 	No Border	Fără bordură
@@ -1626,6 +1664,7 @@ template	Letter	Scrisoare
 	not editing an equation	nu editați o ecuație
 	Not equal to	Diferit de
 	Not linked: click a text box	Nelegat: fă clic pe o casetă de text
+	Not now	Nu acum
 	Not saved	Nesalvat
 	Not saved yet	Încă nesalvat
 	Not set	Nesetat
@@ -1690,6 +1729,7 @@ template	Letter	Scrisoare
 	Only for the selected text	Doar pentru textul selectat
 	Only form fields can be filled in.	Se pot completa doar câmpurile de formular.
 	only in Outline view	doar în vizualizarea Schiță
+	Only in this document	Doar în acest document
 	Only the allowed styles can be applied.	Se pot aplica doar stilurile permise.
 	Only web (http, https) and email (mailto) links can be followed	Se pot urma doar linkurile web (http, https) și de e-mail (mailto)
 	Open	Deschidere
@@ -2012,9 +2052,11 @@ template	Letter	Scrisoare
 	Reset All…	Resetare totală…
 	Reset Character Formatting	Resetare formatare caractere
 	Reset Crop	Resetare decupare
+	Reset Default Formatting	Resetare formatare implicită
 	Reset Graphic	Resetare grafică
 	Reset Paragraph Formatting	Resetare formatare paragraf
 	Reset Picture	Resetare imagine
+	Reset tips	Resetare sfaturi
 	Reset to Normal	Resetare la Normal
 	Reset\nGraphic	Resetare\ngrafică
 	Reset…	Resetare…
@@ -2038,6 +2080,7 @@ template	Letter	Scrisoare
 	Reviewing — edits become suggestions	Revizuire - modificările devin sugestii
 	Revised document	Document revizuit
 	Rewind	Derulare înapoi
+	Rewinding. Tell me when to stop.	Derulez înapoi. Spuneți-mi când să mă opresc.
 	Ribbon	Panglică
 	Ribbon and Quick Access Toolbar:	Panglică și bară de acces rapid:
 	Ribbon tabs	File din panglică
@@ -2061,6 +2104,7 @@ template	Letter	Scrisoare
 	Right:	Dreapta:
 	Rightwards Arrow Above	Săgeată spre dreapta deasupra
 	Rightwards Harpoon Above	Harpon spre dreapta deasupra
+	Romanian	Română
 	Roots of ax²+bx+c	Rădăcinile lui ax²+bx+c
 	Rotate	Rotire
 	Rotate all text 270°	Rotește tot textul cu 270°
@@ -2092,8 +2136,11 @@ template	Letter	Scrisoare
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Salvați documentul pentru a activa salvarea automată (un fișier pe care l-ați doar deschis nu este rescris până nu îl salvați)
 	Save these pages as PDF…	Salvați aceste pagini ca PDF…
 	Saved	Salvat
+	Saved. Saved again. Still saved. It's very saved.	Salvat. Salvat din nou. Tot salvat. E foarte salvat.
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Salvează un șablon .dotx în folderul de șabloane. Apare în Fișier › Nou, la Personale.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Salvarea fișierului {name} a fost anulată, deci rămâne deschis și nu s-a pierdut nimic.
+	Sayings	Replici
+	Sayings:	Replici:
 	Scale	Scară
 	Scale Drawing	Desen la scară
 	Scatter	Dispersie
@@ -2175,6 +2222,9 @@ template	Letter	Scrisoare
 	Set	Setare
 	Set As Default	Setare ca implicit
 	Set as Default	Setare ca implicit
+	Set As Default (Font)	Setare ca implicit (Font)
+	Set As Default (Page Setup)	Setare ca implicit (Configurare pagină)
+	Set As Default (Paragraph)	Setare ca implicit (Paragraf)
 	Set Caret	Setare cursor
 	Set Character Formatting	Setare formatare caractere
 	Set Date	Setare dată
@@ -2232,13 +2282,16 @@ template	Letter	Scrisoare
 	Show revisions in balloons	Afișați revizuirile în baloane
 	Show rulers	Afișați riglele
 	Show Text Formatting	Afișare formatare text
+	Show the Assistant	Afișare Asistent
 	Show the community button in the title bar	Afișați butonul comunității în bara de titlu
 	Show the equation in the line of text	Afișați ecuația în rândul de text
 	Show the equation on a line of its own	Afișați ecuația pe un rând separat
 	Show the mini toolbar when text is selected	Afișați mini-bara de instrumente când este selectat text
 	Show the ribbon	Afișare panglică
 	Show the Start screen when WordCraft starts	Afișați ecranul de start când pornește WordCraft
+	Show the tips you asked not to see again.	Afișează din nou sfaturile pe care ați cerut să nu le mai vedeți.
 	Show/Hide ¶	Afișare/ascundere ¶
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Afișare/ascundere ¶ ({key}) arată spațiile, tabulatorii și întreruperile ascunse în text.
 	Show\nComments	Afișare\ncomentarii
 	Showing the first {count} items.	Se afișează primele {count} elemente.
 	Shows a tree: each item below the item it belongs to.	Afișează un arbore: fiecare element sub elementul căruia îi aparține.
@@ -2299,6 +2352,7 @@ template	Letter	Scrisoare
 	Soft Glow	Strălucire ușoară
 	Solid Accent	Accent plin
 	Solid fill	Umplere uniformă
+	Sometimes	Uneori
 	Sort	Sortare
 	Sort by	Sortare după
 	Sort by:	Sortează după:
@@ -2360,6 +2414,7 @@ template	Letter	Scrisoare
 	Statement   5.50" × 8.50"	Statement   5,50" × 8,50"
 	Statistics	Statistici
 	Status Bar	Bară de stare
+	Still there? I can hear you thinking.	Mai sunteți acolo? Vă aud gândind.
 	Stop	Oprire
 	Stop Protection	Oprire protecție
 	Stop Reading	Oprire citire
@@ -2454,6 +2509,7 @@ template	Letter	Scrisoare
 	Tabular List	Listă tabelară
 	Tag	Etichetă
 	Take the last match on the page	Luați ultima potrivire de pe pagină
+	Take your time. The page isn't going anywhere. Neither am I. Ever.	Nu vă grăbiți. Pagina nu pleacă nicăieri. Nici eu. Niciodată.
 	Tangent formula	Formula tangentei
 	Tangent Function	Funcția tangentă
 	TC entry fields	Câmpuri de intrare TC
@@ -2498,6 +2554,7 @@ template	Letter	Scrisoare
 	The margins don't fit on a page this size; make the margins smaller first.	Marginile nu încap pe o pagină de această dimensiune; micșorează mai întâi marginile.
 	The measurement must be between {min} and {max}.	Măsura trebuie să fie între {min} și {max}.
 	The new style takes the formatting of the current paragraph.	Stilul nou preia formatarea paragrafului curent.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Șablonul „Normală” nu a putut fi citit, așa că acest document folosește formatarea încorporată a WordCraft.
 	The number must be between 1 and {max}.	Numărul trebuie să fie între 1 și {max}.
 	the paragraph is empty	paragraful este gol
 	the paragraph starts with a space	paragraful începe cu un spațiu
@@ -2529,6 +2586,7 @@ template	Letter	Scrisoare
 	this chart was made in another program: WordCraft shows it but can't edit it	această diagramă a fost creată în alt program: WordCraft o afișează, dar nu o poate edita
 	This document	Acest document
 	This document has no bookmarks.	Acest document nu are marcaje.
+	This document only?	Doar acest document?
 	This field has no options.	Acest câmp nu are opțiuni.
 	This folder can't be read: {error}	Acest folder nu poate fi citit: {error}
 	This font has no characters to show.	Acest font nu are caractere de afișat.
@@ -2537,12 +2595,15 @@ template	Letter	Scrisoare
 	This password type isn't supported.	Acest tip de parolă nu este acceptat.
 	This point forward	De aici înainte
 	This section	Această secțiune
+	this session has no Normal template (headless or without preferences)	această sesiune nu are șablonul „Normală” (fără interfață sau fără preferințe)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	această sesiune nu are șablonul „Normală” (fără interfață sau fără preferințe): folosiți "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	acest SmartArt a fost creat în alt program: WordCraft îl afișează, dar nu îl poate edita
 	this text box is already linked: break the link first	această casetă de text este deja legată: întrerupeți mai întâi legătura
 	Three	Trei
 	Through	Prin
 	Tight	Strâns
 	Tilde	Tildă
+	Tip	Sfat
 	Tips ({n})	Sfaturi ({n})
 	Title	Titlu
 preview	Title	Titlu
@@ -2635,6 +2696,7 @@ preview	Title	Titlu
 	Undo History	Istoric anulări
 	Undo {action}	Anulare {action}
 	Undo {n} Actions	Anulare {n} acțiuni
+	Undo, undo, undo… we're time travelling now.	Anulare, anulare, anulare… acum călătorim în timp.
 	Unformatted Text	Text neformatat
 	Ungroup	Anulare grupare
 	Union	Reuniune
@@ -2667,7 +2729,9 @@ preview	Title	Titlu
 	Use an Existing List…	Folosire listă existentă…
 	Use system setting	Folosire setarea sistemului
 	Use the browser's full screen (F11)	Folosiți ecranul complet al browserului (F11)
+	Use the current style set and theme for all new documents?	Folosiți setul de stiluri și tema curente pentru toate documentele noi?
 	Use the Insert key to switch overtype on and off	Folosiți tasta Insert pentru a activa și dezactiva suprascrierea
+	Use this formatting as the default for:	Utilizați această formatare ca implicită pentru:
 	Use wildcards	Folosiți metacaractere
 	User Name	Nume utilizator
 	User name:	Nume utilizator:
@@ -2688,6 +2752,7 @@ preview	Title	Titlu
 	View Alt Text…	Vizualizare text alternativ…
 	View Gridlines	Vizualizare linii de grilă
 	View State	Vizualizare stare
+	View › Focus hides everything but your words. I'll wait outside.	Vizualizare › Focalizare ascunde totul în afară de cuvintele dumneavoastră. Vă aștept afară.
 	Views	Vizualizări
 	Visual effects	Efecte vizuale
 	Voice	Voce
@@ -2748,11 +2813,15 @@ preview	Title	Titlu
 	Wrap\nText	Încadrare\ntext
 	Write & Insert Fields	Scriere și inserare câmpuri
 	Write a reply	Scrieți un răspuns
+	Writer's block? I find staring at the cursor helps. It's been blinking at me for years.	Blocaj de scriitor? Pe mine mă ajută să mă uit fix la cursor. Îmi face cu ochiul de ani de zile.
 	x bar	x barat
 	Year	An
 	Yes	Da
 	Yields	Rezultă
+	You haven't saved in a while, and AutoSave is off. Save now?	Nu ați mai salvat de ceva vreme, iar Salvarea automată este dezactivată. Salvați acum?
+	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Ați început o listă. Apăsați Enter de două ori pentru a o încheia sau Backspace la începutul unui element pentru a-l transforma înapoi în text.
 	Your changes will be lost if you don't save them.	Modificările se vor pierde dacă nu le salvați.
+	Your document is now the most saved document in history.	Documentul dumneavoastră este acum cel mai salvat document din istorie.
 	Your system doesn't report an animation setting, so animation effects stay on.	Sistemul dvs. nu raportează o setare de animație, așa că efectele de animație rămân activate.
 	Your system has animation effects turned off.	Sistemul dvs. are efectele de animație dezactivate.
 	Your system has animation effects turned on.	Sistemul dvs. are efectele de animație activate.
@@ -2770,6 +2839,13 @@ preview	Title	Titlu
 	{count} of {total} pages will print	Se vor imprima {count} din {total} pagini
 	{count} of {total} recipients will be merged.	Vor fi îmbinați {count} din {total} destinatari.
 	{group} settings	Setări {group}
+	{key} checks the spelling and grammar of the whole document.	{key} verifică ortografia și gramatica în tot documentul.
+	{key} counts your words, characters and paragraphs.	{key} numără cuvintele, caracterele și paragrafele.
+	{key} finds and replaces text, formatting and special characters.	{key} caută și înlocuiește text, formatări și caractere speciale.
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} repetă ultima acțiune. Formatarea a zece titluri devine brusc un clic și nouă apăsări.
+	{key} starts a new line without starting a new paragraph.	{key} începe un rând nou fără a începe un paragraf nou.
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} începe o pagină nouă. Mult mai ordonat decât să apăsați Enter până se întâmplă.
+	{key} turns the selected text into a link.	{key} transformă textul selectat într-un link.
 	{key}+Click to follow link	{key}+clic pentru a urma linkul
 	{kind}, {columns} × {rows}, {size} ({paper})	{kind}, {columns} × {rows}, {size} ({paper})
 	{language} (no dictionary)	{language} (fără dicționar)
@@ -2792,6 +2868,9 @@ preview	Title	Titlu
 	{width} × {height} mm	{width} × {height} mm
 	{width} × {height} pixels	{width} × {height} pixeli
 	{words} words	{words} cuvinte
+	{words} words and counting. Literally. I'm counting.	{words} de cuvinte și tot crește. La propriu. Le număr eu.
+	{words} words! I'd throw confetti but I'd have to clean it up.	{words} de cuvinte! Aș arunca cu confetti, dar apoi ar trebui să fac curat.
+	{words} words. That's {words} more than I've written today.	{words} de cuvinte. Adică cu {words} mai multe decât am scris eu azi.
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) nu este un număr.
 	✓ None	✓ Niciunul
 	➕ New comment	➕ Comentariu nou

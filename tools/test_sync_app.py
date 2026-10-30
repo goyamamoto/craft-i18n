@@ -157,6 +157,23 @@ class Sync(unittest.TestCase):
         self.assertEqual(self.rows("es-mx"), {("", "Blur"): "Desenfocar", ("", "Open"): "Abrir"})
         self.assertEqual(self.run_sync("--check")[0], 0)
 
+    def test_script_variant_does_not_fall_back_to_its_base_language(self):
+        self.locale("sr", "Српски", common=[("", "Save", "Sačuvaj")])
+        self.write_app({"sr-Latn.tsv": tsv(("", "Save", "Sačuvaj"))})
+        self.commit()
+        code, out = self.run_sync()
+        self.assertEqual(code, 0, out)
+        self.assertEqual(self.rows("sr-latn"), {("", "Save"): "Sačuvaj"})
+
+    def test_region_of_a_script_variant_falls_back_to_the_script_variant(self):
+        self.locale("sr", "Српски", common=[("", "Save", "Sačuvaj")])
+        self.locale("sr-latn", "Srpski", common=[("", "Save", "Snimi")])
+        self.write_app({"sr-Latn-RS.tsv": tsv(("", "Save", "Sačuvaj"))})
+        self.commit()
+        code, out = self.run_sync()
+        self.assertEqual(code, 0, out)
+        self.assertEqual(self.rows("sr-latn-rs"), {("", "Save"): "Sačuvaj"})
+
     def test_msg_rows_never_reach_common(self):
         self.write_app({"es-MX.tsv": tsv(("@msg", "Couldn't open {name}", "No se pudo abrir {name}"))})
         self.commit()

@@ -116,6 +116,9 @@
 	Advanced Find…	Tìm nâng cao…
 	After:	Sau:
 	Agents	Tác tử
+	Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not.	Các tác tử kết nối với WordCraft có thể hiển thị tin nhắn cho bạn qua trợ lý. Khi bị tắt tiếng, chúng sẽ được báo rằng bạn không muốn nhận.
+	Ah, Latin. The language of deadlines.	À, tiếng Latin. Một ngôn ngữ chết, giống hệt hạn chót hôm qua.
+	Ah, the editing phase. My favourite. Very decisive.	À, giai đoạn biên tập. Giai đoạn tôi thích nhất. Rất quyết đoán.
 	Align Bottom Center	Căn dưới giữa
 	Align Bottom Left	Căn dưới trái
 	Align Bottom Right	Căn dưới phải
@@ -132,6 +135,7 @@
 	All Borders	Tất cả viền
 	All caps	Viết hoa toàn bộ
 	All Commands	Mọi lệnh
+	All documents based on the Normal template?	Tất cả tài liệu dựa trên mẫu Thường?
 	All Fonts	Tất cả phông chữ
 	All Levels	Mọi cấp
 	All Markup	Tất cả đánh dấu
@@ -148,6 +152,7 @@
 	Alt Text Pane	Khung văn bản thay thế
 	Alt:	Alt:
 	Alt\nText	Văn bản\nthay thế
+	an agent	một tác tử
 	And	Và
 	Angle Brackets	Ngoặc góc
 	Angle Brackets with Separator	Ngoặc góc có dấu phân cách
@@ -157,6 +162,7 @@
 	Annotation Reference	Tham chiếu nhận xét
 	Annotation Subject	Chủ đề nhận xét
 	Annotation Text	Nội dung nhận xét
+	Annoying	Phiền phức
 	Another file	Tệp khác
 	Any Character	Ký tự bất kỳ
 	Any Digit	Chữ số bất kỳ
@@ -182,6 +188,8 @@
 	ASAP	SỚM NHẤT CÓ THỂ
 	Asian text font:	Phông chữ châu Á:
 	Asian Typography	Kiểu chữ châu Á
+	Assistant	Trợ lý
+	Assistant Suggestions	Gợi ý của trợ lý
 	At least	Tối thiểu
 	At least {n}	Ít nhất {n}
 	Atelier	Atelier
@@ -254,6 +262,7 @@
 	Body Text	Văn bản nội dung
 	Body text in a short paragraph to show spacing.	Đoạn văn ngắn minh họa giãn cách.
 	Bold	In đậm
+	Bold choice. Ctrl+Z is right there if you need it.	Lựa chọn táo bạo. Ctrl+Z ở ngay đó nếu bạn cần.
 	Book	Sách
 	Book Title	Tên sách
 	Book title	Tên sách
@@ -294,6 +303,7 @@
 	By author	Theo tác giả
 	Calendar	Lịch
 	Can't be deleted	Không xóa được
+	Can't find a command? Press {key} and type what you want to do.	Không tìm thấy lệnh? Nhấn {key} rồi gõ điều bạn muốn làm.
 	can't split at the first row	không thể tách ở hàng đầu tiên
 	Canvas Member	Thành phần khung vẽ
 	Capitalize Each Word	Chữ hoa đầu mỗi từ
@@ -305,6 +315,7 @@
 	Caption text	Nội dung chú thích
 	Caption:	Chú thích:
 	Captions	Chú thích
+	Careful, any further back and we'll undo the invention of paper.	Cẩn thận, lùi thêm chút nữa là chúng ta hoàn tác luôn việc phát minh ra giấy.
 	Caret Character	Ký tự dấu mũ
 	Case changes	Thay đổi chữ hoa/thường
 	Cases (Three Conditions)	Trường hợp ba điều kiện
@@ -517,6 +528,10 @@
 	Croatian	Tiếng Croatia
 	Cross-reference	Tham chiếu chéo
 	Cross-reference:	Tham chiếu chéo:
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} bắt đầu một trang mới. Gọn gàng hơn nhiều so với nhấn Enter mãi cho đến khi sang trang.
+	{key} finds and replaces text, formatting and special characters.	{key} tìm và thay thế văn bản, định dạng và ký tự đặc biệt.
+	{key} turns the selected text into a link.	{key} biến văn bản đã chọn thành liên kết.
+	{key} counts your words, characters and paragraphs.	{key} đếm số từ, ký tự và đoạn của bạn.
 	Cube Root	Căn bậc ba
 	Current - Linear	Hiện tại - Dạng tuyến tính
 	Current - Professional	Hiện tại - Dạng trình bày
@@ -556,6 +571,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Các đối tượng trang trí chỉ để tăng phần nhìn: trình đọc màn hình sẽ bỏ qua chúng.
 	Decrease Indent	Giảm thụt lề
 	Deep	Sâu
+	Default formatting	Định dạng mặc định
 	Default Paragraph Font	Phông chữ mặc định của đoạn
 	Default tab stops:	Mốc tab mặc định:
 	Define New Bullet	Tạo dấu đầu dòng mới
@@ -563,6 +579,7 @@
 	Define New Multilevel List…	Tạo danh sách đa cấp mới…
 	Define New Number Format	Tạo định dạng đánh số mới
 	Deflate	Xẹp
+	Delete Around Caret in Equation	Xóa xung quanh con trỏ trong phương trình
 	Delete Back in Equation	Xóa lùi trong phương trình
 	Delete Bookmark	Xóa dấu trang
 	Delete Cells	Xóa ô
@@ -639,6 +656,7 @@
 	Don't capitalize after:	Không viết hoa sau:
 	Don't hyphenate	Không ngắt từ
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Không đọc trích dẫn và danh mục tham khảo do Zotero, Mendeley hoặc EndNote quản lý
+	Don't show me this tip again	Đừng hiện lại mẹo này
 	Dot dash	Nét chấm gạch
 	Dot-dash	Nét chấm gạch
 	Dot-dot-dash	Nét chấm chấm gạch
@@ -783,6 +801,9 @@
 	Extend Selection	Mở rộng vùng chọn
 	Extend Selection by Units	Mở rộng vùng chọn theo đơn vị
 	Extra space	Thừa khoảng trắng
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} lặp lại thao tác cuối cùng. Định dạng mười tiêu đề bỗng chỉ còn một cú nhấp và chín lần gõ phím.
+	{key} checks the spelling and grammar of the whole document.	{key} kiểm tra chính tả và ngữ pháp của toàn bộ tài liệu.
+	Faster: {command} is {key} on the keyboard.	Nhanh hơn: {command} là {key} trên bàn phím.
 	Field code:	Mã trường:
 	Field Codes	Mã trường
 	Field codes:	Mã các trường:
@@ -856,6 +877,7 @@
 	Formatting at Selection	Định dạng tại vùng chọn
 	Formatting exceptions	Ngoại lệ định dạng
 	Formatting marks	Dấu định dạng
+	Formatting saved for new documents:	Định dạng đã lưu cho tài liệu mới:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Định dạng, thay đổi chữ hoa/thường, khoảng trắng và bảng được đưa vào so sánh; các tùy chọn khác được lưu để dùng sau.
 	Formula	Công thức
 	Formula:	Công thức:
@@ -870,10 +892,12 @@
 	From Top Left Corner	Từ góc trên bên trái
 	From Top Right Corner	Từ góc trên bên phải
 	from Unicode (hex)	từ Unicode (hex)
+	From {name}	Từ {name}
 	From:	Từ:
 	Full page of the same label	Cả trang cùng một nhãn
 	Full Screen View	Chế độ xem toàn màn hình
 	Full\nScreen	Toàn\nmàn hình
+	Fun fact: a blank page is just a draft that hasn't been told yet.	Sự thật thú vị: trang trắng chỉ là một bản nháp chưa ai kể cho nghe.
 	Function	Hàm
 	Functions	Hàm số
 	Gallery	Gallery
@@ -889,6 +913,7 @@
 	Go to Record	Đi tới bản ghi
 	Go to what:	Đi tới:
 	Go To…	Đi tới…
+	Gone! Like it was never written. Mostly because it now wasn't.	Biến mất! Như thể chưa từng được viết. Chủ yếu vì giờ nó đúng là chưa được viết.
 	Good afternoon	Chào buổi chiều
 	Good evening	Chào buổi tối
 	Good morning	Chào buổi sáng
@@ -938,6 +963,7 @@
 	Heart	Hình trái tim
 	Hebrew	Tiếng Do Thái
 	Hex:	Mã hex:
+	Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?	Xin chào! Tôi là Nib, trợ lý viết của bạn. Tôi đưa ra mẹo, phím tắt và thỉnh thoảng cả vài ý kiến không ai hỏi. Tôi ở lại nhé?
 	Hidden	Ẩn
 	Hidden bookmarks	Dấu trang ẩn
 	Hidden text	Chữ ẩn
@@ -976,6 +1002,8 @@
 	Hyphenation zone:	Vùng ngắt từ:
 	Hyphens (--) as dashes (—)	Đổi dấu gạch nối (--) thành dấu gạch dài (—)
 	Hypotenuse	Cạnh huyền
+	I promise it's saved. I checked. Twice.	Tôi hứa là đã lưu. Tôi kiểm tra rồi. Hai lần.
+	I'd write something myself, but I'm all nib and no ink.	Tôi cũng muốn tự viết gì đó, nhưng tôi có ngòi mà không có mực. Sắc sảo thì có, nội dung thì không.
 	I, II, III, …	I, II, III, …
 	i, ii, iii, …	i, ii, iii, …
 	Icon Color	Màu biểu tượng
@@ -1108,6 +1136,7 @@
 	ISO 690 (author-date)	ISO 690 (tác giả-năm)
 	ISO 690 (numerical)	ISO 690 (đánh số)
 	Issue	Số
+	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	Có vẻ bạn đang viết thư. Bạn muốn một phong bì cho nó, hay một mẫu thư để bắt đầu?
 	Italic	In nghiêng
 	Join the ArtCraft community on Discord	Tham gia cộng đồng ArtCraft trên Discord
 	Join us on Discord: discord.gg/artcraft	Tham gia cùng chúng tôi trên Discord: discord.gg/artcraft
@@ -1117,6 +1146,7 @@
 	Justified	Căn đều
 	Keep Lines Together	Giữ các dòng cùng nhau
 	Keep lines together	Giữ các dòng cùng nhau
+	Keep me around	Ở lại đi
 	Keep Text Only	Chỉ giữ văn bản
 	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	Hãy giữ mật khẩu ở nơi an toàn: nếu mất thì không ai, kể cả WordCraft, có thể mở được tài liệu. Để trống cả hai ô nếu muốn gỡ mật khẩu.
 	Keep with Next	Giữ cùng đoạn kế tiếp
@@ -1174,6 +1204,7 @@
 template	Letter	Thư
 	Letter   8.50" × 11.00"	Giấy Letter 8.50" × 11.00"
 	Letter headings	Tiêu đề chữ cái
+	Letter template	Mẫu thư
 	Letter-Like Symbols	Ký hiệu dạng chữ cái
 	Letters	Thư
 	Level 5	Cấp 5
@@ -1252,6 +1283,7 @@ template	Letter	Thư
 	Logical AND with Limits	VÀ logic có cận
 	Logical OR	HOẶC logic
 	Logical OR with Limits	HOẶC logic có cận
+	Lorem ipsum: because the real words are still at the café.	Lorem ipsum: vì những chữ thật vẫn đang ngồi ở quán cà phê.
 	lowercase	viết thường
 	Lum:	Độ sáng:
 	Macros	Macro
@@ -1344,6 +1376,7 @@ template	Letter	Thư
 	Multilevel List	Danh sách đa cấp
 	Multilevel List Library	Thư viện danh sách đa cấp
 	Multiple Pages	Nhiều trang
+	Mute agent messages	Tắt tiếng tin nhắn của tác tử
 	My list has	Danh sách của tôi có
 	Name of the file this document is saved as	Tên tệp của tài liệu
 	Narrow	Hẹp
@@ -1355,6 +1388,14 @@ template	Letter	Thư
 	New Comment	Nhận xét mới
 	New comments and tracked changes are recorded under this name and these initials.	Nhận xét mới và các thay đổi được theo dõi được ghi dưới tên và chữ viết tắt này.
 	New Document	Tạo tài liệu mới
+	New Documents Based on This Template	Tài liệu mới dựa trên mẫu này
+	New documents based on this template	Tài liệu mới dựa trên mẫu này
+	New documents will use this font.	Tài liệu mới sẽ dùng phông chữ này.
+	New documents will use this page setup.	Tài liệu mới sẽ dùng thiết lập trang này.
+	New documents will use this paragraph formatting.	Tài liệu mới sẽ dùng định dạng đoạn này.
+	New documents will use this style.	Tài liệu mới sẽ dùng kiểu này.
+	New documents will use WordCraft's built-in formatting.	Tài liệu mới sẽ dùng định dạng tích hợp sẵn của WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Tài liệu mới sẽ dùng định dạng tích hợp sẵn của WordCraft. Không thể khôi phục các mặc định bạn đã lưu. Đặt lại?
 	New Drawing Canvas	Khung vẽ mới
 	New Entry	Mục mới
 	New from Template	Tạo mới từ mẫu
@@ -1376,6 +1417,8 @@ template	Letter	Thư
 	Next Section	Phần tiếp theo
 	Next Sentence	Câu tiếp theo
 	Next sentence	Câu tiếp theo
+	Nib floats over the window with tips and the occasional remark.	Nib lơ lửng trên cửa sổ với các mẹo và thỉnh thoảng một lời bình.
+	Nib, your assistant. Drag to move; right-click for options.	Nib, trợ lý của bạn. Kéo để di chuyển; nhấp chuột phải để xem tùy chọn.
 	No accessibility issues found.	Không tìm thấy vấn đề về khả năng tiếp cận nào.
 	No Border	Không viền
 	No changes (read only)	Không cho phép thay đổi (chỉ đọc)
@@ -1424,6 +1467,7 @@ template	Letter	Thư
 	not editing an equation	không đang sửa phương trình nào
 	Not equal to	Khác
 	Not linked: click a text box	Chưa liên kết: nhấp vào một hộp văn bản
+	Not now	Để sau
 	Not saved	Chưa lưu
 	Not saved yet	Chưa lưu
 	Not set	Chưa đặt
@@ -1483,6 +1527,7 @@ template	Letter	Thư
 	Only for the selected text	Chỉ cho văn bản được chọn
 	Only form fields can be filled in.	Chỉ có thể điền vào các trường biểu mẫu.
 	only in Outline view	chỉ trong dạng xem Dàn ý
+	Only in this document	Chỉ trong tài liệu này
 	Only the allowed styles can be applied.	Chỉ có thể áp dụng các kiểu được cho phép.
 	Only web (http, https) and email (mailto) links can be followed	Chỉ mở được liên kết web (http, https) và email (mailto)
 	Open a document first	Hãy mở một tài liệu trước
@@ -1756,9 +1801,11 @@ template	Letter	Thư
 	Reset All…	Đặt lại tất cả…
 	Reset Character Formatting	Đặt lại định dạng ký tự
 	Reset Crop	Đặt lại cắt xén
+	Reset Default Formatting	Đặt lại định dạng mặc định
 	Reset Graphic	Đặt lại đồ họa
 	Reset Paragraph Formatting	Đặt lại định dạng đoạn
 	Reset Picture	Đặt lại ảnh
+	Reset tips	Đặt lại mẹo
 	Reset to Normal	Đặt lại về kiểu Thường
 	Reset\nGraphic	Đặt lại\nđồ họa
 	Resize Table by Dragging	Đổi cỡ bảng bằng cách kéo
@@ -1779,6 +1826,7 @@ template	Letter	Thư
 	Reviewing — edits become suggestions	Góp ý — các chỉnh sửa trở thành đề xuất
 	Revised document	Tài liệu đã chỉnh sửa
 	Rewind	Tua lại
+	Rewinding. Tell me when to stop.	Đang tua lại. Bảo tôi khi nào dừng nhé.
 	Ribbon	Ribbon
 	Ribbon and Quick Access Toolbar:	Ribbon và thanh công cụ truy cập nhanh:
 	Ribbon tabs	Các tab ribbon
@@ -1800,6 +1848,7 @@ template	Letter	Thư
 	Right-to-Left Text Direction	Hướng chữ từ phải sang trái
 	Rightwards Arrow Above	Mũi tên hướng phải phía trên
 	Rightwards Harpoon Above	Mũi tên móc hướng phải phía trên
+	Romanian	Tiếng Romania
 	Roots of ax²+bx+c	Các nghiệm của ax²+bx+c
 	Rotate all text 270°	Xoay toàn bộ chữ 270°
 	Rotate all text 90°	Xoay toàn bộ chữ 90°
@@ -1822,8 +1871,11 @@ template	Letter	Thư
 	Save the document to turn on AutoSave	Lưu tài liệu để bật Tự động lưu
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Lưu tài liệu để bật Tự động lưu (tệp bạn chỉ mới mở sẽ không bị ghi đè cho đến khi bạn lưu)
 	Save these pages as PDF…	Lưu các trang này thành PDF…
+	Saved. Saved again. Still saved. It's very saved.	Đã lưu. Lại lưu. Vẫn lưu. Lưu kỹ lắm rồi.
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Lưu một mẫu .dotx vào thư mục mẫu của bạn. Mẫu xuất hiện trong Tệp › Mới, mục Cá nhân.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Đã hủy lưu {name}, nên tài liệu vẫn mở và không mất gì.
+	Sayings	Lời bình
+	Sayings:	Câu nói:
 	Scale	Tỉ lệ
 	Scale Drawing	Tỉ lệ bản vẽ
 	Scatter	Phân tán
@@ -1899,6 +1951,9 @@ template	Letter	Thư
 	Series name	Tên chuỗi
 	Series {n}	Chuỗi {n}
 	Set As Default	Đặt làm mặc định
+	Set As Default (Font)	Đặt làm mặc định (Phông chữ)
+	Set As Default (Page Setup)	Đặt làm mặc định (Thiết lập trang)
+	Set As Default (Paragraph)	Đặt làm mặc định (Đoạn)
 	Set Caret	Đặt con trỏ
 	Set Character Formatting	Đặt định dạng ký tự
 	Set Date	Đặt ngày
@@ -1916,6 +1971,7 @@ template	Letter	Thư
 	Shape Outline	Viền hình
 	Shape Styles	Kiểu hình
 	Shapes	Các hình
+	{key} starts a new line without starting a new paragraph.	{key} bắt đầu một dòng mới mà không bắt đầu đoạn mới.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Nhãn vận chuyển
 	Shortcut key:	Phím tắt:
@@ -1952,13 +2008,16 @@ template	Letter	Thư
 	Show Quick Access Toolbar	Hiện thanh công cụ truy cập nhanh
 	Show revisions in balloons	Hiện các sửa đổi trong ô bên lề
 	Show Text Formatting	Hiện định dạng văn bản
+	Show the Assistant	Hiện trợ lý
 	Show the community button in the title bar	Hiện nút cộng đồng trong thanh tiêu đề
 	Show the equation in the line of text	Hiện phương trình chung dòng với văn bản
 	Show the equation on a line of its own	Hiện phương trình trên dòng riêng
 	Show the mini toolbar when text is selected	Hiện thanh công cụ mini khi chọn chữ
 	Show the ribbon	Hiện dải lệnh
 	Show the Start screen when WordCraft starts	Hiện màn hình Bắt đầu khi khởi chạy WordCraft
+	Show the tips you asked not to see again.	Hiện lại các mẹo bạn đã yêu cầu ẩn.
 	Show/Hide ¶	Hiện/Ẩn ¶
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Hiện/Ẩn ¶ ({key}) hiển thị các dấu cách, tab và dấu ngắt đang ẩn trong văn bản của bạn.
 	Show\nComments	Hiện\nnhận xét
 	Showing the first {count} items.	Đang hiển thị {count} mục đầu tiên.
 	Shows a tree: each item below the item it belongs to.	Hiển thị dạng cây: mỗi mục nằm dưới mục mà nó thuộc về.
@@ -2017,6 +2076,7 @@ template	Letter	Thư
 	Soft Glow	Phát sáng nhẹ
 	Solid Accent	Màu nhấn đặc
 	Solid fill	Tô đặc
+	Sometimes	Thỉnh thoảng
 	Sort by:	Sắp xếp theo:
 	Sort order:	Thứ tự sắp xếp:
 	Sort Recipients	Sắp xếp người nhận
@@ -2066,6 +2126,7 @@ template	Letter	Thư
 	Start-up	Khởi động
 	State	Tiểu bang
 	Statement   5.50" × 8.50"	Giấy Statement 5.50" × 8.50"
+	Still there? I can hear you thinking.	Còn đó không? Tôi nghe thấy bạn đang suy nghĩ đấy.
 	Stop Protection	Ngừng bảo vệ
 	Stop Reading	Dừng đọc
 	Stopped	Đã dừng
@@ -2145,6 +2206,7 @@ template	Letter	Thư
 	Tabular List	Danh sách dạng bảng
 	Tag	Thẻ
 	Take the last match on the page	Lấy kết quả khớp cuối cùng trên trang
+	Take your time. The page isn't going anywhere. Neither am I. Ever.	Cứ từ từ. Trang giấy không chạy đi đâu cả. Tôi cũng vậy. Không bao giờ.
 	Tangent formula	Công thức tang
 	Tangent Function	Hàm tang
 	TC entry fields	Trường mục TC
@@ -2186,6 +2248,7 @@ template	Letter	Thư
 	The margins don't fit on a page this size; make the margins smaller first.	Lề không vừa với trang có kích thước này; hãy thu nhỏ lề trước.
 	The measurement must be between {min} and {max}.	Số đo phải nằm trong khoảng từ {min} đến {max}.
 	The new style takes the formatting of the current paragraph.	Kiểu mới sẽ lấy định dạng của đoạn hiện tại.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Không đọc được mẫu Thường, nên tài liệu này dùng định dạng tích hợp sẵn của WordCraft.
 	The number must be between 1 and {max}.	Số phải nằm trong khoảng từ 1 đến {max}.
 	the paragraph is empty	đoạn văn trống
 	the paragraph starts with a space	đoạn văn bắt đầu bằng dấu cách
@@ -2215,6 +2278,7 @@ template	Letter	Thư
 	Thick	Dày
 	this chart was made in another program: WordCraft shows it but can't edit it	biểu đồ này được tạo trong chương trình khác: WordCraft hiển thị được nhưng không sửa được
 	This document	Tài liệu này
+	This document only?	Chỉ tài liệu này?
 	This field has no options.	Trường này không có tùy chọn nào.
 	This folder can't be read: {error}	Không thể đọc thư mục này: {error}
 	This font has no characters to show.	Phông chữ này không có ký tự nào để hiển thị.
@@ -2223,12 +2287,15 @@ template	Letter	Thư
 	This password type isn't supported.	Loại mật khẩu này không được hỗ trợ.
 	This point forward	Từ đây trở đi
 	This section	Phần này
+	this session has no Normal template (headless or without preferences)	phiên này không có mẫu Thường (không giao diện hoặc không có tùy chọn)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	phiên này không có mẫu Thường (không giao diện hoặc không có tùy chọn): hãy dùng "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	SmartArt này được tạo trong chương trình khác: WordCraft hiển thị được nhưng không sửa được
 	this text box is already linked: break the link first	hộp văn bản này đã được liên kết: hãy ngắt liên kết trước
 	Three	Ba
 	Through	Xuyên qua
 	Tight	Khít
 	Tilde	Dấu ngã
+	Tip	Mẹo
 	Tips ({n})	Mẹo ({n})
 	Title Bar	Thanh tiêu đề
 	Title from the document properties	Tiêu đề trong thuộc tính tài liệu
@@ -2307,6 +2374,7 @@ template	Letter	Thư
 	Undo Actions	Hoàn tác các thao tác
 	Undo History	Lịch sử hoàn tác
 	Undo {n} Actions	Hoàn tác {n} thao tác
+	Undo, undo, undo… we're time travelling now.	Hoàn tác, hoàn tác, hoàn tác… giờ chúng ta đang du hành thời gian.
 	Unformatted Text	Văn bản không định dạng
 	Ungroup	Tách nhóm
 	Union of intersections	Phép hợp của các phép giao
@@ -2336,7 +2404,9 @@ template	Letter	Thư
 	Use an Existing List…	Dùng danh sách hiện có…
 	Use system setting	Dùng theo hệ thống
 	Use the browser's full screen (F11)	Dùng chế độ toàn màn hình của trình duyệt (F11)
+	Use the current style set and theme for all new documents?	Dùng bộ kiểu và chủ đề hiện tại cho mọi tài liệu mới?
 	Use the Insert key to switch overtype on and off	Dùng phím Insert để bật/tắt gõ đè
+	Use this formatting as the default for:	Dùng định dạng này làm mặc định cho:
 	Use wildcards	Dùng ký tự đại diện
 	User Name	Tên người dùng
 	User name:	Tên người dùng:
@@ -2352,6 +2422,7 @@ template	Letter	Thư
 	View Alt Text…	Xem văn bản thay thế…
 	View Gridlines	Hiện đường lưới bảng
 	View State	Trạng thái hiển thị
+	View › Focus hides everything but your words. I'll wait outside.	Xem › Tập trung ẩn mọi thứ trừ câu chữ của bạn. Tôi sẽ đợi bên ngoài.
 	Views	Các chế độ xem
 	Visual effects	Hiệu ứng hình ảnh
 	Volume	Tập
@@ -2406,9 +2477,13 @@ template	Letter	Thư
 	Wrap\nText	Văn bản\nquanh đối tượng
 	Write & Insert Fields	Soạn và chèn trường
 	Write a reply	Viết câu trả lời
+	Writer's block? I find staring at the cursor helps. It's been blinking at me for years.	Bí ý tưởng? Tôi thấy nhìn chằm chằm vào con trỏ khá có ích. Nó đã nháy mắt với tôi nhiều năm rồi.
 	x bar	x có gạch trên
 	Year	Năm
 	Yields	Suy ra
+	You haven't saved in a while, and AutoSave is off. Save now?	Đã lâu bạn chưa lưu, và Tự động lưu đang tắt. Lưu ngay nhé?
+	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Bạn vừa bắt đầu một danh sách. Nhấn Enter hai lần để kết thúc, hoặc nhấn Backspace ở đầu một mục để chuyển nó lại thành văn bản.
+	Your document is now the most saved document in history.	Tài liệu của bạn giờ là tài liệu được lưu nhiều nhất lịch sử.
 	Your system doesn't report an animation setting, so animation effects stay on.	Hệ thống không cung cấp thiết lập hiệu ứng động, nên các hiệu ứng động vẫn bật.
 	Your system has animation effects turned off.	Hệ thống của bạn đã tắt hiệu ứng động.
 	Your system has animation effects turned on.	Hệ thống của bạn đã bật hiệu ứng động.
@@ -2445,6 +2520,9 @@ template	Letter	Thư
 	{width} × {height} mm	{width} × {height} mm
 	{width} × {height} pixels	{width} × {height} điểm ảnh
 	{words} words	Từ: {words}
+	{words} words and counting. Literally. I'm counting.	{words} từ và vẫn đang tăng. Theo nghĩa đen. Tôi đang đếm đây.
+	{words} words! I'd throw confetti but I'd have to clean it up.	{words} từ! Tôi muốn tung pháo giấy nhưng rồi lại phải tự dọn.
+	{words} words. That's {words} more than I've written today.	{words} từ. Hơn số từ tôi viết hôm nay đúng {words} từ.
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) không phải là số.
 	✓ None	✓ Không có
 	➕ New comment	➕ Nhận xét mới

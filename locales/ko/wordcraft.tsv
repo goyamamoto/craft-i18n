@@ -112,6 +112,9 @@
 	Advanced Find…	고급 찾기…
 	After:	뒤쪽:
 	Agents	에이전트
+	Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not.	WordCraft에 연결된 에이전트는 도우미를 통해 메시지를 보여 줄 수 있습니다. 음소거하면 에이전트에게 원하지 않는다고 알려 줍니다.
+	Ah, Latin. The language of deadlines.	아, 라틴어군요. 마감 직전에 다들 쓰는 언어죠.
+	Ah, the editing phase. My favourite. Very decisive.	아, 편집 단계군요. 제가 제일 좋아하는 시간이에요. 아주 결단력 있으시네요.
 	Align Bottom Center	아래쪽 가운데 맞춤
 	Align Bottom Left	아래쪽 왼쪽 맞춤
 	Align Bottom Right	아래쪽 오른쪽 맞춤
@@ -130,6 +133,7 @@
 	All Borders	모든 테두리
 	All caps	모두 대문자
 	All Commands	모든 명령
+	All documents based on the Normal template?	기본 서식 파일을 기반으로 하는 모든 문서?
 	All Fonts	모든 글꼴
 	All Levels	모든 수준
 	All Markup	모든 변경 내용
@@ -146,6 +150,7 @@
 	Alt Text Pane	대체 텍스트 창
 	Alt:	대체 텍스트:
 	Alt\nText	대체\n텍스트
+	an agent	에이전트
 	Angle Brackets	꺾쇠 괄호
 	Angle Brackets with Separator	구분 기호 있는 꺾쇠 괄호
 	Angle Brackets with Two Separators	구분 기호 두 개 있는 꺾쇠 괄호
@@ -154,6 +159,7 @@
 	Annotation Reference	메모 참조
 	Annotation Subject	메모 주제
 	Annotation Text	메모 텍스트
+	Annoying	귀찮게
 	Another file	다른 파일
 	Any Character	임의의 문자
 	Any Digit	임의의 숫자
@@ -180,6 +186,8 @@
 	Asian text font:	아시아 문자 글꼴:
 	Asian Typography	아시아 문자 조판
 	Assign	할당
+	Assistant	도우미
+	Assistant Suggestions	도우미 제안
 	At least	최소
 	At least {n}	최소 {n}
 	Atelier	Atelier
@@ -249,6 +257,7 @@
 	Blue:	파랑:
 	Body Text	본문
 	Body text in a short paragraph to show spacing.	간격을 보여 주기 위한 짧은 단락의 본문 텍스트입니다.
+	Bold choice. Ctrl+Z is right there if you need it.	과감한 선택이네요. 필요하면 Ctrl+Z가 바로 옆에 있어요.
 	Book	도서
 	Book Title	책 제목
 	Book title	도서 제목
@@ -287,6 +296,7 @@
 	By author	작성자별
 	Calendar	달력
 	Can't be deleted	삭제할 수 없음
+	Can't find a command? Press {key} and type what you want to do.	명령을 찾을 수 없나요? {key} 키를 누르고 하고 싶은 일을 입력하세요.
 	Canvas Member	캔버스 구성원
 	Capitalize Each Word	각 단어의 첫 글자를 대문자로
 	Capitalize first letter of sentences	문장 첫 글자를 대문자로 바꾸기
@@ -297,6 +307,7 @@
 	Caption text	캡션 텍스트
 	Caption:	캡션:
 	Captions	캡션
+	Careful, any further back and we'll undo the invention of paper.	조심하세요. 더 돌아가면 종이의 발명까지 실행 취소하겠어요.
 	Caret Character	캐럿 문자
 	Case changes	대소문자 변경
 	Cases (Three Conditions)	경우 (조건 3개)
@@ -503,6 +514,10 @@
 	Create Source	원본 만들기
 	Cross-reference	상호 참조
 	Cross-reference:	상호 참조:
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} 키를 누르면 새 페이지가 시작됩니다. 페이지가 넘어갈 때까지 Enter를 누르는 것보다 훨씬 깔끔해요.
+	{key} finds and replaces text, formatting and special characters.	{key} 키를 누르면 텍스트, 서식, 특수 문자를 찾아 바꿀 수 있습니다.
+	{key} turns the selected text into a link.	{key} 키를 누르면 선택한 텍스트가 링크로 바뀝니다.
+	{key} counts your words, characters and paragraphs.	{key} 키를 누르면 단어, 문자, 단락 수를 세어 줍니다.
 	Cube Root	세제곱근
 	Current - Linear	현재 - 선형
 	Current - Professional	현재 - 전문
@@ -541,6 +556,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	장식용 개체는 시각적 효과만 더하며, 화면 읽기 프로그램에서 건너뜁니다.
 	Decrease Indent	들여쓰기 줄이기
 	Deep	진하게
+	Default formatting	기본 서식
 	Default Paragraph Font	기본 단락 글꼴
 	Default tab stops:	기본 탭 위치:
 	Define New Bullet	새 글머리 기호 정의
@@ -548,6 +564,7 @@
 	Define New Multilevel List…	새 다단계 목록 정의…
 	Define New Number Format	새 번호 서식 정의
 	Deflate	오목하게
+	Delete Around Caret in Equation	수식에서 커서 주변 삭제
 	Delete Back in Equation	수식에서 앞 문자 삭제
 	Delete Bookmark	책갈피 삭제
 	Delete Cells	셀 삭제
@@ -619,6 +636,7 @@
 	Don't capitalize after:	다음 뒤에는 대문자로 바꾸지 않음:
 	Don't hyphenate	하이픈 넣지 않음
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Zotero, Mendeley 또는 EndNote의 인용 및 참고 문헌을 읽지 않음
+	Don't show me this tip again	이 팁을 다시 표시 안 함
 	Dot dash	파선
 	Dot-dash	일점쇄선
 	Dot-dot-dash	이점쇄선
@@ -751,6 +769,9 @@
 	Extend Selection	선택 영역 확장
 	Extend Selection by Units	단위별로 선택 영역 확장
 	Extra space	불필요한 공백
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} 키를 누르면 마지막 작업이 반복됩니다. 제목 열 개 서식 지정이 순식간에 클릭 한 번과 키 아홉 번으로 끝나요.
+	{key} checks the spelling and grammar of the whole document.	{key} 키를 누르면 문서 전체의 맞춤법 및 문법을 검사합니다.
+	Faster: {command} is {key} on the keyboard.	더 빠른 방법: {command} 기능은 키보드에서 {key}입니다.
 	Field code:	필드 코드:
 	Field Codes	필드 코드
 	Field codes:	필드 코드:
@@ -817,6 +838,7 @@
 	Formatting at Selection	선택 영역의 서식
 	Formatting exceptions	서식 예외
 	Formatting marks	서식 기호
+	Formatting saved for new documents:	새 문서용으로 저장된 서식:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	서식, 대소문자 변경, 공백 및 표를 비교합니다. 다른 설정은 나중에 지원됩니다.
 	Formula	수식
 	Formula:	수식:
@@ -831,9 +853,11 @@
 	From Top Left Corner	왼쪽 위 모서리에서
 	From Top Right Corner	오른쪽 위 모서리에서
 	from Unicode (hex)	Unicode (16진수)에서
+	From {name}	보낸 사람: {name}
 	From:	시작:
 	Full page of the same label	같은 레이블 전체 페이지
 	Full Screen View	전체 화면 보기
+	Fun fact: a blank page is just a draft that hasn't been told yet.	재미있는 사실: 빈 페이지는 아직 아무 말도 받지 못한 초안일 뿐이에요.
 	Function	함수
 	Functions	함수
 	Gallery	Gallery
@@ -847,6 +871,7 @@
 	Go To (⌘⌥G)	이동(⌘⌥G)
 	Go to Record	레코드로 이동
 	Go To…	이동…
+	Gone! Like it was never written. Mostly because it now wasn't.	사라졌다! 처음부터 안 쓴 것처럼요. 사실 이제 정말 안 쓴 거니까요.
 	Good afternoon	좋은 오후입니다
 	Good evening	좋은 저녁입니다
 	Good morning	좋은 아침입니다
@@ -885,6 +910,7 @@
 	Heading {n}	제목 {n}
 	Hebrew	히브리어
 	Hex:	16진수:
+	Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?	안녕하세요! 글쓰기 도우미 Nib이에요. 팁, 바로 가기 키, 그리고 가끔은 묻지도 않은 의견을 드려요. 계속 함께 있을까요?
 	Hide Codes	코드 숨기기
 	Hide from style lists	스타일 목록에서 숨기기
 	Hide Ink	잉크 숨기기
@@ -919,6 +945,8 @@
 	Hyphenation zone:	하이픈 넣기 영역:
 	Hyphens (--) as dashes (—)	하이픈(--)을 대시(—)로 바꾸기
 	Hypotenuse	빗변
+	I promise it's saved. I checked. Twice.	정말 저장됐어요. 확인했어요. 두 번이나요.
+	I'd write something myself, but I'm all nib and no ink.	저도 무언가 쓰고 싶지만, 펜촉만 있고 잉크는 한 방울도 없어요.
 	I, II, III, …	I, II, III, …
 	i, ii, iii, …	i, ii, iii, …
 	Icon Color	아이콘 색
@@ -1042,6 +1070,7 @@
 	Inverse Tangent Function	역 탄젠트 함수
 	Ionosphere	전리층
 	Issue	호
+	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	편지를 쓰시는 것 같네요. 봉투를 만들까요, 아니면 편지 서식 파일로 시작할까요?
 	Join the ArtCraft community on Discord	Discord에서 ArtCraft 커뮤니티에 참여하세요
 	Join us on Discord: discord.gg/artcraft	Discord에서 함께하세요: discord.gg/artcraft
 	Journal	학술지
@@ -1050,6 +1079,7 @@
 	Justified	양쪽 맞춤
 	Keep Lines Together	현재 단락의 모든 줄을 한 페이지에 유지
 	Keep lines together	현재 단락의 모든 줄을 한 페이지에 유지
+	Keep me around	계속 있어 주세요
 	Keep Text Only	텍스트만 유지
 	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	암호를 안전한 곳에 보관하세요. 암호가 없으면 WordCraft를 포함해 누구도 문서를 열 수 없습니다. 암호를 제거하려면 두 입력란을 모두 비워 두세요.
 	Keep with Next	다음 단락과 함께 유지
@@ -1095,6 +1125,7 @@
 	Legal style numbering	법률 형식 번호 매기기
 	Legend	범례
 	Letter headings	문자별 제목
+	Letter template	편지 서식 파일
 	Letter-Like Symbols	문자형 기호
 	Letters	편지
 	Level 1	수준 1
@@ -1171,6 +1202,7 @@
 	Logical AND with Limits	논리곱 (한계 포함)
 	Logical OR	논리합
 	Logical OR with Limits	논리합 (한계 포함)
+	Lorem ipsum: because the real words are still at the café.	Lorem ipsum: 진짜 글은 아직 카페에서 쉬는 중이라서요.
 	Lum:	명도:
 	Macros	매크로
 	Made from the author and year when empty	비어 있으면 저자와 연도로 생성
@@ -1254,6 +1286,7 @@
 	Multilevel List	다단계 목록
 	Multilevel List Library	다단계 목록 라이브러리
 	Multiple Pages	여러 페이지
+	Mute agent messages	에이전트 메시지 음소거
 	My list has	목록 첫 행
 	Name of the file this document is saved as	문서가 저장된 파일 이름
 	Narrow	좁게
@@ -1264,6 +1297,14 @@
 	Negated Relations	부정 관계
 	New Comment	새 댓글
 	New comments and tracked changes are recorded under this name and these initials.	새 댓글과 변경 내용 추적은 이 이름과 이니셜로 기록됩니다.
+	New Documents Based on This Template	이 서식 파일을 기반으로 하는 새 문서
+	New documents based on this template	이 서식 파일을 기반으로 하는 새 문서
+	New documents will use this font.	새 문서에 이 글꼴이 사용됩니다.
+	New documents will use this page setup.	새 문서에 이 페이지 설정이 사용됩니다.
+	New documents will use this paragraph formatting.	새 문서에 이 단락 서식이 사용됩니다.
+	New documents will use this style.	새 문서에 이 스타일이 사용됩니다.
+	New documents will use WordCraft's built-in formatting.	새 문서에 WordCraft의 기본 제공 서식이 사용됩니다.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	새 문서에는 WordCraft의 기본 제공 서식이 사용됩니다. 저장한 기본값은 복구할 수 없습니다. 재설정하시겠습니까?
 	New Drawing Canvas	새 그리기 캔버스
 	New Entry	새 항목
 	New Label	새 레이블
@@ -1283,6 +1324,8 @@
 	Next Section	다음 구역
 	Next Sentence	다음 문장
 	Next sentence	다음 문장
+	Nib floats over the window with tips and the occasional remark.	Nib은 팁과 가끔 한마디를 건네며 창 위에 떠 있습니다.
+	Nib, your assistant. Drag to move; right-click for options.	도우미 Nib입니다. 끌어서 옮기고, 마우스 오른쪽 단추로 옵션을 엽니다.
 	No accessibility issues found.	접근성 문제가 없습니다.
 	No Border	테두리 없음
 	No changes (read only)	변경 내용 없음(읽기 전용)
@@ -1329,6 +1372,7 @@
 	Not available right now	현재 사용할 수 없음
 	not editing an equation	수식을 편집하고 있지 않습니다
 	Not linked: click a text box	연결되지 않음: 텍스트 상자를 클릭하세요
+	Not now	나중에
 	Not saved	저장되지 않음
 	Not saved yet	아직 저장되지 않음
 	Not set	설정 안 됨
@@ -1384,6 +1428,7 @@
 	Only comments can be added, except in regions marked editable.	편집 가능으로 표시된 영역을 제외하고 주석만 추가할 수 있습니다.
 	Only form fields can be filled in.	양식 필드만 채울 수 있습니다.
 	only in Outline view	개요 보기에서만 사용할 수 있습니다
+	Only in this document	이 문서에서만
 	Only the allowed styles can be applied.	허용된 스타일만 적용할 수 있습니다.
 	Only web (http, https) and email (mailto) links can be followed	웹(http, https) 및 이메일(mailto) 링크만 열 수 있습니다.
 	Open a document first	먼저 문서를 여세요
@@ -1643,9 +1688,11 @@
 	Reset All…	모두 초기화…
 	Reset Character Formatting	문자 서식 초기화
 	Reset Crop	자르기 재설정
+	Reset Default Formatting	기본 서식 재설정
 	Reset Graphic	그래픽 초기화
 	Reset Paragraph Formatting	단락 서식 초기화
 	Reset Picture	그림 재설정
+	Reset tips	팁 초기화
 	Reset to Normal	표준으로 재설정
 	Reset\nGraphic	그래픽\n초기화
 	Reset…	초기화…
@@ -1667,6 +1714,7 @@
 	Reviewing — edits become suggestions	검토 중 — 편집 내용이 제안으로 바뀝니다
 	Revised document	수정된 문서
 	Rewind	되감기
+	Rewinding. Tell me when to stop.	되감는 중. 멈출 때 말해 주세요.
 	Ribbon	리본
 	Ribbon and Quick Access Toolbar:	리본 및 빠른 실행 도구 모음:
 	Ribbon tabs	리본 탭
@@ -1688,6 +1736,7 @@
 	Right-to-Left Text Direction	오른쪽에서 왼쪽 텍스트 방향
 	Rightwards Arrow Above	위 오른쪽 화살표
 	Rightwards Harpoon Above	위 오른쪽 작살 화살표
+	Romanian	루마니아어
 	Roots of ax²+bx+c	ax²+bx+c의 근
 	Rotate all text 270°	텍스트를 270° 회전
 	Rotate all text 90°	텍스트를 90° 회전
@@ -1709,7 +1758,10 @@
 	Save the document to turn on AutoSave	자동 저장을 사용하려면 문서를 저장하세요.
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	자동 저장을 사용하려면 문서를 저장하세요(열기만 한 파일은 저장할 때까지 다시 기록되지 않습니다).
 	Save these pages as PDF…	이 페이지를 PDF로 저장…
+	Saved. Saved again. Still saved. It's very saved.	저장했어요. 또 저장했어요. 여전히 저장됨. 아주 확실히 저장됐어요.
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	.dotx 서식 파일을 서식 파일 폴더에 저장합니다. 파일 › 새로 만들기의 개인 아래에 표시됩니다.
+	Sayings	한마디
+	Sayings:	한마디:
 	Scale	배율
 	Scale Drawing	그리기 크기 조정
 	Scatter	분산형
@@ -1781,6 +1833,9 @@
 	Series name	계열 이름
 	Series {n}	계열 {n}
 	Set As Default	기본값으로 설정
+	Set As Default (Font)	기본값으로 설정 (글꼴)
+	Set As Default (Page Setup)	기본값으로 설정 (페이지 설정)
+	Set As Default (Paragraph)	기본값으로 설정 (단락)
 	Set Caret	커서 설정
 	Set Character Formatting	문자 서식 설정
 	Set Date	날짜 설정
@@ -1796,6 +1851,7 @@
 	Shape Outline	도형 윤곽선
 	Shape Styles	도형 스타일
 	Shapes	도형
+	{key} starts a new line without starting a new paragraph.	{key} 키를 누르면 새 단락 없이 줄만 바꿉니다.
 	Shift+Tab	Shift+Tab
 	Shipping labels	배송 레이블
 	Shortcut key:	바로 가기 키:
@@ -1828,13 +1884,16 @@
 	Show Quick Access Toolbar	빠른 실행 도구 모음 표시
 	Show revisions in balloons	말풍선에 변경 내용 표시
 	Show Text Formatting	텍스트 서식 표시
+	Show the Assistant	도우미 표시
 	Show the community button in the title bar	제목 표시줄에 커뮤니티 단추 표시
 	Show the equation in the line of text	수식을 텍스트 줄 안에 표시
 	Show the equation on a line of its own	수식을 별도 줄에 표시
 	Show the mini toolbar when text is selected	텍스트를 선택할 때 미니 도구 모음 표시
 	Show the ribbon	리본 표시
 	Show the Start screen when WordCraft starts	WordCraft 시작 시 시작 화면 표시
+	Show the tips you asked not to see again.	숨긴 팁을 다시 표시합니다.
 	Show/Hide ¶	¶ 표시/숨기기
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	¶ 표시/숨기기({key})를 사용하면 텍스트에 숨은 공백, 탭, 나누기가 보입니다.
 	Show\nComments	메모\n표시
 	Showing the first {count} items.	처음 {count}개 항목 표시 중
 	Shows a tree: each item below the item it belongs to.	항목 아래에 해당 항목의 하위 항목을 배치해 트리 구조로 표시합니다.
@@ -1890,6 +1949,7 @@
 	Soft Glow	부드러운 광채
 	Solid Accent	강조 단색
 	Solid fill	단색 채우기
+	Sometimes	가끔
 	Sort order:	정렬 순서:
 	Sort Recipients	받는 사람 정렬
 	Source code: github.com/storytold/wordcraft	소스 코드: github.com/storytold/wordcraft
@@ -1934,6 +1994,7 @@
 	Start Mail\nMerge	편지 병합\n시작
 	Start-up	시작 화면
 	State	주/도
+	Still there? I can hear you thinking.	아직 계세요? 생각하는 소리가 들려요.
 	Stop Protection	보호 중지
 	Stop Reading	읽기 중지
 	Stopped	중지됨
@@ -2006,6 +2067,7 @@
 	Tabs…	탭…
 	Tabular List	표 형식 목록
 	Tag	태그
+	Take your time. The page isn't going anywhere. Neither am I. Ever.	천천히 하세요. 페이지는 어디 안 가요. 저도요. 영원히.
 	Tangent formula	탄젠트 공식
 	Tangent Function	탄젠트 함수
 	TC entry fields	TC 항목 필드
@@ -2044,6 +2106,7 @@
 	The document will be saved with a password. Save it to protect it.	문서는 암호를 설정하여 저장됩니다. 문서를 보호하려면 저장하세요.
 	The measurement must be between {min} and {max}.	측정값은 {min}에서 {max} 사이여야 합니다.
 	The new style takes the formatting of the current paragraph.	새 스타일은 현재 단락의 서식을 사용합니다.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	기본 서식 파일을 읽을 수 없어 이 문서는 WordCraft의 기본 제공 서식을 사용합니다.
 	The number must be between 1 and {max}.	숫자는 1에서 {max} 사이여야 합니다.
 	the paragraph is empty	단락이 비어 있습니다
 	the paragraph starts with a space	단락이 공백으로 시작합니다
@@ -2068,6 +2131,7 @@
 	Thick	굵게
 	this chart was made in another program: WordCraft shows it but can't edit it	이 차트는 다른 프로그램에서 만들어졌습니다: WordCraft에서 표시할 수는 있지만 편집할 수는 없습니다
 	This document	이 문서
+	This document only?	이 문서만?
 	This field has no options.	이 필드에는 옵션이 없습니다.
 	This folder can't be read: {error}	이 폴더를 읽을 수 없습니다: {error}
 	This font has no characters to show.	이 글꼴에는 표시할 문자가 없습니다.
@@ -2075,12 +2139,15 @@
 	This password type isn't supported.	이 암호 유형은 지원되지 않습니다.
 	This point forward	현재 위치부터
 	This section	이 구역
+	this session has no Normal template (headless or without preferences)	이 세션에는 기본 서식 파일이 없습니다(헤드리스 또는 기본 설정 없음)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	이 세션에는 기본 서식 파일이 없습니다(헤드리스 또는 기본 설정 없음): 다음을 사용하세요 "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	이 SmartArt는 다른 프로그램에서 만들어졌습니다: WordCraft에서 표시할 수는 있지만 편집할 수는 없습니다
 	this text box is already linked: break the link first	이 텍스트 상자는 이미 연결되어 있습니다: 먼저 연결을 끊으세요
 	Three	세 개
 	Through	텍스트 통과
 	Tight	좁게
 	Tilde	물결표(~)
+	Tip	팁
 	Tips ({n})	팁({n})
 preview	Title	제목
 	Title Bar	제목 표시줄
@@ -2155,6 +2222,7 @@ preview	Title	제목
 	Undo Actions	작업 실행 취소
 	Undo History	실행 취소 기록
 	Undo {n} Actions	작업 {n}개 실행 취소
+	Undo, undo, undo… we're time travelling now.	실행 취소, 실행 취소, 실행 취소… 이제 시간 여행 중이에요.
 	Unformatted Text	서식 없는 텍스트
 	Union of intersections	교집합들의 합집합
 	Union with Limits	합집합 (한계 포함)
@@ -2183,7 +2251,9 @@ preview	Title	제목
 	Use an Existing List…	기존 목록 사용…
 	Use system setting	시스템 설정 사용
 	Use the browser's full screen (F11)	브라우저의 전체 화면을 사용하세요 (F11)
+	Use the current style set and theme for all new documents?	현재 스타일 모음과 테마를 모든 새 문서에 사용하시겠습니까?
 	Use the Insert key to switch overtype on and off	Insert 키를 눌러 겹쳐쓰기 켜기/끄기
+	Use this formatting as the default for:	이 서식을 기본값으로 사용할 대상:
 	Use wildcards	와일드카드 사용
 	User Name	사용자 이름
 	User name:	사용자 이름:
@@ -2199,6 +2269,7 @@ preview	Title	제목
 	View Alt Text…	대체 텍스트 보기…
 	View Gridlines	눈금선 표시
 	View State	보기 상태
+	View › Focus hides everything but your words. I'll wait outside.	보기 › 집중을 사용하면 글자 외에는 모두 숨겨집니다. 저는 밖에서 기다릴게요.
 	Views	보기
 	Visual effects	시각 효과
 	Volume	권
@@ -2250,10 +2321,14 @@ preview	Title	제목
 	Wrap\nText	텍스트 줄\n바꿈
 	Write & Insert Fields	필드 작성 및 삽입
 	Write a reply	답글 작성
+	Writer's block? I find staring at the cursor helps. It's been blinking at me for years.	글이 막히셨나요? 저는 커서를 가만히 보고 있으면 도움이 되더라고요. 그 커서, 오래전부터 저한테 깜빡이고 있거든요.
 	x bar	x 윗줄
 	Year	연도
 	Yields	결과
+	You haven't saved in a while, and AutoSave is off. Save now?	한동안 저장하지 않으셨고 자동 저장도 꺼져 있어요. 지금 저장할까요?
+	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	목록을 시작하셨네요. 끝내려면 Enter를 두 번 누르고, 일반 텍스트로 되돌리려면 항목 처음에서 Backspace를 누르세요.
 	Your changes will be lost if you don't save them.	저장하지 않으면 변경 내용이 사라집니다.
+	Your document is now the most saved document in history.	이 문서는 이제 역사상 가장 많이 저장된 문서예요.
 	Your system doesn't report an animation setting, so animation effects stay on.	시스템에서 애니메이션 설정을 확인할 수 없어 애니메이션 효과를 켜 둡니다.
 	Your system has animation effects turned off.	시스템에서 애니메이션 효과가 꺼져 있습니다.
 	Your system has animation effects turned on.	시스템에서 애니메이션 효과가 켜져 있습니다.
@@ -2281,6 +2356,9 @@ preview	Title	제목
 	{size} pt	{size} pt
 	{width} × {height} pixels	{width} × {height} 픽셀
 	{words} words	단어 {words}개
+	{words} words and counting. Literally. I'm counting.	{words}단어, 계속 늘어나는 중. 진짜로요. 제가 세고 있어요.
+	{words} words! I'd throw confetti but I'd have to clean it up.	{words}단어! 축하 종이를 날리고 싶지만 정리는 제가 해야 해서요.
+	{words} words. That's {words} more than I've written today.	{words}단어. 제가 오늘 쓴 것보다 {words}단어 더 많네요.
 	“{text}” ({row}, {series}) isn't a number.	“{text}”({row}, {series})은(는) 숫자가 아닙니다.
 	✓ None	✓ 없음
 	➕ New comment	➕ 새 메모

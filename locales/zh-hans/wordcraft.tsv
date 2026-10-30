@@ -98,6 +98,9 @@
 	Advanced Find…	高级查找…
 	After:	段后：
 	Agents	智能体
+	Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not.	连接到 WordCraft 的代理可以通过助手向你显示消息。静音后，代理会得知你不想接收。
+	Ah, Latin. The language of deadlines.	啊，拉丁文。交稿前最流行的语言。
+	Ah, the editing phase. My favourite. Very decisive.	啊，修改阶段。我的最爱。真果断。
 	Align Bottom Center	靠下居中对齐
 	Align Bottom Left	靠下左对齐
 	Align Bottom Right	靠下右对齐
@@ -112,6 +115,7 @@
 	All Borders	所有框线
 	All caps	全部大写
 	All Commands	所有命令
+	All documents based on the Normal template?	基于“正常”模板的所有文档？
 	All Fonts	所有字体
 	All Levels	所有级别
 	All Markup	所有标记
@@ -128,9 +132,11 @@
 	Alt Text Pane	替代文字窗格
 	Alt:	替代文字：
 	Alt\nText	替代\n文字
+	an agent	智能体
 	And	与
 	Animate the caret (it glides and fades)	为光标添加动画（平滑移动并淡入淡出）
 	Animation effects:	动画效果：
+	Annoying	烦人
 	Another file	其他文件
 	Any Character	任意字符
 	Any Digit	任意数字
@@ -154,6 +160,8 @@
 	As you type	键入时
 	Asian text font:	亚洲文字字体：
 	Asian Typography	亚洲版式
+	Assistant	助手
+	Assistant Suggestions	助手建议
 	At least	最小值
 	At least {n}	最小值 {n}
 	Atelier	画室
@@ -216,6 +224,7 @@
 	Blue:	蓝色:
 	Body Text	正文文本
 	Bold	加粗
+	Bold choice. Ctrl+Z is right there if you need it.	大胆的选择。需要的话，Ctrl+Z 就在旁边。
 	Book	书籍
 	Book title	书名
 	Bookmark	书签
@@ -246,6 +255,7 @@
 	By author	按作者
 	Calendar	日历
 	Can't be deleted	无法删除
+	Can't find a command? Press {key} and type what you want to do.	找不到命令？按 {key}，然后输入你想做的事。
 	can't split at the first row	无法在第一行处拆分表格
 	Canvas Member	画布成员
 	Capitalize Each Word	每个单词首字母大写
@@ -256,6 +266,7 @@
 	Caption text	题注文字
 	Caption:	题注：
 	Captions	题注
+	Careful, any further back and we'll undo the invention of paper.	小心，再往回退，就要把造纸术也撤消了。
 	Caret Character	脱字号
 	Case changes	大小写更改
 	Categories	类别
@@ -422,6 +433,10 @@
 	Croatian	克罗地亚语
 	Cross-reference	交叉引用
 	Cross-reference:	交叉引用：
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} 可以开始新的一页。比一直按 Enter 直到换页整洁多了。
+	{key} finds and replaces text, formatting and special characters.	{key} 可以查找和替换文字、格式和特殊字符。
+	{key} turns the selected text into a link.	{key} 可以将所选文字变成链接。
+	{key} counts your words, characters and paragraphs.	{key} 可以统计字数、字符数和段落数。
 	Current Position	当前位置
 	Current record	当前记录
 	Current style: {style}	当前样式：{style}
@@ -459,12 +474,14 @@
 	Decrease Font Size	减小字号
 	Decrease Indent	减少缩进量
 	Deep	深沉
+	Default formatting	默认格式
 	Default tab stops:	默认制表位：
 	Define New Bullet	定义新项目符号
 	Define New Multilevel List	定义新的多级列表
 	Define New Multilevel List…	定义新的多级列表…
 	Define New Number Format	定义新编号格式
 	Deflate	收缩
+	Delete Around Caret in Equation	在公式中删除光标周围内容
 	Delete Back in Equation	在公式中向前删除
 	Delete Bookmark	删除书签
 	Delete Cells	删除单元格
@@ -533,6 +550,7 @@
 	Don't capitalize after:	不在以下内容后大写:
 	Don't hyphenate	不断字
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	不朗读 Zotero、Mendeley 或 EndNote 的引文和参考文献
+	Don't show me this tip again	不再显示此提示
 	Dot dash	点划线
 	Dot-dash	点划线
 	Dot-dot-dash	双点划线
@@ -642,6 +660,9 @@
 	Export Page as PNG	将页面导出为 PNG
 	Extend Selection	扩展选定范围
 	Extend Selection by Units	按单位扩展选定范围
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} 可以重复上一个操作。设置十个标题的格式，一下子就变成点一次再按九下。
+	{key} checks the spelling and grammar of the whole document.	{key} 可以检查整个文档的拼写和语法。
+	Faster: {command} is {key} on the keyboard.	更快的方法：{command} 的键盘快捷键是 {key}。
 	Field	域
 	Field code:	域代码：
 	Field Codes	域代码
@@ -712,6 +733,7 @@
 	Formatting at Selection	选定内容的格式
 	Formatting exceptions	格式例外
 	Formatting marks	格式标记
+	Formatting saved for new documents:	为新文档保存的格式：
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	会比较格式、大小写、空白和表格；其他设置留待以后支持。
 	Formula	公式
 	Formula:	公式：
@@ -726,10 +748,12 @@
 	From Top Left Corner	从左上角
 	From Top Right Corner	从右上角
 	from Unicode (hex)	来自 Unicode（十六进制）
+	From {name}	来自 {name}
 	From:	从：
 	Full page of the same label	同一标签的整页
 	Full Screen View	全屏视图
 	Full\nScreen	全屏
+	Fun fact: a blank page is just a draft that hasn't been told yet.	冷知识：空白页只是一份还没被告知内容的草稿。
 	Function	函数
 	Gallery	画廊
 	German (Germany)	德语（德国）
@@ -742,6 +766,7 @@
 	Go to Record	转到记录
 	Go to what:	定位目标：
 	Go To…	定位…
+	Gone! Like it was never written. Mostly because it now wasn't.	没了！就像从没写过一样。主要是因为现在确实没写过了。
 	Good afternoon	下午好
 	Good evening	晚上好
 	Good morning	早上好
@@ -773,6 +798,7 @@
 	Hebrew	希伯来语
 	Height:	高度：
 	Hex:	十六进制:
+	Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?	你好！我是 Nib，你的写作助手。我会提供提示、快捷键，偶尔还有你没问过的意见。要我留下来吗？
 	Hidden	隐藏
 	Hidden bookmarks	隐藏书签
 	Hidden text	隐藏文字
@@ -803,6 +829,8 @@
 	Hyphenation Options…	断字选项…
 	Hyphenation zone:	断字区：
 	Hyphens (--) as dashes (—)	连字符 (--) 替换为破折号 (—)
+	I promise it's saved. I checked. Twice.	我保证已经保存了。我检查过了。两次。
+	I'd write something myself, but I'm all nib and no ink.	我也想自己写点什么，可惜我是支没墨水的笔。
 	I, II, III, …	I, II, III, …
 	i, ii, iii, …	i, ii, iii, …
 	Icon Color	图标颜色
@@ -904,6 +932,7 @@
 	Is blank	为空
 	Is not blank	不为空
 	Issue	期号
+	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	看起来你在写信。要为它准备一个信封，还是从信函模板开始？
 	Italic	倾斜
 	Join the ArtCraft community on Discord	加入 Discord 上的 ArtCraft 社区
 	Join us on Discord: discord.gg/artcraft	在 Discord 上加入我们：discord.gg/artcraft
@@ -912,6 +941,7 @@
 	Justified	两端对齐
 	Keep Lines Together	段中不分页
 	Keep lines together	段中不分页
+	Keep me around	留下来吧
 	Keep Text Only	只保留文本
 	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	请妥善保管密码：没有密码，任何人（包括 WordCraft）都无法打开文档。两个框都留空可删除密码。
 	Keep with Next	与下段同页
@@ -954,6 +984,7 @@
 	Less than or equal	小于或等于
 	Letter	信函
 	Letter headings	字母标题
+	Letter template	信函模板
 	Letters	信函
 	Level {n}	{n} 级
 	Levels:	级别：
@@ -1007,6 +1038,7 @@
 	Location: {path}	位置：{path}
 	Lock aspect ratio	锁定纵横比
 	Lock Fields	锁定域
+	Lorem ipsum: because the real words are still at the café.	Lorem ipsum：因为真正的文字还在路上。
 	lowercase	全部小写
 	Lum:	亮度:
 	Macros	宏
@@ -1092,6 +1124,7 @@
 	Multilevel List	多级列表
 	Multilevel List Library	多级列表库
 	Multiple Pages	多页
+	Mute agent messages	静音代理消息
 	My list has	列表包含
 	Name of the file this document is saved as	文档的文件名
 	Narrow	窄
@@ -1100,6 +1133,14 @@
 	Navigation Pane	导航窗格
 	New Comment	新建批注
 	New comments and tracked changes are recorded under this name and these initials.	新批注和修订将以此名称和缩写记录。
+	New Documents Based on This Template	基于此模板的新文档
+	New documents based on this template	基于此模板的新文档
+	New documents will use this font.	新文档将使用此字体。
+	New documents will use this page setup.	新文档将使用此页面设置。
+	New documents will use this paragraph formatting.	新文档将使用此段落格式。
+	New documents will use this style.	新文档将使用此样式。
+	New documents will use WordCraft's built-in formatting.	新文档将使用 WordCraft 的内置格式。
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	新文档将使用 WordCraft 的内置格式。已保存的默认设置无法恢复。是否重置？
 	New Drawing Canvas	新建绘图画布
 	New Entry	新建条目
 	New Label	新建标签
@@ -1119,6 +1160,8 @@
 	Next Section	下一节
 	Next Sentence	下一句
 	Next sentence	下一句
+	Nib floats over the window with tips and the occasional remark.	Nib 悬浮在窗口上方，提供提示，偶尔也发表点意见。
+	Nib, your assistant. Drag to move; right-click for options.	你的助手 Nib。拖动可移动；右键单击打开选项。
 	No accessibility issues found.	未发现辅助功能问题。
 	No Border	无框线
 	No changes (read only)	不允许任何更改(只读)
@@ -1162,6 +1205,7 @@
 	not editing an equation	未在编辑公式
 	Not equal to	不等于
 	Not linked: click a text box	未链接：请单击文本框
+	Not now	以后再说
 	Not saved	未保存
 	Not saved yet	尚未保存
 	Not set	未设置
@@ -1216,6 +1260,7 @@
 	Only for the selected text	仅针对所选文字
 	Only form fields can be filled in.	只能填写窗体域。
 	only in Outline view	仅在大纲视图中可用
+	Only in this document	仅在此文档中
 	Only the allowed styles can be applied.	只能应用允许的样式。
 	Only web (http, https) and email (mailto) links can be followed	只能打开网页（http、https）和电子邮件（mailto）链接
 	Open a document first	请先打开文档
@@ -1467,9 +1512,11 @@
 	Reset All…	全部重置…
 	Reset Character Formatting	重置字符格式
 	Reset Crop	重设裁剪
+	Reset Default Formatting	重置默认格式
 	Reset Graphic	重设图形
 	Reset Paragraph Formatting	重置段落格式
 	Reset Picture	重设图片
+	Reset tips	重置提示
 	Reset to Normal	重置为正文
 	Reset\nGraphic	重设\n图形
 	Resize Table by Dragging	拖动调整表格大小
@@ -1489,6 +1536,7 @@
 	Reviewing — edits become suggestions	审阅 — 编辑内容将成为修订建议
 	Revised document	修订的文档
 	Rewind	倒回
+	Rewinding. Tell me when to stop.	正在倒带。要停的时候告诉我。
 	Ribbon	功能区
 	Ribbon and Quick Access Toolbar:	功能区和快速访问工具栏：
 	Ribbon tabs	功能区选项卡
@@ -1505,6 +1553,7 @@
 	Right-to-Left Section	从右向左节
 	Right-to-Left Table	从右向左表格
 	Right-to-Left Text Direction	从右向左文字方向
+	Romanian	罗马尼亚语
 	Rotate all text 270°	将所有文字旋转 270°
 	Rotate all text 90°	将所有文字旋转 90°
 	Rotate Left 90°	向左旋转 90°
@@ -1525,8 +1574,11 @@
 	Save the document to turn on AutoSave	保存文档后即可开启自动保存
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	保存文档后即可开启自动保存（仅打开过的文件在你保存之前不会被改写）
 	Save these pages as PDF…	将这些页面另存为 PDF…
+	Saved. Saved again. Still saved. It's very saved.	已保存。又保存了。仍然已保存。保存得不能再保存了。
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	将 .dotx 模板保存到你的模板文件夹。它会显示在“文件 › 新建”的“个人”下。
 	Saving {name} was cancelled, so it is still open and nothing was lost.	已取消保存 {name}，文档仍处于打开状态，没有丢失任何内容。
+	Sayings	俏皮话
+	Sayings:	俏皮话：
 	Scale Drawing	缩放绘图
 	Scatter	散点图
 	Script	上下标
@@ -1601,6 +1653,9 @@
 	Series {n}	系列 {n}
 	Set As Default	设为默认值
 	Set as Default	设为默认值
+	Set As Default (Font)	设为默认值（字体）
+	Set As Default (Page Setup)	设为默认值（页面设置）
+	Set As Default (Paragraph)	设为默认值（段落）
 	Set Caret	设置光标
 	Set Character Formatting	设置字符格式
 	Set Date	设置日期
@@ -1615,6 +1670,7 @@
 	Shape Format	形状格式
 	Shape Outline	形状轮廓
 	Shape Styles	形状样式
+	{key} starts a new line without starting a new paragraph.	{key} 可以换行，但不开始新段落。
 	Shift+Tab	Shift+Tab
 	Shipping labels	运输标签
 	Shortcut key:	快捷键：
@@ -1651,11 +1707,14 @@
 	Show Quick Access Toolbar	显示快速访问工具栏
 	Show revisions in balloons	在批注框中显示修订
 	Show Text Formatting	显示文本格式
+	Show the Assistant	显示助手
 	Show the community button in the title bar	在标题栏中显示社区按钮
 	Show the mini toolbar when text is selected	选择文本时显示浮动工具栏
 	Show the ribbon	显示功能区
 	Show the Start screen when WordCraft starts	启动 WordCraft 时显示开始屏幕
+	Show the tips you asked not to see again.	重新显示你要求不再显示的提示。
 	Show/Hide ¶	显示/隐藏 ¶
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	显示/隐藏 ¶ ({key}) 会显示藏在文字中的空格、制表符和分隔符。
 	Show\nComments	显示批注
 	Showing the first {count} items.	仅显示前 {count} 项。
 	Shows a tree: each item below the item it belongs to.	显示树形结构：每个项目位于其所属项目的下方。
@@ -1700,6 +1759,7 @@
 	Soft Glow	柔和发光
 	Solid Accent	纯色强调
 	Solid fill	纯色填充
+	Sometimes	有时
 	Sort by	排序依据
 	Sort by:	排序依据：
 	Sort order:	排序方式：
@@ -1739,6 +1799,7 @@
 	Start Mail\nMerge	开始邮件合并
 	Start-up	启动
 	State	省/州
+	Still there? I can hear you thinking.	还在吗？我都能听到你在思考。
 	Stop Protection	停止保护
 	Stop Reading	停止朗读
 	Stopped	已停止
@@ -1795,6 +1856,7 @@
 	Tabular List	表格列表
 	Tag	标记
 	Take the last match on the page	取本页最后一个匹配项
+	Take your time. The page isn't going anywhere. Neither am I. Ever.	慢慢来。页面不会消失的。我也不会。一直都在。
 	TC entry fields	TC 条目域
 	Technology	科技
 	Templates and Add-ins	模板和加载项
@@ -1833,6 +1895,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	页边距放不进此大小的页面；请先减小页边距。
 	The measurement must be between {min} and {max}.	度量值必须介于 {min} 和 {max} 之间。
 	The new style takes the formatting of the current paragraph.	新样式将采用当前段落的格式。
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	无法读取“正常”模板，因此此文档使用 WordCraft 的内置格式。
 	The number must be between 1 and {max}.	数字必须介于 1 和 {max} 之间。
 	the paragraph is empty	段落为空
 	the paragraph starts with a space	段落以空格开头
@@ -1860,6 +1923,7 @@
 	Thick	粗线
 	this chart was made in another program: WordCraft shows it but can't edit it	此图表由其他程序创建: WordCraft 可以显示但无法编辑
 	This document	此文档
+	This document only?	仅此文档？
 	This field has no options.	此域没有选项。
 	This folder can't be read: {error}	无法读取此文件夹：{error}
 	This font has no characters to show.	此字体没有可显示的字符。
@@ -1868,11 +1932,14 @@
 	This password type isn't supported.	不支持此密码类型。
 	This point forward	插入点之后
 	This section	本节
+	this session has no Normal template (headless or without preferences)	此会话没有“正常”模板（无界面或无首选项）
+	this session has no Normal template (headless or without preferences): use "scope": "document"	此会话没有“正常”模板（无界面或无首选项）：请使用 "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	此 SmartArt 由其他程序创建: WordCraft 可以显示但无法编辑
 	this text box is already linked: break the link first	此文本框已链接: 请先断开链接
 	Three	三栏
 	Through	穿越型
 	Tight	紧密
+	Tip	提示
 	Tips ({n})	提示 ({n})
 	Title Bar	标题栏
 	Title from the document properties	文档标题
@@ -1934,6 +2001,7 @@
 	Undo Actions	撤消多项操作
 	Undo History	撤消历史记录
 	Undo {n} Actions	撤消 {n} 项操作
+	Undo, undo, undo… we're time travelling now.	撤消、撤消、撤消……我们这是在穿越时空了。
 	Unformatted Text	无格式文本
 	Ungroup	取消组合
 	Unlink Fields	取消域链接
@@ -1955,7 +2023,9 @@
 	Use an Existing List…	使用现有列表…
 	Use system setting	使用系统设置
 	Use the browser's full screen (F11)	请使用浏览器的全屏模式 (F11)
+	Use the current style set and theme for all new documents?	将当前样式集和主题用于所有新文档？
 	Use the Insert key to switch overtype on and off	用 Insert 键切换改写模式
+	Use this formatting as the default for:	将此格式用作以下内容的默认格式：
 	Use wildcards	使用通配符
 	User Name	用户名
 	User name:	用户名：
@@ -1967,6 +2037,7 @@
 	View Alt Text…	查看替代文字…
 	View Gridlines	查看网格线
 	View State	视图状态
+	View › Focus hides everything but your words. I'll wait outside.	视图 › 专注 会隐藏文字以外的一切。我去外面等你。
 	Views	视图
 	Visual effects	视觉效果
 	Voice	语音
@@ -2018,8 +2089,12 @@
 	Wrap\nText	环绕文字
 	Write & Insert Fields	编写和插入域
 	Write a reply	写回复
+	Writer's block? I find staring at the cursor helps. It's been blinking at me for years.	写不下去了？我发现一直看着光标挺有用的。它已经对我闪了好几年了。
 	Year	年份
+	You haven't saved in a while, and AutoSave is off. Save now?	你已经有一阵子没保存了，而且自动保存已关闭。现在保存吗？
+	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	你开始了一个列表。按两次 Enter 结束列表，或在项目开头按 Backspace 将其变回普通文本。
 	Your changes will be lost if you don't save them.	如果不保存，您的更改将会丢失。
+	Your document is now the most saved document in history.	你的文档现在是史上保存次数最多的文档。
 	Your system doesn't report an animation setting, so animation effects stay on.	系统未提供动画设置，因此动画效果保持打开。
 	Your system has animation effects turned off.	系统已关闭动画效果。
 	Your system has animation effects turned on.	系统已打开动画效果。
@@ -2055,4 +2130,7 @@
 	{width} × {height} mm	{width} × {height} 毫米
 	{width} × {height} pixels	{width} × {height} 像素
 	{words} words	{words} 个字
+	{words} words and counting. Literally. I'm counting.	{words} 个字，还在增加。真的，我在数。
+	{words} words! I'd throw confetti but I'd have to clean it up.	{words} 个字！我想放彩带，但之后还得自己清理。
+	{words} words. That's {words} more than I've written today.	{words} 个字。比我今天写的多了 {words} 个。
 	“{text}” ({row}, {series}) isn't a number.	“{text}”（{row}，{series}）不是数字。
