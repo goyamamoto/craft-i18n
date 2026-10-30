@@ -95,6 +95,9 @@
 	Advanced Find…	Розширений пошук…
 	After:	Після:
 	Agents	Агенти
+	Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not.	Агенти, підключені до WordCraft, можуть показувати вам повідомлення через помічника. Якщо їх вимкнено, агенти дізнаються, що ви не хочете їх отримувати.
+	Ah, Latin. The language of deadlines.	А, латина. Мертва мова — рідна мова дедлайнів.
+	Ah, the editing phase. My favourite. Very decisive.	А, етап редагування. Мій улюблений. Дуже рішучий.
 	Align Bottom Center	Вирівняти внизу по центру
 	Align Bottom Left	Вирівняти внизу ліворуч
 	Align Bottom Right	Вирівняти внизу праворуч
@@ -109,6 +112,7 @@
 	All Caps	Усі великі літери
 	All caps	Усі великі літери
 	All Commands	Усі команди
+	All documents based on the Normal template?	Усіх документів на основі шаблону «Звичайний»?
 	All Fonts	Усі шрифти
 	All Levels	Усі рівні
 	All Markup	Усі позначки
@@ -125,9 +129,11 @@
 	Alt Text Pane	Панель альтернативного тексту
 	Alt:	Альт.:
 	Alt\nText	Альтернативний\nтекст
+	an agent	агент
 	And	І
 	Animate the caret (it glides and fades)	Анімувати каретку (плавно рухається та згасає)
 	Animation effects:	Ефекти анімації:
+	Annoying	Настирливо
 	Another file	Інший файл
 	Any Character	Будь-який символ
 	Any Digit	Будь-яка цифра
@@ -152,6 +158,8 @@
 	As you type	Під час введення
 	Asian text font:	Шрифт азійського тексту:
 	Asian Typography	Азійська типографіка
+	Assistant	Помічник
+	Assistant Suggestions	Підказки помічника
 	At least	Принаймні
 	At least {n}	Щонайменше {n}
 	Atelier	Ательє
@@ -217,6 +225,7 @@
 	Block\nAuthors	Блокувати\nавторів
 	Blue:	Синій:
 	Body Text	Основний текст
+	Bold choice. Ctrl+Z is right there if you need it.	Сміливий вибір. Ctrl+Z поруч, якщо що.
 	Book	Книга
 	Book title	Назва книги
 	Bookmark	Закладка
@@ -247,6 +256,7 @@
 	By author	За автором
 	Calendar	Календар
 	Can't be deleted	Не можна видалити
+	Can't find a command? Press {key} and type what you want to do.	Не можете знайти команду? Натисніть {key} і напишіть, що хочете зробити.
 	can't split at the first row	не можна розділити таблицю на першому рядку
 	Canvas Member	Об’єкт полотна
 	Capitalize Each Word	Кожне слово з великої літери
@@ -257,6 +267,7 @@
 	Caption text	Текст підпису
 	Caption:	Підпис:
 	Captions	Підписи
+	Careful, any further back and we'll undo the invention of paper.	Обережно, ще трохи назад — і ми скасуємо винайдення паперу.
 	Caret Character	Символ каретки
 	Case changes	Зміни регістру
 	Categories	Категорії
@@ -421,6 +432,10 @@
 	Crop	Обітнути
 	Cross-reference	Перехресне посилання
 	Cross-reference:	Перехресне посилання:
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} починає нову сторінку. Значно охайніше, ніж тиснути Enter, доки вона не з’явиться.
+	{key} finds and replaces text, formatting and special characters.	{key} знаходить і замінює текст, форматування та спеціальні символи.
+	{key} turns the selected text into a link.	{key} перетворює виділений текст на посилання.
+	{key} counts your words, characters and paragraphs.	{key} рахує слова, символи й абзаци.
 	Current Position	Поточне положення
 	Current record	Поточний запис
 	Current style: {style}	Поточний стиль: {style}
@@ -461,12 +476,14 @@
 	Decrease Indent	Зменшити відступ
 	Deep	Глибокий
 	Default	Типовий
+	Default formatting	Типове форматування
 	Default tab stops:	Типові позиції табуляції:
 	Define New Bullet	Визначити новий маркер
 	Define New Multilevel List	Визначити новий багаторівневий список
 	Define New Multilevel List…	Визначити новий багаторівневий список…
 	Define New Number Format	Визначити новий формат номера
 	Deflate	Стиснення
+	Delete Around Caret in Equation	Видалити навколо каретки в рівнянні
 	Delete Back in Equation	Видалити назад у рівнянні
 	Delete Bookmark	Видалити закладку
 	Delete Cells	Видалити клітинки
@@ -535,6 +552,7 @@
 	Don't capitalize after:	Не робити великої літери після:
 	Don't hyphenate	Без перенесення слів
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Не читати цитати й бібліографії Zotero, Mendeley чи EndNote
+	Don't show me this tip again	Більше не показувати цю пораду
 	Dot dash	Штрихпунктирна
 	Dot-dash	Штрихпунктирна
 	Dot-dot-dash	Штрихпунктирна з двома крапками
@@ -649,6 +667,9 @@
 	Exported {path}	Експортовано {path}
 	Extend Selection	Розширити виділення
 	Extend Selection by Units	Розширити виділення за одиницями
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} повторює останню дію. Відформатувати десять заголовків — раптом один клік і дев’ять натискань.
+	{key} checks the spelling and grammar of the whole document.	{key} перевіряє правопис і граматику в усьому документі.
+	Faster: {command} is {key} on the keyboard.	Швидше: {command} — це {key} на клавіатурі.
 	Field code:	Код поля:
 	Field Codes	Коди полів
 	Field codes:	Коди полів:
@@ -717,6 +738,7 @@
 	Formatting at Selection	Форматування виділення
 	Formatting exceptions	Винятки форматування
 	Formatting marks	Знаки форматування
+	Formatting saved for new documents:	Форматування, збережене для нових документів:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Порівнюються форматування, регістр, пробіли й таблиці; інші параметри збережено на майбутнє.
 	Formula	Формула
 	Formula:	Формула:
@@ -731,11 +753,13 @@
 	From Top Left Corner	Із кута зліва вгорі
 	From Top Right Corner	Із кута справа вгорі
 	from Unicode (hex)	з Unicode (шістн.)
+	From {name}	Від: {name}
 	From:	З:
 	Full page of the same label	Ціла сторінка однакових етикеток
 	Full Screen	На весь екран
 	Full Screen View	Повноекранний режим
 	Full\nScreen	На весь\nекран
+	Fun fact: a blank page is just a draft that hasn't been told yet.	Цікавий факт: порожня сторінка — це просто чернетка, якій ще не розповіли, про що вона.
 	Function	Функція
 	Gallery	Галерея
 	German (Germany)	Німецька (Німеччина)
@@ -748,6 +772,7 @@
 	Go to Record	Перейти до запису
 	Go to what:	Перейти до:
 	Go To…	Перейти…
+	Gone! Like it was never written. Mostly because it now wasn't.	Зникло! Наче й не було написано. Здебільшого тому, що тепер і справді не написано.
 	Good afternoon	Добрий день
 	Good evening	Добрий вечір
 	Good morning	Доброго ранку
@@ -778,6 +803,7 @@
 	Heading {n}	Заголовок {n}
 	Hebrew	Іврит
 	Hex:	Hex:
+	Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?	Привіт! Я Nib, ваш помічник з письма. Я даю поради, підказую сполучення клавіш і часом висловлюю непрохану думку. Мені залишитися?
 	Hidden	Прихований
 	Hidden bookmarks	Приховані закладки
 	Hide Codes	Сховати коди
@@ -808,6 +834,8 @@
 	Hyphenation Options…	Параметри перенесення слів…
 	Hyphenation zone:	Зона перенесення:
 	Hyphens (--) as dashes (—)	Дефіси (--) як тире (—)
+	I promise it's saved. I checked. Twice.	Чесне слово, збережено. Я перевірив. Двічі.
+	I'd write something myself, but I'm all nib and no ink.	Я б і сам щось написав, але я перо без чорнила. Суцільний натиск, нуль результату.
 	I, II, III, …	I, II, III, …
 	i, ii, iii, …	i, ii, iii, …
 	Icon Color	Колір піктограми
@@ -913,6 +941,7 @@
 	Is blank	Порожнє
 	Is not blank	Не порожнє
 	Issue	Випуск
+	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	Схоже, ви пишете лист. Підготувати для нього конверт чи почати з шаблону листа?
 	Join the ArtCraft community on Discord	Приєднатися до спільноти ArtCraft у Discord
 	Join us on Discord: discord.gg/artcraft	Приєднуйтеся до нас у Discord: discord.gg/artcraft
 	Journal	Журнал
@@ -920,6 +949,7 @@
 	Justified	За шириною
 	Keep Lines Together	Не розривати рядки абзацу
 	Keep lines together	Не розривати рядки абзацу
+	Keep me around	Залишайся
 	Keep Text Only	Зберегти лише текст
 	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	Зберігайте пароль у надійному місці: без нього ніхто, зокрема WordCraft, не зможе відкрити документ. Залиште обидва поля порожніми, щоб видалити пароль.
 	Keep with Next	Не відривати від наступного
@@ -963,6 +993,7 @@
 	Less than or equal	Менше або дорівнює
 	Letter	Лист
 	Letter headings	Літерні заголовки
+	Letter template	Шаблон листа
 	Letters	Листи
 	Level {n}	Рівень {n}
 	Levels:	Рівні:
@@ -1017,6 +1048,7 @@
 	Location: {path}	Розташування: {path}
 	Lock aspect ratio	Зберігати пропорції
 	Lock Fields	Заблокувати поля
+	Lorem ipsum: because the real words are still at the café.	Lorem ipsum: бо справжні слова ще сидять у кав’ярні.
 	lowercase	малі літери
 	Lum:	Яскравість:
 	Macros	Макроси
@@ -1103,6 +1135,7 @@
 	Multilevel List	Багаторівневий список
 	Multilevel List Library	Бібліотека багаторівневих списків
 	Multiple Pages	Кілька сторінок
+	Mute agent messages	Вимкнути повідомлення агентів
 	My list has	Мій список містить
 	Name	Ім'я
 	Name (A–Z)	Назва (А–Я)
@@ -1114,6 +1147,14 @@
 	New	Новий
 	New Comment	Новий коментар
 	New comments and tracked changes are recorded under this name and these initials.	Нові коментарі та відстежувані зміни записуються під цим іменем і цими ініціалами.
+	New Documents Based on This Template	У нових документах на основі цього шаблону
+	New documents based on this template	У нових документах на основі цього шаблону
+	New documents will use this font.	Нові документи використовуватимуть цей шрифт.
+	New documents will use this page setup.	Нові документи використовуватимуть ці параметри сторінки.
+	New documents will use this paragraph formatting.	Нові документи використовуватимуть це форматування абзацу.
+	New documents will use this style.	Нові документи використовуватимуть цей стиль.
+	New documents will use WordCraft's built-in formatting.	Нові документи використовуватимуть вбудоване форматування WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Нові документи використовуватимуть вбудоване форматування WordCraft. Збережені типові параметри не можна буде відновити. Скинути?
 	New Drawing Canvas	Нове полотно малювання
 	New Entry	Новий запис
 	New from Template	Створити з шаблону
@@ -1134,6 +1175,8 @@
 	Next Section	Наступний розділ
 	Next Sentence	Наступне речення
 	Next sentence	Наступне речення
+	Nib floats over the window with tips and the occasional remark.	Ніб ширяє над вікном із порадами й зрідка зауваженнями.
+	Nib, your assistant. Drag to move; right-click for options.	Ніб, ваш помічник. Перетягніть, щоб перемістити; клацніть правою кнопкою для параметрів.
 	No accessibility issues found.	Проблем із доступністю не знайдено.
 	No Border	Без меж
 	No changes (read only)	Без змін (лише читання)
@@ -1178,6 +1221,7 @@
 	not editing an equation	рівняння не редагується
 	Not equal to	Не дорівнює
 	Not linked: click a text box	Не зв'язано: клацніть текстове поле
+	Not now	Не зараз
 	Not saved	Не збережено
 	Not saved yet	Ще не збережено
 	Not set	Не задано
@@ -1233,6 +1277,7 @@
 	Only for the selected text	Лише для виділеного тексту
 	Only form fields can be filled in.	Можна заповнювати лише поля форми.
 	only in Outline view	лише в поданні «План»
+	Only in this document	Лише в цьому документі
 	Only the allowed styles can be applied.	Можна застосовувати лише дозволені стилі.
 	Only web (http, https) and email (mailto) links can be followed	Можна переходити лише за вебпосиланнями (http, https) і посиланнями на електронну пошту (mailto)
 	Open a document first	Спочатку відкрийте документ
@@ -1479,9 +1524,11 @@
 	Reset All…	Скинути все…
 	Reset Character Formatting	Скинути форматування символів
 	Reset Crop	Скинути обітнення
+	Reset Default Formatting	Скидання типового форматування
 	Reset Graphic	Скинути графіку
 	Reset Paragraph Formatting	Скинути форматування абзацу
 	Reset Picture	Скинути зображення
+	Reset tips	Скинути поради
 	Reset to Normal	Скинути до звичайного
 	Reset\nGraphic	Скинути\nграфіку
 	Resize Table by Dragging	Змінити розмір таблиці перетягуванням
@@ -1501,6 +1548,7 @@
 	Reviewing — edits become suggestions	Рецензування — зміни стають пропозиціями
 	Revised document	Змінений документ
 	Rewind	На початок
+	Rewinding. Tell me when to stop.	Перемотую. Скажіть, коли зупинитися.
 	Ribbon	Стрічка
 	Ribbon and Quick Access Toolbar:	Стрічка й панель швидкого доступу:
 	Ribbon tabs	Вкладки стрічки
@@ -1517,6 +1565,7 @@
 	Right-to-Left Section	Розділ справа наліво
 	Right-to-Left Table	Таблиця справа наліво
 	Right-to-Left Text Direction	Напрямок тексту справа наліво
+	Romanian	Румунська
 	Rotate all text 270°	Повернути весь текст на 270°
 	Rotate all text 90°	Повернути весь текст на 90°
 	Rotate Left 90°	Повернути ліворуч на 90°
@@ -1537,8 +1586,11 @@
 	Save the document to turn on AutoSave	Збережіть документ, щоб увімкнути автозбереження
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Збережіть документ, щоб увімкнути автозбереження (файл, який ви лише відкрили, не перезаписується, доки ви його не збережете)
 	Save these pages as PDF…	Зберегти ці сторінки як PDF…
+	Saved. Saved again. Still saved. It's very saved.	Збережено. Знову збережено. Досі збережено. Дуже збережено.
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Зберігає шаблон .dotx у вашій теці шаблонів. Він з’являється в розділі Файл › Новий, у групі «Особисті».
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Збереження {name} скасовано. Документ досі відкритий, нічого не втрачено.
+	Sayings	Репліки
+	Sayings:	Репліки:
 	Scale Drawing	Масштабувати малюнок
 	Scatter	Точкова
 	Script	Індекс
@@ -1614,6 +1666,9 @@
 	Series {n}	Ряд {n}
 	Set As Default	Зробити типовою
 	Set as Default	Установити як типове
+	Set As Default (Font)	Зробити типовою (Шрифт)
+	Set As Default (Page Setup)	Зробити типовою (Параметри сторінки)
+	Set As Default (Paragraph)	Зробити типовою (Абзац)
 	Set Caret	Установити каретку
 	Set Character Formatting	Установити форматування символів
 	Set Date	Задати дату
@@ -1629,6 +1684,7 @@
 	Shape Format	Формат фігури
 	Shape Outline	Контур фігури
 	Shape Styles	Стилі фігур
+	{key} starts a new line without starting a new paragraph.	{key} починає новий рядок, не починаючи новий абзац.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Етикетки для відправлень
 	Shortcut key:	Сполучення клавіш:
@@ -1666,11 +1722,14 @@
 	Show Quick Access Toolbar	Показати панель швидкого доступу
 	Show revisions in balloons	Показувати виправлення у виносках
 	Show Text Formatting	Показати форматування тексту
+	Show the Assistant	Показувати помічника
 	Show the community button in the title bar	Показувати кнопку спільноти в заголовку вікна
 	Show the mini toolbar when text is selected	Показувати міні-панель інструментів під час виділення тексту
 	Show the ribbon	Показати стрічку
 	Show the Start screen when WordCraft starts	Показувати початковий екран під час запуску WordCraft
+	Show the tips you asked not to see again.	Знову показує поради, які ви приховали.
 	Show/Hide ¶	Показати/приховати ¶
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Показати/приховати ¶ ({key}) показує пробіли, табуляції та розриви, що ховаються у вашому тексті.
 	Show\nComments	Показати\nкоментарі
 	Showing the first {count} items.	Показано лише перші елементи: {count}.
 	Shows a tree: each item below the item it belongs to.	Показує дерево: кожен елемент під елементом, до якого він належить.
@@ -1713,6 +1772,7 @@
 	Soft Glow	М'яке світіння
 	Solid Accent	Суцільний акцент
 	Solid fill	Суцільна заливка
+	Sometimes	Іноді
 	Sort by:	Сортувати за:
 	Sort order:	Порядок сортування:
 	Sort Recipients	Сортування одержувачів
@@ -1752,6 +1812,7 @@
 	Start Mail\nMerge	Почати злиття\nпошти
 	Start-up	Запуск
 	State	Область
+	Still there? I can hear you thinking.	Ви ще тут? Я чую, як ви думаєте.
 	Stop Protection	Вимкнути захист
 	Stop Reading	Зупинити читання
 	Stopped	Зупинено
@@ -1807,6 +1868,7 @@
 	Tabular List	Табличний список
 	Tag	Тег
 	Take the last match on the page	Брати останній збіг на сторінці
+	Take your time. The page isn't going anywhere. Neither am I. Ever.	Не поспішайте. Сторінка нікуди не дінеться. Як і я. Ніколи.
 	TC entry fields	Поля елементів TC
 	Technology	Технології
 	Templates and Add-ins	Шаблони й надбудови
@@ -1844,6 +1906,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Поля не вміщуються на сторінці такого розміру; спершу зменште поля.
 	The measurement must be between {min} and {max}.	Розмір має бути від {min} до {max}.
 	The new style takes the formatting of the current paragraph.	Новий стиль використовує форматування поточного абзацу.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Не вдалося прочитати шаблон «Звичайний», тому цей документ використовує вбудоване форматування WordCraft.
 	The number must be between 1 and {max}.	Число має бути від 1 до {max}.
 	the paragraph is empty	абзац порожній
 	the paragraph starts with a space	абзац починається з пробілу
@@ -1871,6 +1934,7 @@
 	Thick	Товста
 	this chart was made in another program: WordCraft shows it but can't edit it	цю діаграму створено в іншій програмі: WordCraft показує її, але не може редагувати
 	This document	Цей документ
+	This document only?	Лише цього документа?
 	This field has no options.	Це поле не має параметрів.
 	This folder can't be read: {error}	Не вдається прочитати цю теку: {error}
 	This font has no characters to show.	Цей шрифт не має символів для показу.
@@ -1879,11 +1943,14 @@
 	This password type isn't supported.	Цей тип пароля не підтримується.
 	This point forward	Від цього місця
 	This section	Цей розділ
+	this session has no Normal template (headless or without preferences)	у цьому сеансі немає шаблону «Звичайний» (без інтерфейсу або без налаштувань)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	у цьому сеансі немає шаблону «Звичайний» (без інтерфейсу або без налаштувань): використайте "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	цей SmartArt створено в іншій програмі: WordCraft показує його, але не може редагувати
 	this text box is already linked: break the link first	це текстове поле вже зв’язане: спочатку розірвіть зв’язок
 	Three	Три
 	Through	Наскрізне
 	Tight	Щільний
+	Tip	Порада
 	Tips ({n})	Поради ({n})
 	Title	Назва
 	Title Bar	Рядок заголовка
@@ -1947,6 +2014,7 @@
 	Undo History	Журнал скасування
 	Undo {action}	Скасувати {action}
 	Undo {n} Actions	Скасувати дій: {n}
+	Undo, undo, undo… we're time travelling now.	Скасувати, скасувати, скасувати… ми вже подорожуємо в часі.
 	Unformatted Text	Неформатований текст
 	Unlink Fields	Від’єднати поля
 	Unlink\nCitations	Від'єднати\nцитати
@@ -1965,7 +2033,9 @@
 	Use an Existing List…	Використати наявний список…
 	Use system setting	Як у системі
 	Use the browser's full screen (F11)	Скористайтеся повноекранним режимом браузера (F11)
+	Use the current style set and theme for all new documents?	Використовувати поточний набір стилів і тему для всіх нових документів?
 	Use the Insert key to switch overtype on and off	Клавіша Insert вмикає та вимикає режим заміни
+	Use this formatting as the default for:	Використовувати це форматування як типове для:
 	Use wildcards	Використовувати шаблони
 	User Name	Ім'я користувача
 	User name:	Ім'я користувача:
@@ -1979,6 +2049,7 @@
 	View Alt Text…	Переглянути альтернативний текст…
 	View Gridlines	Показати лінії сітки
 	View State	Стан вигляду
+	View › Focus hides everything but your words. I'll wait outside.	Вигляд › Зосередження приховує все, крім ваших слів. Я почекаю за дверима.
 	Views	Вигляди
 	Visual effects	Візуальні ефекти
 	Volume	Том
@@ -2025,7 +2096,11 @@
 	Wrap\nText	Обтікання\nтекстом
 	Write & Insert Fields	Написання й вставлення полів
 	Write a reply	Напишіть відповідь
+	Writer's block? I find staring at the cursor helps. It's been blinking at me for years.	Творча криза? Мені допомагає дивитися на курсор. Він блимає мені вже багато років.
 	Year	Рік
+	You haven't saved in a while, and AutoSave is off. Save now?	Ви давно не зберігали, а автозбереження вимкнено. Зберегти зараз?
+	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Ви почали список. Натисніть Enter двічі, щоб його завершити, або Backspace на початку пункту, щоб знову перетворити його на звичайний текст.
+	Your document is now the most saved document in history.	Ваш документ тепер найзбереженіший документ в історії.
 	Your system doesn't report an animation setting, so animation effects stay on.	Система не повідомляє про налаштування анімації, тому ефекти анімації залишаються ввімкненими.
 	Your system has animation effects turned off.	У вашій системі ефекти анімації вимкнено.
 	Your system has animation effects turned on.	У вашій системі ефекти анімації ввімкнено.
@@ -2063,4 +2138,7 @@
 	{width} × {height} mm	{width} × {height} мм
 	{width} × {height} pixels	{width} × {height} пікс.
 	{words} words	Слів: {words}
+	{words} words and counting. Literally. I'm counting.	Слів: {words}, і лік триває. Буквально. Я рахую.
+	{words} words! I'd throw confetti but I'd have to clean it up.	Слів: {words}! Я б кинув конфеті, але ж потім самому прибирати.
+	{words} words. That's {words} more than I've written today.	Слів: {words}. Це на {words} більше, ніж я написав сьогодні.
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) — не число.

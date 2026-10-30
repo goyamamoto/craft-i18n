@@ -114,6 +114,9 @@
 	Advanced Find…	Wyszukiwanie zaawansowane…
 	After:	Po:
 	Agents	Agenci
+	Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not.	Agenci połączeni z WordCraftem mogą wyświetlać ci wiadomości przez asystenta. Gdy je wyciszysz, dowiedzą się, że ich nie chcesz.
+	Ah, Latin. The language of deadlines.	Ach, łacina. Martwy język, zupełnie jak wczorajszy termin.
+	Ah, the editing phase. My favourite. Very decisive.	Ach, faza redakcji. Moja ulubiona. Bardzo stanowcza.
 	Align Bottom Center	Wyrównaj do dołu i do środka
 	Align Bottom Left	Wyrównaj do dołu i do lewej
 	Align Bottom Right	Wyrównaj do dołu i do prawej
@@ -129,6 +132,7 @@
 	All Borders	Wszystkie krawędzie
 	All caps	Wersaliki
 	All Commands	Wszystkie polecenia
+	All documents based on the Normal template?	Wszystkich dokumentów opartych na szablonie Normalny?
 	All Fonts	Wszystkie czcionki
 	All Levels	Wszystkie poziomy
 	All Markup	Wszystkie znaczniki
@@ -145,6 +149,7 @@
 	Alt Text Pane	Okienko tekstu alternatywnego
 	Alt:	Alt.:
 	Alt\nText	Tekst\nalternatywny
+	an agent	agent
 	And	I
 	Angle Brackets	Nawiasy kątowe
 	Angle Brackets with Separator	Nawiasy kątowe z separatorem
@@ -154,6 +159,7 @@
 	Annotation Reference	Odwołanie do adnotacji
 	Annotation Subject	Temat adnotacji
 	Annotation Text	Tekst adnotacji
+	Annoying	Natrętnie
 	Another file	Inny plik
 	Any Character	Dowolny znak
 	Any Digit	Dowolna cyfra
@@ -181,6 +187,8 @@
 	ASAP	JAK NAJSZYBCIEJ
 	Asian text font:	Czcionka tekstu azjatyckiego:
 	Asian Typography	Typografia azjatycka
+	Assistant	Asystent
+	Assistant Suggestions	Sugestie asystenta
 	At least	Co najmniej
 	At least {n}	Co najmniej {n}
 	Atelier	Atelier
@@ -253,6 +261,7 @@
 	Blue:	Niebieski:
 	Body Text	Tekst podstawowy
 	Body text in a short paragraph to show spacing.	Treść dokumentu w krótkim akapicie pokazującym odstępy.
+	Bold choice. Ctrl+Z is right there if you need it.	Odważny wybór. Ctrl+Z czeka tuż obok, gdyby co.
 	Book	Książka
 	Book Title	Tytuł książki
 	Book title	Tytuł książki
@@ -291,6 +300,7 @@
 	By author	Według autora
 	Calendar	Kalendarz
 	Can't be deleted	Nie można usunąć
+	Can't find a command? Press {key} and type what you want to do.	Nie możesz znaleźć polecenia? Naciśnij {key} i wpisz, co chcesz zrobić.
 	can't split at the first row	nie można podzielić tabeli na pierwszym wierszu
 	Canvas Member	Element kanwy
 	Capitalize Each Word	Każdy Wyraz Wielką Literą
@@ -302,6 +312,7 @@
 	Caption text	Tekst podpisu
 	Caption:	Podpis:
 	Captions	Podpisy
+	Careful, any further back and we'll undo the invention of paper.	Ostrożnie, jeszcze trochę i cofniemy wynalezienie papieru.
 	Caret Character	Znak daszka
 	Case changes	Zmiany wielkości liter
 	Cases (Three Conditions)	Układ warunków (trzy warunki)
@@ -507,6 +518,10 @@
 	Croatian	Chorwacki
 	Cross-reference	Odsyłacz
 	Cross-reference:	Odsyłacz:
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} zaczyna nową stronę. Dużo schludniej niż wciskanie Enter, aż w końcu się uda.
+	{key} finds and replaces text, formatting and special characters.	{key} znajduje i zamienia tekst, formatowanie i znaki specjalne.
+	{key} turns the selected text into a link.	{key} zamienia zaznaczony tekst w link.
+	{key} counts your words, characters and paragraphs.	{key} liczy słowa, znaki i akapity.
 	Cube Root	Pierwiastek sześcienny
 	Current - Linear	Bieżące — liniowe
 	Current - Professional	Bieżące — profesjonalne
@@ -546,6 +561,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Obiekty dekoracyjne służą tylko ozdobie: czytniki ekranu je pomijają.
 	Decrease Indent	Zmniejsz wcięcie
 	Deep	Głęboki
+	Default formatting	Formatowanie domyślne
 	Default Paragraph Font	Domyślna czcionka akapitu
 	Default tab stops:	Domyślne tabulatory:
 	Define New Bullet	Zdefiniuj nowy punktor
@@ -553,6 +569,7 @@
 	Define New Multilevel List…	Definiuj nową listę wielopoziomową…
 	Define New Number Format	Zdefiniuj nowy format numeracji
 	Deflate	Wklęsły
+	Delete Around Caret in Equation	Usuń wokół kursora w równaniu
 	Delete Back in Equation	Usuń wstecz w równaniu
 	Delete Bookmark	Usuń zakładkę
 	Delete Cells	Usuń komórki
@@ -628,6 +645,7 @@
 	Don't capitalize after:	Nie zmieniaj na wielką literę po:
 	Don't hyphenate	Nie dziel wyrazów
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Nie czytaj cytatów ani bibliografii z Zotero, Mendeley i EndNote
+	Don't show me this tip again	Nie pokazuj więcej tej wskazówki
 	Dot dash	Kreska-kropka
 	Dot-dash	Kreska-kropka
 	Dot-dot-dash	Kreska-kropka-kropka
@@ -769,6 +787,9 @@
 	Extend Selection	Rozszerz zaznaczenie
 	Extend Selection by Units	Rozszerz zaznaczenie o jednostki
 	Extra space	Zbędna spacja
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} powtarza ostatnią czynność. Formatowanie dziesięciu nagłówków to nagle jedno kliknięcie i dziewięć stuknięć.
+	{key} checks the spelling and grammar of the whole document.	{key} sprawdza pisownię i gramatykę całego dokumentu.
+	Faster: {command} is {key} on the keyboard.	Szybciej: {command} to {key} na klawiaturze.
 	Field code:	Kod pola:
 	Field Codes	Kody pól
 	Field codes:	Kody pól:
@@ -837,6 +858,7 @@
 	Formatting at Selection	Formatowanie zaznaczenia
 	Formatting exceptions	Wyjątki formatowania
 	Formatting marks	Znaki formatowania
+	Formatting saved for new documents:	Formatowanie zapisane dla nowych dokumentów:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Porównywane są formatowanie, wielkość liter, odstępy i tabele; pozostałe ustawienia są zachowywane na później.
 	Formula	Formuła
 	Formula:	Formuła:
@@ -851,10 +873,12 @@
 	From Top Left Corner	Z narożnika: lewy górny
 	From Top Right Corner	Z narożnika: prawy górny
 	from Unicode (hex)	z Unicode (szesnastkowo)
+	From {name}	Od: {name}
 	From:	Od:
 	Full page of the same label	Cała strona tej samej etykiety
 	Full Screen View	Widok pełnoekranowy
 	Full\nScreen	Pełny\nekran
+	Fun fact: a blank page is just a draft that hasn't been told yet.	Ciekawostka: pusta strona to po prostu szkic, który jeszcze nie wie, o czym będzie.
 	Function	Funkcja
 	Gallery	Galeria
 	GB/T 7714	GB/T 7714
@@ -868,6 +892,7 @@
 	Go to Record	Przejdź do rekordu
 	Go to what:	Przejdź do:
 	Go To…	Przejdź do…
+	Gone! Like it was never written. Mostly because it now wasn't.	Przepadło! Jakby nigdy tego nie napisano. Bo w sumie teraz już nie napisano.
 	Good afternoon	Dzień dobry
 	Good evening	Dobry wieczór
 	Good morning	Dzień dobry
@@ -913,6 +938,7 @@
 	Heading {n}	Nagłówek {n}
 	Hebrew	Hebrajski
 	Hex:	Szesnastkowo:
+	Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?	Cześć! Jestem Nib, Twój asystent pisania. Podsuwam wskazówki, skróty i od czasu do czasu nieproszone opinie. Mam zostać?
 	Hidden	Ukryty
 	Hidden bookmarks	Ukryte zakładki
 	Hide Codes	Ukryj kody
@@ -949,6 +975,8 @@
 	Hyphenation zone:	Strefa dzielenia wyrazów:
 	Hyphens (--) as dashes (—)	Łączniki (--) jako pauzy (—)
 	Hypotenuse	Przeciwprostokątna
+	I promise it's saved. I checked. Twice.	Obiecuję, że jest zapisane. Sprawdziłem. Dwa razy.
+	I'd write something myself, but I'm all nib and no ink.	Sam bym coś napisał, ale ze mnie tylko stalówka. Ostra, ale ani kropli atramentu.
 	I, II, III, …	I, II, III, …
 	i, ii, iii, …	i, ii, iii, …
 	Icon Color	Kolor ikony
@@ -1082,6 +1110,7 @@
 	ISO 690 (author-date)	ISO 690 (autor–data)
 	ISO 690 (numerical)	ISO 690 (numeryczny)
 	Issue	Numer
+	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	Wygląda na to, że piszesz list. Może kopertę do niego albo szablon listu na dobry początek?
 	Join the ArtCraft community on Discord	Dołącz do społeczności ArtCraft na Discordzie
 	Join us on Discord: discord.gg/artcraft	Dołącz do nas na Discordzie: discord.gg/artcraft
 	Journal	Czasopismo naukowe
@@ -1090,6 +1119,7 @@
 	Justified	Wyjustowany
 	Keep Lines Together	Zachowaj wiersze razem
 	Keep lines together	Zachowaj wiersze razem
+	Keep me around	Zostań ze mną
 	Keep Text Only	Zachowaj tylko tekst
 	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	Przechowuj hasło w bezpiecznym miejscu: bez niego nikt, również WordCraft, nie otworzy dokumentu. Pozostaw oba pola puste, aby usunąć hasło.
 	Keep with Next	Razem z następnym
@@ -1143,6 +1173,7 @@
 	Letter	List
 	Letter   8.50" × 11.00"	Letter   8.50" × 11.00"
 	Letter headings	Nagłówki literowe
+	Letter template	Szablon listu
 	Letter-Like Symbols	Symbole literopodobne
 	Letters	Listy
 	Level 5	Poziom 5
@@ -1219,6 +1250,7 @@
 	Logical AND with Limits	Koniunkcja logiczna z granicami
 	Logical OR	Alternatywa logiczna
 	Logical OR with Limits	Alternatywa logiczna z granicami
+	Lorem ipsum: because the real words are still at the café.	Lorem ipsum: bo prawdziwe słowa wciąż siedzą w kawiarni.
 	Lum:	Jaskrawość:
 	Macros	Makra
 	Made from the author and year when empty	Gdy puste, tworzone z autora i roku
@@ -1311,6 +1343,7 @@
 	Multilevel List	Lista wielopoziomowa
 	Multilevel List Library	Biblioteka list wielopoziomowych
 	Multiple Pages	Wiele stron
+	Mute agent messages	Wycisz wiadomości agentów
 	My list has	Moja lista ma
 	Name of the file this document is saved as	Nazwa pliku, pod którą zapisano ten dokument
 	Narrow	Wąska
@@ -1321,6 +1354,14 @@
 	Negated Relations	Relacje zanegowane
 	New Comment	Nowy komentarz
 	New comments and tracked changes are recorded under this name and these initials.	Nowe komentarze i śledzone zmiany są zapisywane pod tą nazwą i tymi inicjałami.
+	New Documents Based on This Template	Nowe dokumenty oparte na tym szablonie
+	New documents based on this template	Nowe dokumenty oparte na tym szablonie
+	New documents will use this font.	Nowe dokumenty będą używać tej czcionki.
+	New documents will use this page setup.	Nowe dokumenty będą używać tych ustawień strony.
+	New documents will use this paragraph formatting.	Nowe dokumenty będą używać tego formatowania akapitu.
+	New documents will use this style.	Nowe dokumenty będą używać tego stylu.
+	New documents will use WordCraft's built-in formatting.	Nowe dokumenty będą używać wbudowanego formatowania WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Nowe dokumenty będą używać wbudowanego formatowania WordCraft. Zapisanych ustawień domyślnych nie da się odzyskać. Zresetować?
 	New Drawing Canvas	Nowa kanwa rysunku
 	New Entry	Nowy wpis
 	New Label	Nowa etykieta
@@ -1341,6 +1382,8 @@
 	Next Section	Następna sekcja
 	Next Sentence	Następne zdanie
 	Next sentence	Następne zdanie
+	Nib floats over the window with tips and the occasional remark.	Nib unosi się nad oknem z poradami i od czasu do czasu jakąś uwagą.
+	Nib, your assistant. Drag to move; right-click for options.	Nib, twój asystent. Przeciągnij, aby przesunąć; kliknij prawym przyciskiem, aby otworzyć opcje.
 	No accessibility issues found.	Nie znaleziono problemów z ułatwieniami dostępu.
 	No Border	Bez krawędzi
 	No changes (read only)	Bez zmian (tylko do odczytu)
@@ -1388,6 +1431,7 @@
 	not editing an equation	żadne równanie nie jest edytowane
 	Not equal to	Różne od
 	Not linked: click a text box	Niepołączone: kliknij pole tekstowe
+	Not now	Nie teraz
 	Not saved	Niezapisany
 	Not saved yet	Jeszcze niezapisany
 	Not set	Nie ustawiono
@@ -1446,6 +1490,7 @@
 	Only for the selected text	Tylko dla zaznaczonego tekstu
 	Only form fields can be filled in.	Można wypełniać tylko pola formularza.
 	only in Outline view	tylko w widoku Konspekt
+	Only in this document	Tylko w tym dokumencie
 	Only the allowed styles can be applied.	Można stosować tylko dozwolone style.
 	Only web (http, https) and email (mailto) links can be followed	Otwierać można tylko linki internetowe (http, https) i e-mailowe (mailto)
 	Open a document first	Najpierw otwórz dokument
@@ -1717,9 +1762,11 @@
 	Reset All…	Resetuj wszystko…
 	Reset Character Formatting	Resetuj formatowanie znaków
 	Reset Crop	Resetuj przycięcie
+	Reset Default Formatting	Resetuj formatowanie domyślne
 	Reset Graphic	Resetuj grafikę
 	Reset Paragraph Formatting	Resetuj formatowanie akapitu
 	Reset Picture	Resetuj obraz
+	Reset tips	Resetuj porady
 	Reset to Normal	Przywróć styl Normalny
 	Reset\nGraphic	Resetuj\ngrafikę
 	Resize Table by Dragging	Zmień rozmiar tabeli przeciąganiem
@@ -1739,6 +1786,7 @@
 	Reviewing — edits become suggestions	Recenzowanie — zmiany stają się propozycjami
 	Revised document	Dokument poprawiony
 	Rewind	Przewiń do początku
+	Rewinding. Tell me when to stop.	Przewijam. Powiedz, kiedy przestać.
 	Ribbon	Wstążka
 	Ribbon and Quick Access Toolbar:	Wstążka i pasek narzędzi Szybki dostęp:
 	Ribbon tabs	Karty wstążki
@@ -1761,6 +1809,7 @@
 	Right:	Prawe:
 	Rightwards Arrow Above	Strzałka w prawo powyżej
 	Rightwards Harpoon Above	Harpun w prawo powyżej
+	Romanian	Rumuński
 	Roots of ax²+bx+c	Pierwiastki równania ax²+bx+c
 	Rotate all text 270°	Obróć cały tekst o 270°
 	Rotate all text 90°	Obróć cały tekst o 90°
@@ -1783,8 +1832,11 @@
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Zapisz dokument, aby włączyć Autozapis (plik, który tylko otwarto, nie jest nadpisywany, dopóki go nie zapiszesz)
 	Save these pages as PDF…	Zapisz te strony jako PDF…
 	Saved	Zapisany
+	Saved. Saved again. Still saved. It's very saved.	Zapisane. Znowu zapisane. Wciąż zapisane. Bardzo zapisane.
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Zapisuje szablon .dotx w folderze szablonów. Pojawia się w Plik › Nowy w sekcji Osobiste.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Zapisywanie pliku {name} zostało anulowane. Dokument jest nadal otwarty i nic nie zostało utracone.
+	Sayings	Powiedzonka
+	Sayings:	Teksty:
 	Scale	Skala
 	Scale Drawing	Skaluj rysunek
 	Scatter	Punktowy
@@ -1857,6 +1909,9 @@
 	Series name	Nazwa serii
 	Series {n}	Seria {n}
 	Set As Default	Ustaw jako domyślny
+	Set As Default (Font)	Ustaw jako domyślny (Czcionka)
+	Set As Default (Page Setup)	Ustaw jako domyślny (Ustawienia strony)
+	Set As Default (Paragraph)	Ustaw jako domyślny (Akapit)
 	Set Caret	Ustaw kursor
 	Set Character Formatting	Ustaw formatowanie znaków
 	Set Date	Ustaw datę
@@ -1871,6 +1926,7 @@
 	Shape Format	Formatowanie kształtu
 	Shape Outline	Kontur kształtu
 	Shape Styles	Style kształtu
+	{key} starts a new line without starting a new paragraph.	{key} zaczyna nowy wiersz bez zaczynania nowego akapitu.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Etykiety wysyłkowe
 	Shortcut key:	Klawisz skrótu:
@@ -1907,13 +1963,16 @@
 	Show Quick Access Toolbar	Pokaż pasek narzędzi Szybki dostęp
 	Show revisions in balloons	Pokaż poprawki w dymkach
 	Show Text Formatting	Pokaż formatowanie tekstu
+	Show the Assistant	Pokaż asystenta
 	Show the community button in the title bar	Pokaż przycisk społeczności na pasku tytułu
 	Show the equation in the line of text	Wyświetl równanie w wierszu tekstu
 	Show the equation on a line of its own	Wyświetl równanie w osobnym wierszu
 	Show the mini toolbar when text is selected	Pokazuj minipasek narzędzi po zaznaczeniu tekstu
 	Show the ribbon	Pokaż wstążkę
 	Show the Start screen when WordCraft starts	Pokazuj ekran startowy po uruchomieniu programu WordCraft
+	Show the tips you asked not to see again.	Ponownie pokazuje porady, które ukryto.
 	Show/Hide ¶	Pokaż/ukryj ¶
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Pokaż/ukryj ¶ ({key}) pokazuje spacje, tabulatory i podziały ukryte w tekście.
 	Show\nComments	Pokaż\nkomentarze
 	Showing the first {count} items.	Pokazano pierwsze elementy: {count}.
 	Shows a tree: each item below the item it belongs to.	Pokazuje drzewo: każdy element pod elementem, do którego należy.
@@ -1970,6 +2029,7 @@
 	Soft Glow	Łagodna poświata
 	Solid Accent	Jednolity akcent
 	Solid fill	Wypełnienie pełne
+	Sometimes	Czasami
 	Sort by:	Sortuj według:
 	Sort order:	Kolejność sortowania:
 	Sort Recipients	Sortuj adresatów
@@ -2017,6 +2077,7 @@
 	Start-up	Uruchamianie
 	State	Województwo/stan
 	Statement   5.50" × 8.50"	Statement   5.50" × 8.50"
+	Still there? I can hear you thinking.	Jesteś tam jeszcze? Słyszę, jak myślisz.
 	Stop Protection	Wyłącz ochronę
 	Stop Reading	Zatrzymaj czytanie
 	Stopped	Zatrzymano
@@ -2093,6 +2154,7 @@
 	Tabular List	Lista tabelaryczna
 	Tag	Znacznik
 	Take the last match on the page	Weź ostatnie dopasowanie na stronie
+	Take your time. The page isn't going anywhere. Neither am I. Ever.	Nie spiesz się. Strona nigdzie nie ucieknie. Ja też nie. Nigdy.
 	Tangent formula	Wzór na tangens
 	Tangent Function	Funkcja tangens
 	TC entry fields	Pola pozycji TC
@@ -2134,6 +2196,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Marginesy nie mieszczą się na stronie tego rozmiaru; najpierw zmniejsz marginesy.
 	The measurement must be between {min} and {max}.	Miara musi być z zakresu od {min} do {max}.
 	The new style takes the formatting of the current paragraph.	Nowy styl przejmie formatowanie bieżącego akapitu.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Nie udało się odczytać szablonu Normalny, więc ten dokument używa wbudowanego formatowania WordCraft.
 	The number must be between 1 and {max}.	Liczba musi być z zakresu od 1 do {max}.
 	the paragraph is empty	akapit jest pusty
 	the paragraph starts with a space	akapit zaczyna się od spacji
@@ -2163,6 +2226,7 @@
 	this chart was made in another program: WordCraft shows it but can't edit it	ten wykres został utworzony w innym programie: WordCraft go wyświetla, ale nie może go edytować
 	This document	Ten dokument
 	This document has no bookmarks.	This document has no bookmarks.
+	This document only?	Tylko tego dokumentu?
 	This field has no options.	To pole nie ma opcji.
 	This folder can't be read: {error}	Nie można odczytać tego folderu: {error}
 	This font has no characters to show.	Ta czcionka nie zawiera znaków do pokazania.
@@ -2171,12 +2235,15 @@
 	This password type isn't supported.	Ten typ hasła nie jest obsługiwany.
 	This point forward	Od tego miejsca
 	This section	Ta sekcja
+	this session has no Normal template (headless or without preferences)	ta sesja nie ma szablonu Normalny (bez interfejsu lub bez preferencji)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	ta sesja nie ma szablonu Normalny (bez interfejsu lub bez preferencji): użyj "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	ta grafika SmartArt została utworzona w innym programie: WordCraft ją wyświetla, ale nie może jej edytować
 	this text box is already linked: break the link first	to pole tekstowe jest już połączone: najpierw przerwij połączenie
 	Three	Trzy
 	Through	Przyległe
 	Tight	Ciasne
 	Tilde	Tylda
+	Tip	Wskazówka
 	Tips ({n})	Wskazówki ({n})
 preview	Title	Tytuł
 	Title Bar	Pasek tytułu
@@ -2255,6 +2322,7 @@ preview	Title	Tytuł
 	Undo Actions	Cofnij kilka akcji
 	Undo History	Historia cofania
 	Undo {n} Actions	Cofnij akcje: {n}
+	Undo, undo, undo… we're time travelling now.	Cofnij, cofnij, cofnij… podróżujemy w czasie.
 	Unformatted Text	Tekst niesformatowany
 	Union of intersections	Suma iloczynów zbiorów
 	Union with Limits	Suma zbiorów z granicami
@@ -2283,7 +2351,9 @@ preview	Title	Tytuł
 	Use an Existing List…	Użyj istniejącej listy…
 	Use system setting	Użyj ustawienia systemowego
 	Use the browser's full screen (F11)	Użyj trybu pełnoekranowego przeglądarki (F11)
+	Use the current style set and theme for all new documents?	Użyć bieżącego zestawu stylów i motywu dla wszystkich nowych dokumentów?
 	Use the Insert key to switch overtype on and off	Używaj klawisza Insert do przełączania trybu zastępowania
+	Use this formatting as the default for:	Użyj tego formatowania jako domyślnego dla:
 	Use wildcards	Użyj symboli wieloznacznych
 	User Name	Nazwa użytkownika
 	User name:	Nazwa użytkownika:
@@ -2298,6 +2368,7 @@ preview	Title	Tytuł
 	View Alt Text…	Wyświetl tekst alternatywny…
 	View Gridlines	Pokaż linie siatki
 	View State	Stan widoku
+	View › Focus hides everything but your words. I'll wait outside.	Widok › Skupienie ukrywa wszystko oprócz Twoich słów. Poczekam na zewnątrz.
 	Views	Widoki
 	Visual effects	Efekty wizualne
 	Volume	Tom
@@ -2351,9 +2422,13 @@ preview	Title	Tytuł
 	Wrap\nText	Zawijaj\ntekst
 	Write & Insert Fields	Pisanie i wstawianie pól
 	Write a reply	Napisz odpowiedź
+	Writer's block? I find staring at the cursor helps. It's been blinking at me for years.	Blokada pisarska? Mnie pomaga wpatrywanie się w kursor. Mruga do mnie od lat.
 	x bar	x z kreską
 	Year	Rok
 	Yields	Daje w wyniku
+	You haven't saved in a while, and AutoSave is off. Save now?	Od dawna nic nie zapisano, a Autozapis jest wyłączony. Zapisać teraz?
+	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Zaczynasz listę. Naciśnij Enter dwa razy, aby ją zakończyć, lub Backspace na początku punktu, aby zamienić go z powrotem w tekst.
+	Your document is now the most saved document in history.	Twój dokument jest teraz najczęściej zapisywanym dokumentem w historii.
 	Your system doesn't report an animation setting, so animation effects stay on.	System nie podaje ustawienia animacji, więc efekty animacji pozostają włączone.
 	Your system has animation effects turned off.	Efekty animacji są wyłączone w systemie.
 	Your system has animation effects turned on.	Efekty animacji są włączone w systemie.
@@ -2390,6 +2465,9 @@ preview	Title	Tytuł
 	{width} × {height} mm	{width} × {height} mm
 	{width} × {height} pixels	{width} × {height} pikseli
 	{words} words	Słowa: {words}
+	{words} words and counting. Literally. I'm counting.	Słów: {words} i liczę dalej. Dosłownie. Liczę.
+	{words} words! I'd throw confetti but I'd have to clean it up.	Słów: {words}! Rzuciłbym konfetti, ale potem musiałbym sprzątać.
+	{words} words. That's {words} more than I've written today.	Słów: {words}. To o {words} więcej, niż ja dziś napisałem.
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) nie jest liczbą.
 	✓ None	✓ Brak
 	➕ New comment	➕ Nowy komentarz

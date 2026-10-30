@@ -115,6 +115,9 @@
 	Advanced Find…	Részletes keresés…
 	After:	Utána:
 	Agents	Ágensek
+	Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not.	A WordCrafthoz kapcsolódó ügynökök az asszisztensen keresztül üzeneteket mutathatnak. Némítás esetén jelezzük nekik, hogy ezt nem kéri.
+	Ah, Latin. The language of deadlines.	Á, latin. Holt nyelv, akárcsak a tegnapi határidő.
+	Ah, the editing phase. My favourite. Very decisive.	Á, a szerkesztési fázis. A kedvencem. Nagyon határozott.
 	Align Bottom Center	Igazítás középre le
 	Align Bottom Left	Igazítás balra le
 	Align Bottom Right	Igazítás jobbra le
@@ -130,6 +133,7 @@
 	All Borders	Minden szegély
 	All caps	Csupa nagybetű
 	All Commands	Összes parancs
+	All documents based on the Normal template?	Minden, a Normál sablonon alapuló dokumentumban?
 	All Fonts	Összes betűtípus
 	All Levels	Minden szint
 	All Markup	Minden jelölés
@@ -146,6 +150,7 @@
 	Alt Text Pane	Helyettesítő szöveg panel
 	Alt:	Helyettesítő:
 	Alt\nText	Helyettesítő\nszöveg
+	an agent	ügynök
 	And	És
 	Angle Brackets	Csúcsos zárójelek
 	Angle Brackets with Separator	Csúcsos zárójelek elválasztóval
@@ -155,6 +160,7 @@
 	Annotation Reference	Jegyzethivatkozás
 	Annotation Subject	Jegyzet tárgya
 	Annotation Text	Jegyzetszöveg
+	Annoying	Idegesítően
 	Another file	Másik fájl
 	Any Character	Bármely karakter
 	Any Digit	Bármely számjegy
@@ -180,6 +186,8 @@
 	ASAP	SÜRGŐS
 	Asian text font:	Ázsiai szöveg betűtípusa:
 	Asian Typography	Ázsiai tipográfia
+	Assistant	Asszisztens
+	Assistant Suggestions	Asszisztens javaslatai
 	At least	Legalább
 	At least {n}	Legalább {n}
 	Atelier	Műterem
@@ -249,6 +257,7 @@
 	Blue:	Kék:
 	Body Text	Szövegtörzs
 	Body text in a short paragraph to show spacing.	Szövegtörzs egy rövid bekezdésben, hogy látszódjon a térköz.
+	Bold choice. Ctrl+Z is right there if you need it.	Merész választás. A Ctrl+Z ott van, ha kell.
 	Book	Könyv
 	Book Title	Könyvcím
 	Book title	Könyv címe
@@ -287,6 +296,7 @@
 	By author	Szerző szerint
 	Calendar	Naptár
 	Can't be deleted	Nem törölhető
+	Can't find a command? Press {key} and type what you want to do.	Nem találsz egy parancsot? Nyomd meg a(z) {key} billentyűt, és írd be, mit szeretnél tenni.
 	can't split at the first row	a táblázat nem osztható fel az első sornál
 	Canvas Member	Vászonelem
 	Capitalize Each Word	Minden Szó Nagy Kezdőbetűs
@@ -299,6 +309,7 @@
 	Caption text	Felirat szövege
 	Caption:	Felirat:
 	Captions	Feliratok
+	Careful, any further back and we'll undo the invention of paper.	Óvatosan, még egy kicsit vissza, és visszavonjuk a papír feltalálását.
 	Caret Character	Kalap karakter (^)
 	Case changes	Kis- és nagybetű-változások
 	Cases (Three Conditions)	Esetszétválasztás (három feltétel)
@@ -508,6 +519,10 @@
 	Croatian	Horvát
 	Cross-reference	Kereszthivatkozás
 	Cross-reference:	Kereszthivatkozás:
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	A(z) {key} új oldalt kezd. Sokkal rendezettebb, mint addig nyomkodni az Entert, amíg magától megtörténik.
+	{key} finds and replaces text, formatting and special characters.	A(z) {key} szöveget, formázást és speciális karaktereket keres és cserél.
+	{key} turns the selected text into a link.	A(z) {key} linkké alakítja a kijelölt szöveget.
+	{key} counts your words, characters and paragraphs.	A(z) {key} megszámolja a szavaidat, karaktereidet és bekezdéseidet.
 	Cube Root	Köbgyök
 	Current - Linear	Aktuális – lineáris
 	Current - Professional	Aktuális – kétdimenziós
@@ -547,6 +562,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	A díszítőelemek csak a látványt szolgálják, a képernyőolvasók kihagyják őket.
 	Decrease Indent	Behúzás csökkentése
 	Deep	Mély
+	Default formatting	Alapértelmezett formázás
 	Default Paragraph Font	Alapértelmezett bekezdésbetűtípus
 	Default tab stops:	Alapértelmezett tabulátortávolság:
 	Define New Bullet	Új felsorolásjel megadása
@@ -554,6 +570,7 @@
 	Define New Multilevel List…	Új többszintű lista megadása…
 	Define New Number Format	Új számformátum megadása
 	Deflate	Leeresztés
+	Delete Around Caret in Equation	Törlés az egyenletben a kurzor körül
 	Delete Back in Equation	Visszatörlés az egyenletben
 	Delete Bookmark	Könyvjelző törlése
 	Delete Cells	Cellák törlése
@@ -630,6 +647,7 @@
 	Don't hyphenate	Nincs elválasztás
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	A Zotero, a Mendeley és az EndNote hivatkozásainak és irodalomjegyzékeinek kihagyása
 	Don't Save	Nincs mentés
+	Don't show me this tip again	Ne mutasd többé ezt a tippet
 	Dot dash	Pont-vonal
 	Dot-dash	Pont-vonal
 	Dot-dot-dash	Pont-pont-vonal
@@ -769,6 +787,9 @@
 	Extend Selection	Kijelölés bővítése
 	Extend Selection by Units	Kijelölés bővítése egységenként
 	Extra space	Felesleges szóköz
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	A(z) {key} megismétli az utolsó műveletet. Tíz címsor formázása hirtelen egy kattintás és kilenc koppintás.
+	{key} checks the spelling and grammar of the whole document.	A(z) {key} ellenőrzi az egész dokumentum helyesírását és nyelvtanát.
+	Faster: {command} is {key} on the keyboard.	Gyorsabban megy: {command} billentyűparancsa {key}.
 	Field code:	Mezőkód:
 	Field Codes	Mezőkódok
 	Field codes:	Mezőkódok:
@@ -835,6 +856,7 @@
 	Formatting at Selection	A kijelölés formázása
 	Formatting exceptions	Formázási kivételek
 	Formatting marks	Formázási jelek
+	Formatting saved for new documents:	Új dokumentumokhoz mentett formázás:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	A formázás, a kis- és nagybetű-változások, az üres karakterek és a táblázatok összevetése működik; a többi beállítás egyelőre csak megőrződik.
 	Formula	Képlet
 	Formula:	Képlet:
@@ -849,10 +871,12 @@
 	From Top Left Corner	A(z) bal felső sarokból
 	From Top Right Corner	A(z) jobb felső sarokból
 	from Unicode (hex)	Unicode (hexa)
+	From {name}	Feladó: {name}
 	From:	Ettől:
 	Full page of the same label	Teljes oldal azonos címkével
 	Full Screen View	Teljes képernyős nézet
 	Full\nScreen	Teljes\nképernyő
+	Fun fact: a blank page is just a draft that hasn't been told yet.	Érdekesség: az üres lap csak egy piszkozat, amelynek még senki nem mondta el, miről szól.
 	Function	Függvény
 	Functions	Függvények
 	Gallery	Galéria
@@ -868,6 +892,7 @@
 	Go to Record	Ugrás rekordra
 	Go to what:	Ugrás ide:
 	Go To…	Ugrás…
+	Gone! Like it was never written. Mostly because it now wasn't.	Eltűnt! Mintha sosem írták volna le. Főleg azért, mert most már tényleg nem.
 	Good afternoon	Jó napot
 	Good evening	Jó estét
 	Good morning	Jó reggelt
@@ -912,6 +937,7 @@
 	Heading {n}	Címsor {n}
 	Hebrew	Héber
 	Hex:	Hex:
+	Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?	Szia! Nib vagyok, az íróasszisztensed. Tippeket, billentyűparancsokat és néha kéretlen véleményt is adok. Maradjak?
 	Hidden bookmarks	Rejtett könyvjelzők
 	Hide Codes	Kódok elrejtése
 	Hide from style lists	Elrejtés a stíluslistákból
@@ -946,6 +972,8 @@
 	Hyphenation zone:	Elválasztási zóna:
 	Hyphens (--) as dashes (—)	Kötőjelek (--) gondolatjelként (—)
 	Hypotenuse	Átfogó
+	I promise it's saved. I checked. Twice.	Ígérem, el van mentve. Megnéztem. Kétszer.
+	I'd write something myself, but I'm all nib and no ink.	Írnék én is valamit, de csak egy hegy vagyok tinta nélkül. Nagy a szám, de üres a tartály.
 	I, II, III, …	I, II, III, …
 	i, ii, iii, …	i, ii, iii, …
 	Icon Color	Ikon színe
@@ -1077,6 +1105,7 @@
 	ISO 690 (author-date)	ISO 690 (szerző–év)
 	ISO 690 (numerical)	ISO 690 (számozott)
 	Issue	Szám
+	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	Úgy tűnik, levelet írsz. Kérsz hozzá borítékot, vagy egy levélsablont, amelyből kiindulhatsz?
 	Join the ArtCraft community on Discord	Csatlakozz az ArtCraft közösséghez a Discordon
 	Join us on Discord: discord.gg/artcraft	Csatlakozz hozzánk a Discordon: discord.gg/artcraft
 	Journal	Folyóirat
@@ -1085,6 +1114,7 @@
 	Justified	Sorkizárt
 	Keep Lines Together	Sorok együtt tartása
 	Keep lines together	Sorok együtt tartása
+	Keep me around	Maradj csak
 	Keep Text Only	Csak a szöveg megtartása
 	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	Tartsd biztonságos helyen a jelszót: nélküle senki, még a WordCraft sem tudja megnyitni a dokumentumot. A jelszó eltávolításához hagyd üresen mindkét mezőt.
 	Keep with Next	Együtt a következővel
@@ -1135,6 +1165,7 @@
 	Less than or equal	Kisebb vagy egyenlő
 	Letter	Levél
 	Letter headings	Betűfejlécek
+	Letter template	Levélsablon
 	Letter-Like Symbols	Betűszerű szimbólumok
 	Letters	Levelek
 	Level 5	5. szint
@@ -1209,6 +1240,7 @@
 	Logical AND with Limits	Logikai ÉS határokkal
 	Logical OR	Logikai VAGY
 	Logical OR with Limits	Logikai VAGY határokkal
+	Lorem ipsum: because the real words are still at the café.	Lorem ipsum: mert az igazi szavak még a kávézóban ülnek.
 	Lum:	Fényesség:
 	Macros	Makrók
 	Made from the author and year when empty	Ha üres, a szerzőből és az évből készül
@@ -1303,6 +1335,7 @@
 	Multilevel List	Többszintű lista
 	Multilevel List Library	Többszintű listák tára
 	Multiple Pages	Több oldal
+	Mute agent messages	Ügynöküzenetek némítása
 	My list has	A listám tartalmaz
 	Name of the file this document is saved as	A dokumentum mentett fájljának neve
 	Narrow	Keskeny
@@ -1313,6 +1346,14 @@
 	Negated Relations	Tagadott relációk
 	New Comment	Új megjegyzés
 	New comments and tracked changes are recorded under this name and these initials.	Az új megjegyzések és követett módosítások ezzel a névvel és monogrammal rögzülnek.
+	New Documents Based on This Template	Az ezen a sablonon alapuló új dokumentumokban
+	New documents based on this template	Az ezen a sablonon alapuló új dokumentumokban
+	New documents will use this font.	Az új dokumentumok ezt a betűtípust használják.
+	New documents will use this page setup.	Az új dokumentumok ezt az oldalbeállítást használják.
+	New documents will use this paragraph formatting.	Az új dokumentumok ezt a bekezdésformázást használják.
+	New documents will use this style.	Az új dokumentumok ezt a stílust használják.
+	New documents will use WordCraft's built-in formatting.	Az új dokumentumok a WordCraft beépített formázását használják.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Az új dokumentumok a WordCraft beépített formázását használják. A mentett alapértelmezések nem állíthatók helyre. Visszaállítod?
 	New Drawing Canvas	Új rajzvászon
 	New Entry	Új bejegyzés
 	New Label	Új címke
@@ -1332,6 +1373,8 @@
 	Next Section	Következő szakasz
 	Next Sentence	Következő mondat
 	Next sentence	Következő mondat
+	Nib floats over the window with tips and the occasional remark.	Nib tippekkel és néha egy-egy megjegyzéssel lebeg az ablak felett.
+	Nib, your assistant. Drag to move; right-click for options.	Nib, az asszisztense. Húzza az áthelyezéshez; kattintson jobb gombbal a beállításokhoz.
 	No accessibility issues found.	Nincs akadálymentességi probléma.
 	No Border	Nincs szegély
 	No changes (read only)	Nincs módosítás (csak olvasható)
@@ -1379,6 +1422,7 @@
 	not editing an equation	nincs szerkesztés alatt álló egyenlet
 	Not equal to	Nem egyenlő
 	Not linked: click a text box	Nincs csatolva: kattints egy szövegdobozra
+	Not now	Most nem
 	Not saved	Nincs mentve
 	Not saved yet	Még nincs mentve
 	Not set	Nincs megadva
@@ -1437,6 +1481,7 @@
 	Only for the selected text	Csak a kijelölt szövegnél
 	Only form fields can be filled in.	Csak az űrlapmezők tölthetők ki.
 	only in Outline view	csak Vázlat nézetben
+	Only in this document	Csak ebben a dokumentumban
 	Only the allowed styles can be applied.	Csak az engedélyezett stílusok alkalmazhatók.
 	Only web (http, https) and email (mailto) links can be followed	Csak webes (http, https) és e-mail (mailto) link nyitható meg
 	Open a document first	Először nyisson meg egy dokumentumot
@@ -1705,9 +1750,11 @@
 	Reset All…	Összes visszaállítása…
 	Reset Character Formatting	Karakterformázás visszaállítása
 	Reset Crop	Körülvágás visszaállítása
+	Reset Default Formatting	Alapértelmezett formázás visszaállítása
 	Reset Graphic	Ábra visszaállítása
 	Reset Paragraph Formatting	Bekezdésformázás visszaállítása
 	Reset Picture	Kép visszaállítása
+	Reset tips	Tippek visszaállítása
 	Reset to Normal	Visszaállítás normálra
 	Reset\nGraphic	Ábra\nvisszaállítása
 	Resize Table by Dragging	Táblázat átméretezése húzással
@@ -1727,6 +1774,7 @@
 	Reviewing — edits become suggestions	Véleményezés – a módosítások javaslatként jelennek meg
 	Revised document	Módosított dokumentum
 	Rewind	Visszatekerés
+	Rewinding. Tell me when to stop.	Visszatekerés. Szólj, mikor álljak meg.
 	Ribbon	Menüszalag
 	Ribbon and Quick Access Toolbar:	Menüszalag és gyorselérési eszköztár:
 	Ribbon tabs	Menüszalag lapjai
@@ -1748,6 +1796,7 @@
 	Right-to-Left Text Direction	Jobbról balra írás
 	Rightwards Arrow Above	Jobbra mutató nyíl fölül
 	Rightwards Harpoon Above	Jobbra mutató szigony fölül
+	Romanian	Román
 	Roots of ax²+bx+c	Az ax²+bx+c gyökei
 	Rotate all text 270°	Teljes szöveg elforgatása 270°-kal
 	Rotate all text 90°	Teljes szöveg elforgatása 90°-kal
@@ -1769,8 +1818,11 @@
 	Save the document to turn on AutoSave	Az automatikus mentéshez mentsd a dokumentumot
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Az automatikus mentéshez mentsd a dokumentumot (a csak megnyitott fájlt a program addig nem írja felül, amíg nem mented)
 	Save these pages as PDF…	Az oldalak mentése PDF-ként…
+	Saved. Saved again. Still saved. It's very saved.	Mentve. Újra mentve. Még mindig mentve. Nagyon mentve van.
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Egy .dotx sablont ment a sablonmappájába. A Fájl › Új lapon, a Saját csoportban jelenik meg.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	A(z) {name} mentése megszakadt, így továbbra is nyitva van, és semmi sem veszett el.
+	Sayings	Beszólások
+	Sayings:	Megjegyzések:
 	Scale Drawing	Rajz méretezése
 	Scatter	Pont (XY)
 	Script	Index
@@ -1842,6 +1894,9 @@
 	Series name	Adatsor neve
 	Series {n}	Adatsor {n}
 	Set As Default	Beállítás alapértelmezettként
+	Set As Default (Font)	Beállítás alapértelmezettként (Betűtípus)
+	Set As Default (Page Setup)	Beállítás alapértelmezettként (Oldalbeállítás)
+	Set As Default (Paragraph)	Beállítás alapértelmezettként (Bekezdés)
 	Set Caret	Kurzor elhelyezése
 	Set Character Formatting	Karakterformázás beállítása
 	Set Date	Dátum beállítása
@@ -1856,6 +1911,7 @@
 	Shape Format	Alakzatformátum
 	Shape Outline	Alakzat körvonala
 	Shape Styles	Alakzatstílusok
+	{key} starts a new line without starting a new paragraph.	A(z) {key} új sort kezd anélkül, hogy új bekezdést kezdene.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Szállítási címkék
 	Shortcut key:	Billentyűparancs:
@@ -1892,13 +1948,16 @@
 	Show Quick Access Toolbar	Gyorselérési eszköztár megjelenítése
 	Show revisions in balloons	Változatok buborékban
 	Show Text Formatting	Szövegformázás megjelenítése
+	Show the Assistant	Az asszisztens megjelenítése
 	Show the community button in the title bar	Közösség gomb megjelenítése a címsorban
 	Show the equation in the line of text	Az egyenlet megjelenítése a szövegsorban
 	Show the equation on a line of its own	Az egyenlet megjelenítése külön sorban
 	Show the mini toolbar when text is selected	Mini eszköztár megjelenítése szövegkijelöléskor
 	Show the ribbon	Menüszalag megjelenítése
 	Show the Start screen when WordCraft starts	Kezdőképernyő megjelenítése a WordCraft indításakor
+	Show the tips you asked not to see again.	Újra megjeleníti az elrejtett tippeket.
 	Show/Hide ¶	Megjelenítés/elrejtés ¶
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	A Megjelenítés/elrejtés ¶ ({key}) megmutatja a szövegedben rejtőző szóközöket, tabulátorokat és töréseket.
 	Show\nComments	Megjegyzések\nmegjelenítése
 	Showing the first {count} items.	Az első {count} elem látható.
 	Shows a tree: each item below the item it belongs to.	Faszerkezet: minden elem az alatt az elem alatt áll, amelyikhez tartozik.
@@ -1955,6 +2014,7 @@
 	Soft Glow	Lágy ragyogás
 	Solid Accent	Teli kiemelőszín
 	Solid fill	Egyszínű kitöltés
+	Sometimes	Néha
 	Sort by:	Rendezés:
 	Sort order:	Rendezés:
 	Sort Recipients	Címzettek rendezése
@@ -2000,6 +2060,7 @@
 	Start Mail\nMerge	Körlevél\nindítása
 	Start-up	Indítás
 	State	Megye vagy állam
+	Still there? I can hear you thinking.	Ott vagy még? Hallom, ahogy gondolkodsz.
 	Stop Protection	Védelem kikapcsolása
 	Stop Reading	Felolvasás leállítása
 	Stopped	Leállítva
@@ -2076,6 +2137,7 @@
 	Tabular List	Táblázatos lista
 	Tag	Azonosító
 	Take the last match on the page	A lap utolsó találatának használata
+	Take your time. The page isn't going anywhere. Neither am I. Ever.	Csak nyugodtan. A lap nem szalad el. Én sem. Soha.
 	Tangent formula	Tangensképlet
 	Tangent Function	Tangensfüggvény
 	TC entry fields	TC bejegyzésmezők
@@ -2117,6 +2179,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	A margók nem férnek el ekkora oldalon; először csökkentse a margókat.
 	The measurement must be between {min} and {max}.	A méretnek {min} és {max} között kell lennie.
 	The new style takes the formatting of the current paragraph.	Az új stílus az aktuális bekezdés formázását veszi át.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	A Normál sablon nem olvasható, ezért ez a dokumentum a WordCraft beépített formázását használja.
 	The number must be between 1 and {max}.	A számnak 1 és {max} között kell lennie.
 	the paragraph is empty	a bekezdés üres
 	the paragraph starts with a space	a bekezdés szóközzel kezdődik
@@ -2145,6 +2208,7 @@
 	Thick	Vastag
 	this chart was made in another program: WordCraft shows it but can't edit it	ez a diagram egy másik programban készült: a WordCraft megjeleníti, de nem tudja szerkeszteni
 	This document	Ez a dokumentum
+	This document only?	Csak ebben a dokumentumban?
 	This field has no options.	Ennek a mezőnek nincsenek beállításai.
 	This folder can't be read: {error}	Ez a mappa nem olvasható: {error}
 	This font has no characters to show.	Ebben a betűtípusban nincs megjeleníthető karakter.
@@ -2153,12 +2217,15 @@
 	This password type isn't supported.	Ez a jelszótípus nem támogatott.
 	This point forward	Innentől kezdve
 	This section	Ez a szakasz
+	this session has no Normal template (headless or without preferences)	ebben a munkamenetben nincs Normál sablon (felület vagy beállítások nélkül)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	ebben a munkamenetben nincs Normál sablon (felület vagy beállítások nélkül): használd ezt "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	ez a SmartArt egy másik programban készült: a WordCraft megjeleníti, de nem tudja szerkeszteni
 	this text box is already linked: break the link first	ez a szövegdoboz már csatolva van: előbb bontsa a csatolást
 	Three	Három
 	Through	Átfutó
 	Tight	Szoros
 	Tilde	Hullámvonal
+	Tip	Tipp
 	Tips ({n})	Tippek ({n})
 	Title Bar	Címsáv
 	Title from the document properties	A dokumentum tulajdonságaiban megadott cím
@@ -2235,6 +2302,7 @@
 	Undo Actions	Több művelet visszavonása
 	Undo History	Visszavonási előzmények
 	Undo {n} Actions	{n} művelet visszavonása
+	Undo, undo, undo… we're time travelling now.	Visszavonás, visszavonás, visszavonás… most már időutazunk.
 	Unformatted Text	Formázatlan szöveg
 	Union of intersections	Metszetek uniója
 	Union with Limits	Unió határokkal
@@ -2263,7 +2331,9 @@
 	Use an Existing List…	Meglévő lista használata…
 	Use system setting	A rendszerbeállítás követése
 	Use the browser's full screen (F11)	Használja a böngésző teljes képernyős módját (F11)
+	Use the current style set and theme for all new documents?	Az aktuális stíluskészlet és téma legyen minden új dokumentumban?
 	Use the Insert key to switch overtype on and off	Az Insert billentyű ki- és bekapcsolja a felülírást
+	Use this formatting as the default for:	Legyen ez a formázás az alapértelmezett:
 	Use wildcards	Helyettesítő karakterek használata
 	User Name	Felhasználónév
 	User name:	Felhasználónév:
@@ -2278,6 +2348,7 @@
 	View Alt Text…	Helyettesítő szöveg megtekintése…
 	View Gridlines	Rácsvonalak megjelenítése
 	View State	Nézet állapota
+	View › Focus hides everything but your words. I'll wait outside.	Nézet › Fókusz: minden eltűnik, csak a szavaid maradnak. Kint várok.
 	Views	Nézetek
 	Visual effects	Vizuális effektusok
 	Volume	Kötet
@@ -2327,10 +2398,14 @@
 	Wrap\nText	Körbe-\nfuttatás
 	Write & Insert Fields	Mezők írása és beszúrása
 	Write a reply	Válasz írása
+	Writer's block? I find staring at the cursor helps. It's been blinking at me for years.	Írói válság? Nekem a kurzor bámulása segít. Évek óta pislog rám.
 	x bar	x felülvonással
 	Year	Év
 	Yields	Eredményez
+	You haven't saved in a while, and AutoSave is off. Save now?	Egy ideje nem mentettél, és az Automatikus mentés ki van kapcsolva. Mentsünk most?
+	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Listát kezdtél. A befejezéshez nyomd meg kétszer az Entert, vagy egy elem elején a Backspace-t, hogy visszaalakítsd szöveggé.
 	Your changes will be lost if you don't save them.	Ha nem mented, a módosítások elvesznek.
+	Your document is now the most saved document in history.	A dokumentumod mostantól a történelem legtöbbet mentett dokumentuma.
 	Your system doesn't report an animation setting, so animation effects stay on.	A rendszered nem jelez animációs beállítást, ezért az animációs effektusok bekapcsolva maradnak.
 	Your system has animation effects turned off.	A rendszereden ki vannak kapcsolva az animációs effektusok.
 	Your system has animation effects turned on.	A rendszereden be vannak kapcsolva az animációs effektusok.
@@ -2369,6 +2444,9 @@
 	{width} × {height} mm	{width} × {height} mm
 	{width} × {height} pixels	{width} × {height} képpont
 	{words} words	{words} szó
+	{words} words and counting. Literally. I'm counting.	{words} szó, és a számláló pörög. Szó szerint. Én számolok.
+	{words} words! I'd throw confetti but I'd have to clean it up.	{words} szó! Szórnék konfettit, de utána nekem kéne feltakarítani.
+	{words} words. That's {words} more than I've written today.	{words} szó. Ez {words} szóval több, mint amennyit ma én írtam.
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) nem szám.
 	✓ None	✓ Nincs
 	➕ New comment	➕ Új megjegyzés

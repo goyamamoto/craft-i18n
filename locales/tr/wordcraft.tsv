@@ -114,6 +114,9 @@
 	Advanced Find…	Gelişmiş Bul…
 	After:	Sonra:
 	Agents	Ajanlar
+	Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not.	WordCraft'a bağlı aracılar, asistan aracılığıyla size mesaj gösterebilir. Sessize alındığında, bunu istemediğiniz kendilerine bildirilir.
+	Ah, Latin. The language of deadlines.	Ah, Latince. Ölü bir dil, tıpkı dünkü teslim tarihi gibi.
+	Ah, the editing phase. My favourite. Very decisive.	Ah, düzenleme aşaması. En sevdiğim. Çok kararlı.
 	Align Bottom Center	Alt Ortaya Hizala
 	Align Bottom Left	Sol Alta Hizala
 	Align Bottom Right	Sağ Alta Hizala
@@ -130,6 +133,7 @@
 	All Caps	Tümü Büyük Harf
 	All caps	Tümü büyük harf
 	All Commands	Tüm Komutlar
+	All documents based on the Normal template?	Normal şablonunu temel alan tüm belgeler mi?
 	All Fonts	Tüm Yazı Tipleri
 	All Levels	Tüm düzeyler
 	All Markup	Tüm İşaretler
@@ -146,6 +150,7 @@
 	Alt Text Pane	Alternatif Metin Bölmesi
 	Alt:	Alt metin:
 	Alt\nText	Alternatif\nMetin
+	an agent	bir aracı
 	And	Ve
 	Angle Brackets	Açılı Parantezler
 	Angle Brackets with Separator	Ayırıcılı Açılı Parantezler
@@ -155,6 +160,7 @@
 	Annotation Reference	Açıklama Başvurusu
 	Annotation Subject	Açıklama Konusu
 	Annotation Text	Açıklama Metni
+	Annoying	Can sıkıcı
 	Another file	Başka bir dosya
 	Any Character	Herhangi Bir Karakter
 	Any Digit	Herhangi Bir Rakam
@@ -179,6 +185,8 @@
 	ASAP	EN KISA SÜREDE
 	Asian text font:	Asya metni yazı tipi:
 	Asian Typography	Asya Tipografisi
+	Assistant	Asistan
+	Assistant Suggestions	Asistan önerileri
 	At least	En az
 	At least {n}	En az {n}
 	Atelier	Atölye
@@ -247,6 +255,7 @@
 	Blue:	Mavi:
 	Body Text	Gövde Metni
 	Body text in a short paragraph to show spacing.	Aralığı göstermek için kısa bir paragrafta gövde metni.
+	Bold choice. Ctrl+Z is right there if you need it.	Cesur seçim. Gerekirse Ctrl+Z hemen orada.
 	Book	Kitap
 	Book Title	Kitap Başlığı
 	Book title	Kitap başlığı
@@ -284,6 +293,7 @@
 	By author	Yazara göre
 	Calendar	Takvim
 	Can't be deleted	Silinemez
+	Can't find a command? Press {key} and type what you want to do.	Bir komutu bulamıyor musunuz? {key} tuşuna basın ve ne yapmak istediğinizi yazın.
 	can't split at the first row	tablo ilk satırdan bölünemez
 	Canvas Member	Tuval Öğesi
 	Capitalize Each Word	Her Sözcüğün İlk Harfini Büyüt
@@ -294,6 +304,7 @@
 	Caption text	Başlık metni
 	Caption:	Başlık:
 	Captions	Resim Yazıları
+	Careful, any further back and we'll undo the invention of paper.	Dikkat, biraz daha geri gidersek kâğıdın icadını geri alacağız.
 	Caret Character	Şapka Karakteri
 	Case changes	Büyük/küçük harf değişiklikleri
 	Cases (Three Conditions)	Koşul Grubu (Üç Koşul)
@@ -494,6 +505,10 @@
 	Croatian	Hırvatça
 	Cross-reference	Çapraz Başvuru
 	Cross-reference:	Çapraz başvuru:
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} yeni bir sayfa başlatır. Sayfa gelene kadar Enter'a basmaktan çok daha düzenli.
+	{key} finds and replaces text, formatting and special characters.	{key} metni, biçimlendirmeyi ve özel karakterleri bulur ve değiştirir.
+	{key} turns the selected text into a link.	{key} seçili metni bağlantıya dönüştürür.
+	{key} counts your words, characters and paragraphs.	{key} sözcüklerinizi, karakterlerinizi ve paragraflarınızı sayar.
 	Cube Root	Küp Kök
 	Current	Geçerli
 	Current - Linear	Geçerli - Doğrusal
@@ -534,6 +549,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Dekoratif nesneler yalnızca görsel çekicilik katar: ekran okuyucular bunları atlar.
 	Decrease Indent	Girintiyi Azalt
 	Deep	Koyu
+	Default formatting	Varsayılan biçimlendirme
 	Default Paragraph Font	Varsayılan Paragraf Yazı Tipi
 	Default tab stops:	Varsayılan sekme durakları:
 	Define New Bullet	Yeni Madde İşareti Tanımla
@@ -541,6 +557,7 @@
 	Define New Multilevel List…	Yeni Çok Düzeyli Liste Tanımla…
 	Define New Number Format	Yeni Numara Biçimi Tanımla
 	Deflate	Söndür
+	Delete Around Caret in Equation	Denklemde İmlecin Çevresini Sil
 	Delete Back in Equation	Denklemde Geri Sil
 	Delete Bookmark	Yer İşaretini Sil
 	Delete Cells	Hücreleri Sil
@@ -618,6 +635,7 @@
 	Don't capitalize after:	Şundan sonra büyük harf yapma:
 	Don't hyphenate	Heceleme yapma
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Zotero, Mendeley ve EndNote atıfları ile kaynakçaları okunmaz
+	Don't show me this tip again	Bu ipucunu bir daha gösterme
 	Dot dash	Nokta çizgi
 	Dot-dash	Nokta-çizgi
 	Dot-dot-dash	Nokta-nokta-çizgi
@@ -749,6 +767,9 @@
 	Export Page as PNG	Sayfayı PNG Olarak Dışa Aktar
 	Extend Selection	Seçimi Genişlet
 	Extend Selection by Units	Seçimi Birimlere Göre Genişlet
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} son eyleminizi yineler. On başlığı biçimlendirmek birden bir tıklama ve dokuz dokunuşa iner.
+	{key} checks the spelling and grammar of the whole document.	{key} tüm belgenin yazım ve dil bilgisini denetler.
+	Faster: {command} is {key} on the keyboard.	Daha hızlısı: {command} klavyede {key}.
 	Field code:	Alan kodu:
 	Field Codes	Alan Kodları
 	Field codes:	Alan kodları:
@@ -818,6 +839,7 @@
 	Formatting at Selection	Seçimdeki Biçimlendirme
 	Formatting exceptions	Biçimlendirme özel durumları
 	Formatting marks	Biçimlendirme işaretleri
+	Formatting saved for new documents:	Yeni belgeler için kaydedilen biçimlendirme:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Biçimlendirme, harf büyüklüğü, boşluklar ve tablolar karşılaştırılır; diğer ayarlar daha sonra için saklanır.
 	Formula	Formül
 	Formula:	Formül:
@@ -832,10 +854,12 @@
 	From Top Left Corner	sol üst köşeden
 	From Top Right Corner	sağ üst köşeden
 	from Unicode (hex)	Unicode'dan (onaltılık)
+	From {name}	Gönderen: {name}
 	From:	Başlangıç:
 	Full page of the same label	Aynı etiketten tam sayfa
 	Full Screen View	Tam Ekran Görünümü
 	Full\nScreen	Tam\nekran
+	Fun fact: a blank page is just a draft that hasn't been told yet.	İlginç bilgi: boş sayfa, henüz ne anlatacağı söylenmemiş bir taslaktır.
 	Function	Fonksiyon
 	Gallery	Galeri
 	German (Germany)	Almanca (Almanya)
@@ -849,6 +873,7 @@
 	Go to Record	Kayda Git
 	Go to what:	Gidilecek yer:
 	Go To…	Git…
+	Gone! Like it was never written. Mostly because it now wasn't.	Gitti! Hiç yazılmamış gibi. Çünkü artık gerçekten yazılmamış.
 	Good afternoon	Tünaydın
 	Good evening	İyi akşamlar
 	Good morning	Günaydın
@@ -893,6 +918,7 @@
 	Heading {n}	Başlık {n}
 	Hebrew	İbranice
 	Hex:	Onaltılık:
+	Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?	Merhaba! Ben Nib, yazma asistanınız. İpuçları, kısayollar ve ara sıra kimsenin sormadığı fikirler sunarım. Ortalarda kalayım mı?
 	Hidden bookmarks	Gizli yer işaretleri
 	Hide Codes	Kodları Gizle
 	Hide from style lists	Stil listelerinde gizle
@@ -927,6 +953,8 @@
 	Hyphenation zone:	Heceleme bölgesi:
 	Hyphens (--) as dashes (—)	Kısa çizgileri (--) uzun çizgi (—) olarak yaz
 	Hypotenuse	Hipotenüs
+	I promise it's saved. I checked. Twice.	Söz veriyorum, kaydedildi. Kontrol ettim. İki kez.
+	I'd write something myself, but I'm all nib and no ink.	Ben de bir şeyler yazardım ama sivri dilliyim, mürekkebim yok.
 	I, II, III, …	I, II, III, …
 	i, ii, iii, …	i, ii, iii, …
 	Icon Color	Simge Rengi
@@ -1054,6 +1082,7 @@
 	Is blank	Boştur
 	Is not blank	Boş değildir
 	Issue	Sayı
+	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	Bir mektup yazıyorsunuz gibi görünüyor. Bunun için bir zarf mı istersiniz, yoksa başlamak için bir mektup şablonu mu?
 	Join the ArtCraft community on Discord	Discord'da ArtCraft topluluğuna katılın
 	Join us on Discord: discord.gg/artcraft	Discord'da bize katılın: discord.gg/artcraft
 	Journal	Dergi
@@ -1062,6 +1091,7 @@
 	Justified	İki yana yaslanmış
 	Keep Lines Together	Satırları Birlikte Tut
 	Keep lines together	Satırları birlikte tut
+	Keep me around	Kalabilirsin
 	Keep Text Only	Yalnızca Metni Koru
 	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	Parolayı güvenli bir yerde saklayın: parola olmadan WordCraft dahil hiç kimse belgeyi açamaz. Parolayı kaldırmak için iki kutuyu da boş bırakın.
 	Keep with Next	Sonrakiyle Birlikte Tut
@@ -1112,6 +1142,7 @@
 	Less than or equal	Küçük veya eşittir
 	Letter	Letter
 	Letter headings	Harf başlıkları
+	Letter template	Mektup şablonu
 	Letter-Like Symbols	Harf Benzeri Semboller
 	Letters	Mektuplar
 	Level 5	Düzey 5
@@ -1184,6 +1215,7 @@
 	Logical AND with Limits	Sınırlı Mantıksal VE
 	Logical OR	Mantıksal VEYA
 	Logical OR with Limits	Sınırlı Mantıksal VEYA
+	Lorem ipsum: because the real words are still at the café.	Lorem ipsum: çünkü gerçek sözcükler hâlâ kafede oturuyor.
 	Lum:	Parlaklık:
 	Macros	Makrolar
 	Made from the author and year when empty	Boşsa yazardan ve yıldan oluşturulur
@@ -1272,6 +1304,7 @@
 	Multilevel List	Çok Düzeyli Liste
 	Multilevel List Library	Çok Düzeyli Liste Kitaplığı
 	Multiple Pages	Birden Çok Sayfa
+	Mute agent messages	Aracı mesajlarını sessize al
 	My list has	Listemde
 	Name of the file this document is saved as	Belgenin kaydedildiği dosyanın adı
 	Narrow	Dar
@@ -1282,6 +1315,14 @@
 	Negated Relations	Olumsuzlanmış Bağıntılar
 	New Comment	Yeni Yorum
 	New comments and tracked changes are recorded under this name and these initials.	Yeni açıklamalar ve izlenen değişiklikler bu ad ve baş harflerle kaydedilir.
+	New Documents Based on This Template	Bu şablonu temel alan yeni belgeler
+	New documents based on this template	Bu şablonu temel alan yeni belgeler
+	New documents will use this font.	Yeni belgeler bu yazı tipini kullanacak.
+	New documents will use this page setup.	Yeni belgeler bu sayfa ayarlarını kullanacak.
+	New documents will use this paragraph formatting.	Yeni belgeler bu paragraf biçimlendirmesini kullanacak.
+	New documents will use this style.	Yeni belgeler bu stili kullanacak.
+	New documents will use WordCraft's built-in formatting.	Yeni belgeler WordCraft'ın yerleşik biçimlendirmesini kullanacak.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Yeni belgeler WordCraft'ın yerleşik biçimlendirmesini kullanacak. Kaydedilmiş varsayılanlarınız kurtarılamaz. Sıfırlansın mı?
 	New Drawing Canvas	Yeni Çizim Tuvali
 	New Entry	Yeni Girdi
 	New Label	Yeni Etiket
@@ -1301,6 +1342,8 @@
 	Next Section	Sonraki Bölüm
 	Next Sentence	Sonraki Cümle
 	Next sentence	Sonraki cümle
+	Nib floats over the window with tips and the occasional remark.	Nib, ipuçları ve ara sıra yorumlarla pencerenin üzerinde süzülür.
+	Nib, your assistant. Drag to move; right-click for options.	Asistanınız Nib. Taşımak için sürükleyin; seçenekler için sağ tıklayın.
 	No accessibility issues found.	Erişilebilirlik sorunu bulunamadı.
 	No Border	Kenarlık Yok
 	No changes (read only)	Değişiklik yok (salt okunur)
@@ -1348,6 +1391,7 @@
 	not editing an equation	düzenlenen bir denklem yok
 	Not equal to	Eşit değildir
 	Not linked: click a text box	Bağlı değil: bir metin kutusuna tıklayın
+	Not now	Şimdi değil
 	Not saved	Kaydedilmedi
 	Not saved yet	Henüz kaydedilmedi
 	Not set	Ayarlanmadı
@@ -1406,6 +1450,7 @@
 	Only for the selected text	Yalnızca seçili metin için
 	Only form fields can be filled in.	Yalnızca form alanları doldurulabilir.
 	only in Outline view	yalnızca Ana Hat görünümünde
+	Only in this document	Yalnızca bu belgede
 	Only the allowed styles can be applied.	Yalnızca izin verilen stiller uygulanabilir.
 	Only web (http, https) and email (mailto) links can be followed	Yalnızca web (http, https) ve e-posta (mailto) bağlantıları açılabilir
 	Open a document first	Önce bir belge açın
@@ -1677,9 +1722,11 @@
 	Reset All…	Tümünü Sıfırla…
 	Reset Character Formatting	Karakter Biçimlendirmesini Sıfırla
 	Reset Crop	Kırpmayı Sıfırla
+	Reset Default Formatting	Varsayılan Biçimlendirmeyi Sıfırla
 	Reset Graphic	Grafiği Sıfırla
 	Reset Paragraph Formatting	Paragraf Biçimlendirmesini Sıfırla
 	Reset Picture	Resmi Sıfırla
+	Reset tips	İpuçlarını sıfırla
 	Reset to Normal	Normale Sıfırla
 	Reset\nGraphic	Grafiği\nSıfırla
 	Resize Table by Dragging	Tabloyu Sürükleyerek Yeniden Boyutlandır
@@ -1700,6 +1747,7 @@
 	Reviewing — edits become suggestions	İnceleme — düzenlemeler öneriye dönüşür
 	Revised document	Düzeltilmiş belge
 	Rewind	Geri Sar
+	Rewinding. Tell me when to stop.	Geri sarıyorum. Ne zaman durayım, söyleyin.
 	Ribbon	Şerit
 	Ribbon and Quick Access Toolbar:	Şerit ve Hızlı Erişim Araç Çubuğu:
 	Ribbon tabs	Şerit sekmeleri
@@ -1722,6 +1770,7 @@
 	Right:	Sağ:
 	Rightwards Arrow Above	Üstte Sağa Ok
 	Rightwards Harpoon Above	Üstte Sağa Zıpkın
+	Romanian	Rumence
 	Roots of ax²+bx+c	ax²+bx+c Kökleri
 	Rotate all text 270°	Tüm metni 270° döndür
 	Rotate all text 90°	Tüm metni 90° döndür
@@ -1743,8 +1792,11 @@
 	Save the document to turn on AutoSave	Otomatik Kaydet'i açmak için belgeyi kaydedin
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Otomatik Kaydet'i açmak için belgeyi kaydedin (yalnızca açtığınız bir dosya, siz kaydedene kadar yeniden yazılmaz)
 	Save these pages as PDF…	Bu sayfaları PDF olarak kaydet…
+	Saved. Saved again. Still saved. It's very saved.	Kaydedildi. Yine kaydedildi. Hâlâ kaydedildi. Epey kaydedildi.
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Şablon klasörünüze bir .dotx şablonu kaydeder. Dosya › Yeni altında Kişisel bölümünde görünür.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	{name} kaydetme işlemi iptal edildi; belge hâlâ açık ve hiçbir şey kaybolmadı.
+	Sayings	Laf atmalar
+	Sayings:	Sözler:
 	Scale	Ölçek
 	Scale Drawing	Çizimi Ölçeklendir
 	Scatter	Dağılım
@@ -1817,6 +1869,9 @@
 	Series name	Seri adı
 	Series {n}	Seri {n}
 	Set As Default	Varsayılan Olarak Ayarla
+	Set As Default (Font)	Varsayılan Olarak Ayarla (Yazı Tipi)
+	Set As Default (Page Setup)	Varsayılan Olarak Ayarla (Sayfa Ayarları)
+	Set As Default (Paragraph)	Varsayılan Olarak Ayarla (Paragraf)
 	Set Caret	İmleci Konumlandır
 	Set Character Formatting	Karakter Biçimlendirmesini Ayarla
 	Set Date	Tarihi Ayarla
@@ -1831,6 +1886,7 @@
 	Shape Format	Şekil Biçimi
 	Shape Outline	Şekil Çizgisi
 	Shape Styles	Şekil Stilleri
+	{key} starts a new line without starting a new paragraph.	{key} yeni bir paragraf başlatmadan yeni bir satır başlatır.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Kargo etiketleri
 	Shortcut key:	Kısayol tuşu:
@@ -1867,13 +1923,16 @@
 	Show Quick Access Toolbar	Hızlı Erişim Araç Çubuğunu Göster
 	Show revisions in balloons	Düzeltmeleri balonlarda göster
 	Show Text Formatting	Metin biçimlendirmesini göster
+	Show the Assistant	Asistanı göster
 	Show the community button in the title bar	Başlık çubuğunda topluluk düğmesini göster
 	Show the equation in the line of text	Denklemi metin satırı içinde göster
 	Show the equation on a line of its own	Denklemi ayrı bir satırda göster
 	Show the mini toolbar when text is selected	Metin seçildiğinde mini araç çubuğunu göster
 	Show the ribbon	Şeridi göster
 	Show the Start screen when WordCraft starts	WordCraft açılırken Başlangıç ekranını göster
+	Show the tips you asked not to see again.	Bir daha görmek istemediğiniz ipuçlarını yeniden gösterir.
 	Show/Hide ¶	Göster/Gizle ¶
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Göster/Gizle ¶ ({key}) metninizde saklanan boşlukları, sekmeleri ve sonları gösterir.
 	Show\nComments	Yorumları\nGöster
 	Showing the first {count} items.	İlk {count} öğe gösteriliyor.
 	Shows a tree: each item below the item it belongs to.	Bir ağaç gösterir: her öğe ait olduğu öğenin altındadır.
@@ -1930,6 +1989,7 @@
 	Soft Glow	Yumuşak Parıltı
 	Solid Accent	Düz Vurgu
 	Solid fill	Düz dolgu
+	Sometimes	Bazen
 	Sort by:	Sıralama ölçütü:
 	Sort order:	Sıralama:
 	Sort Recipients	Alıcıları sırala
@@ -1974,6 +2034,7 @@
 	Start Mail\nMerge	Posta\nBirleştirmeyi Başlat
 	Start-up	Başlangıç
 	State	İl/Eyalet
+	Still there? I can hear you thinking.	Hâlâ orada mısınız? Düşündüğünüzü duyabiliyorum.
 	Stop Protection	Korumayı Durdur
 	Stop Reading	Okumayı Durdur
 	Stopped	Durduruldu
@@ -2050,6 +2111,7 @@
 	Tabular List	Tablo Biçiminde Liste
 	Tag	Etiket
 	Take the last match on the page	Sayfadaki son eşleşmeyi al
+	Take your time. The page isn't going anywhere. Neither am I. Ever.	Acele etmeyin. Sayfa hiçbir yere gitmiyor. Ben de. Asla.
 	Tangent formula	Tanjant Formülü
 	Tangent Function	Tanjant Fonksiyonu
 	TC entry fields	TC girdi alanları
@@ -2091,6 +2153,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Kenar boşlukları bu boyuttaki bir sayfaya sığmıyor; önce kenar boşluklarını küçültün.
 	The measurement must be between {min} and {max}.	Ölçü {min} ile {max} arasında olmalıdır.
 	The new style takes the formatting of the current paragraph.	Yeni stil, geçerli paragrafın biçimlendirmesini alır.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Normal şablonu okunamadı, bu nedenle bu belge WordCraft'ın yerleşik biçimlendirmesini kullanıyor.
 	The number must be between 1 and {max}.	Sayı 1 ile {max} arasında olmalıdır.
 	the paragraph is empty	paragraf boş
 	the paragraph starts with a space	paragraf boşlukla başlıyor
@@ -2118,6 +2181,7 @@
 	Thick	Kalın
 	this chart was made in another program: WordCraft shows it but can't edit it	bu grafik başka bir programda oluşturuldu: WordCraft onu gösterir ancak düzenleyemez
 	This document	Bu belge
+	This document only?	Yalnızca bu belge mi?
 	This field has no options.	Bu alanın seçeneği yok.
 	This folder can't be read: {error}	Bu klasör okunamıyor: {error}
 	This font has no characters to show.	Bu yazı tipinde gösterilecek karakter yok.
@@ -2126,12 +2190,15 @@
 	This password type isn't supported.	Bu parola türü desteklenmiyor.
 	This point forward	Bu noktadan itibaren
 	This section	Bu bölüm
+	this session has no Normal template (headless or without preferences)	bu oturumda Normal şablonu yok (arayüzsüz veya tercihsiz)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	bu oturumda Normal şablonu yok (arayüzsüz veya tercihsiz): şunu kullanın "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	bu SmartArt başka bir programda oluşturuldu: WordCraft onu gösterir ancak düzenleyemez
 	this text box is already linked: break the link first	bu metin kutusu zaten bağlı: önce bağlantıyı kesin
 	Three	Üç
 	Through	Geçişli
 	Tight	Sıkı
 	Tilde	Tilde
+	Tip	İpucu
 	Tips ({n})	İpuçları ({n})
 preview	Title	Örnek
 	Title Bar	Başlık Çubuğu
@@ -2208,6 +2275,7 @@ preview	Title	Örnek
 	Undo Actions	Eylemleri Geri Al
 	Undo History	Geri Alma Geçmişi
 	Undo {n} Actions	{n} Eylemi Geri Al
+	Undo, undo, undo… we're time travelling now.	Geri al, geri al, geri al… artık zamanda yolculuk yapıyoruz.
 	Unformatted Text	Biçimlendirilmemiş Metin
 	Ungroup	Grubu Çöz
 	Union of intersections	Kesişimlerin Birleşimi
@@ -2235,7 +2303,9 @@ preview	Title	Örnek
 	Use an Existing List…	Var Olan Listeyi Kullan…
 	Use system setting	Sistem ayarını kullan
 	Use the browser's full screen (F11)	Tarayıcının tam ekran modunu kullanın (F11)
+	Use the current style set and theme for all new documents?	Geçerli stil kümesi ve tema tüm yeni belgeler için kullanılsın mı?
 	Use the Insert key to switch overtype on and off	Üzerine yazmayı açıp kapatmak için Insert tuşunu kullan
+	Use this formatting as the default for:	Bu biçimlendirmeyi şunun için varsayılan olarak kullan:
 	Use wildcards	Joker karakter kullan
 	User Name	Kullanıcı Adı
 	User name:	Kullanıcı adı:
@@ -2250,6 +2320,7 @@ preview	Title	Örnek
 	View Alt Text…	Alternatif Metni Görüntüle…
 	View Gridlines	Kılavuz Çizgilerini Göster
 	View State	Görünüm Durumu
+	View › Focus hides everything but your words. I'll wait outside.	Görünüm › Odak, sözcükleriniz dışında her şeyi gizler. Ben dışarıda beklerim.
 	Views	Görünümler
 	Visual effects	Görsel efektler
 	Volume	Cilt
@@ -2300,9 +2371,13 @@ preview	Title	Örnek
 	Wrap\nText	Metni\nKaydır
 	Write & Insert Fields	Alanları Yaz ve Ekle
 	Write a reply	Yanıt yazın
+	Writer's block? I find staring at the cursor helps. It's been blinking at me for years.	Yazar tıkanıklığı mı? Bana imlece bakmak iyi geliyor. Yıllardır bana göz kırpıp duruyor.
 	x bar	x Çizgisi
 	Year	Yıl
 	Yields	Sonuç
+	You haven't saved in a while, and AutoSave is off. Save now?	Bir süredir kaydetmediniz ve Otomatik Kaydet kapalı. Şimdi kaydedilsin mi?
+	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Bir liste başlattınız. Bitirmek için Enter'a iki kez basın ya da bir öğeyi yeniden metne dönüştürmek için öğenin başında Backspace'e basın.
+	Your document is now the most saved document in history.	Belgeniz artık tarihin en çok kaydedilen belgesi.
 	Your system doesn't report an animation setting, so animation effects stay on.	Sisteminiz bir animasyon ayarı bildirmiyor, bu nedenle animasyon efektleri açık kalır.
 	Your system has animation effects turned off.	Sisteminizde animasyon efektleri kapalı.
 	Your system has animation effects turned on.	Sisteminizde animasyon efektleri açık.
@@ -2339,5 +2414,8 @@ preview	Title	Örnek
 	{width} × {height} mm	{width} × {height} mm
 	{width} × {height} pixels	{width} × {height} piksel
 	{words} words	{words} sözcük
+	{words} words and counting. Literally. I'm counting.	{words} sözcük ve sayıyoruz. Gerçekten. Ben sayıyorum.
+	{words} words! I'd throw confetti but I'd have to clean it up.	{words} sözcük! Konfeti atardım ama sonra temizlemem gerekirdi.
+	{words} words. That's {words} more than I've written today.	{words} sözcük. Bugün benim yazdığımdan {words} fazla.
 	“{text}” ({row}, {series}) isn't a number.	“{text}” ({row}, {series}) bir sayı değil.
 	✓ None	✓ Yok

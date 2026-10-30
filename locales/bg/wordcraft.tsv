@@ -114,6 +114,9 @@
 	Advanced Find…	Разширено търсене…
 	After:	След:
 	Agents	Агенти
+	Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not.	Агенти, свързани с WordCraft, могат да ви показват съобщения чрез асистента. Когато са заглушени, им се съобщава, че не желаете това.
+	Ah, Latin. The language of deadlines.	А, латински. Мъртъв език — родният език на дедлайните.
+	Ah, the editing phase. My favourite. Very decisive.	А, етапът на редактиране. Любимият ми. Много решителен.
 	Align Bottom Center	Подравняване долу в центъра
 	Align Bottom Left	Подравняване долу вляво
 	Align Bottom Right	Подравняване долу вдясно
@@ -130,6 +133,7 @@
 	All Caps	Всички главни
 	All caps	Всички главни
 	All Commands	Всички команди
+	All documents based on the Normal template?	Всички документи, базирани на шаблона „Нормален“?
 	All Fonts	Всички шрифтове
 	All Levels	Всички нива
 	All Markup	Всички маркировки
@@ -146,6 +150,7 @@
 	Alt Text Pane	Панел за алтернативен текст
 	Alt:	Алт. текст:
 	Alt\nText	Алтернативен\nтекст
+	an agent	агент
 	And	И
 	Angle Brackets	Ъглови скоби
 	Angle Brackets with Separator	Ъглови скоби с разделител
@@ -155,6 +160,7 @@
 	Annotation Reference	Препратка към коментар
 	Annotation Subject	Тема на коментар
 	Annotation Text	Текст на коментар
+	Annoying	Досадно
 	Another file	Друг файл
 	Any Character	Произволен знак
 	Any Digit	Произволна цифра
@@ -181,6 +187,8 @@
 	Asian text font:	Шрифт за азиатски текст:
 	Asian Typography	Азиатска типография
 	Assign	Присвояване
+	Assistant	Асистент
+	Assistant Suggestions	Предложения на асистента
 	At least	Най-малко
 	At least {n}	Поне {n}
 	Atelier	Ателие
@@ -250,6 +258,7 @@
 	Blue:	Синьо:
 	Body Text	Основен текст
 	Body text in a short paragraph to show spacing.	Основен текст в кратък абзац, който показва разстоянията.
+	Bold choice. Ctrl+Z is right there if you need it.	Смел избор. Ctrl+Z е точно тук, ако потрябва.
 	Book	Книга
 	Book Title	Заглавие на книга
 	Book title	Заглавие на книгата
@@ -289,6 +298,7 @@
 	By author	По автор
 	Calendar	Календар
 	Can't be deleted	Не може да се изтрие
+	Can't find a command? Press {key} and type what you want to do.	Не намирате команда? Натиснете {key} и напишете какво искате да направите.
 	can't split at the first row	таблицата не може да се раздели на първия ред
 	Canvas Member	Елемент на платното
 	Capitalize Each Word	Всяка дума с главна буква
@@ -299,6 +309,7 @@
 	Caption text	Текст на надписа
 	Caption:	Надпис:
 	Captions	Надписи
+	Careful, any further back and we'll undo the invention of paper.	Внимавайте, още малко назад и ще отменим изобретяването на хартията.
 	Caret Character	Знак ^
 	Case changes	Промени в регистъра
 	Cases (Three Conditions)	Случаи (три условия)
@@ -501,6 +512,10 @@
 	Crop	Отрязване
 	Cross-reference	Кръстосана препратка
 	Cross-reference:	Кръстосана препратка:
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} започва нова страница. Много по-спретнато, отколкото да натискате Enter, докато не стане.
+	{key} finds and replaces text, formatting and special characters.	{key} търси и заменя текст, форматиране и специални знаци.
+	{key} turns the selected text into a link.	{key} превръща маркирания текст във връзка.
+	{key} counts your words, characters and paragraphs.	{key} брои думите, знаците и абзаците ви.
 	Cube Root	Кубичен корен
 	Current - Linear	Текущо – линеен формат
 	Current - Professional	Текущо – професионален формат
@@ -541,6 +556,7 @@
 	Decrease Font Size	Намаляване на размера на шрифта
 	Decrease Indent	Намаляване на отстъпа
 	Deep	Наситено
+	Default formatting	Форматиране по подразбиране
 	Default Paragraph Font	Шрифт на абзаца по подразбиране
 	Default tab stops:	Позиции на табулатора по подразбиране:
 	Define New Bullet	Дефиниране на нов водещ символ
@@ -548,6 +564,7 @@
 	Define New Multilevel List…	Дефиниране на нов многостепенен списък…
 	Define New Number Format	Дефиниране на нов числов формат
 	Deflate	Свиване
+	Delete Around Caret in Equation	Изтриване около курсора в уравнението
 	Delete Back in Equation	Изтриване назад в уравнението
 	Delete Bookmark	Изтриване на отметка
 	Delete Cells	Изтриване на клетки
@@ -625,6 +642,7 @@
 	Don't hyphenate	Без сричкопренасяне
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Цитиранията и библиографиите от Zotero, Mendeley или EndNote не се четат
 	Don't Save	Без запазване
+	Don't show me this tip again	Не показвай повече този съвет
 	Dot dash	Точка-тире
 	Dot-dash	Точка-тире
 	Dot-dot-dash	Точка-точка-тире
@@ -759,6 +777,9 @@
 	Export Page as PNG	Експортиране на страницата като PNG
 	Extend Selection	Разширяване на селекцията
 	Extend Selection by Units	Разширяване на селекцията по единици
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} повтаря последното ви действие. Форматирането на десет заглавия изведнъж става едно щракване и девет натискания.
+	{key} checks the spelling and grammar of the whole document.	{key} проверява правописа и граматиката в целия документ.
+	Faster: {command} is {key} on the keyboard.	По-бързо: {command} е {key} от клавиатурата.
 	Field code:	Код на полето:
 	Field Codes	Кодове на полета
 	Field codes:	Кодове на полета:
@@ -827,6 +848,7 @@
 	Formatting at Selection	Форматиране при селекцията
 	Formatting exceptions	Изключения за форматирането
 	Formatting marks	Знаци за форматиране
+	Formatting saved for new documents:	Форматиране, запазено за нови документи:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Сравняват се форматирането, промените в регистъра, празното пространство и таблиците; другите настройки се запазват за по-късно.
 	Formula	Формула
 	Formula:	Формула:
@@ -841,10 +863,12 @@
 	From Top Left Corner	От ъгъла горе вляво
 	From Top Right Corner	От ъгъла горе вдясно
 	from Unicode (hex)	от Unicode (шестн.)
+	From {name}	От: {name}
 	From:	От:
 	Full page of the same label	Цяла страница с един и същ етикет
 	Full Screen View	Изглед на цял екран
 	Full\nScreen	Цял\nекран
+	Fun fact: a blank page is just a draft that hasn't been told yet.	Интересен факт: празната страница е просто чернова, която още не знае историята си.
 	Function	Функция
 	Gallery	Галерия
 	GB/T 7714	GB/T 7714
@@ -858,6 +882,7 @@
 	Go to Record	Отиване до запис
 	Go to what:	Отиване до:
 	Go To…	Отиване до…
+	Gone! Like it was never written. Mostly because it now wasn't.	Изчезна! Сякаш никога не е било написано. Най-вече защото вече наистина не е.
 	Good afternoon	Добър ден
 	Good evening	Добър вечер
 	Good morning	Добро утро
@@ -904,6 +929,7 @@
 	Heading {n}	Заглавие {n}
 	Hebrew	Иврит
 	Hex:	Hex:
+	Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?	Здравейте! Аз съм Nib, вашият асистент за писане. Давам съвети, клавишни комбинации и от време на време непоискано мнение. Да остана ли?
 	Hidden	Скрит
 	Hidden bookmarks	Скрити отметки
 	Hide Codes	Скриване на кодовете
@@ -940,6 +966,8 @@
 	Hyphenation zone:	Зона на сричкопренасяне:
 	Hyphens (--) as dashes (—)	Тирета (--) като дълги тирета (—)
 	Hypotenuse	Хипотенуза
+	I promise it's saved. I checked. Twice.	Обещавам, запазено е. Проверих. Два пъти.
+	I'd write something myself, but I'm all nib and no ink.	Бих написал нещо и аз, но съм перо без мастило. Много натиск, нула резултат.
 	I, II, III, …	I, II, III, …
 	i, ii, iii, …	i, ii, iii, …
 	Icon Color	Цвят на иконата
@@ -1072,6 +1100,7 @@
 	ISO 690 (author-date)	ISO 690 (автор и дата)
 	ISO 690 (numerical)	ISO 690 (числов)
 	Issue	Брой
+	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	Изглежда, че пишете писмо. Да подготвя ли плик за него, или да започнем от шаблон за писмо?
 	Join the ArtCraft community on Discord	Присъединете се към общността на ArtCraft в Discord
 	Join us on Discord: discord.gg/artcraft	Присъединете се към нас в Discord: discord.gg/artcraft
 	Journal	Научно списание
@@ -1079,6 +1108,7 @@
 	Justified	Двустранно подравнен
 	Keep Lines Together	Редовете заедно
 	Keep lines together	Редовете заедно
+	Keep me around	Остани
 	Keep Text Only	Запазване само на текста
 	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	Съхранявайте паролата на сигурно място: без нея никой, включително WordCraft, не може да отвори документа. Оставете двете полета празни, за да премахнете паролата.
 	Keep with Next	Заедно със следващия
@@ -1130,6 +1160,7 @@
 	Less than or equal	По-малко или равно на
 	Letter	Писмо
 	Letter headings	Заглавия с букви
+	Letter template	Шаблон за писмо
 	Letter-Like Symbols	Буквоподобни символи
 	Letters	Писма
 	Level 5	Ниво 5
@@ -1204,6 +1235,7 @@
 	Logical AND with Limits	Логическо И с граници
 	Logical OR	Логическо ИЛИ
 	Logical OR with Limits	Логическо ИЛИ с граници
+	Lorem ipsum: because the real words are still at the café.	Lorem ipsum: защото истинските думи още са в кафенето.
 	Lum:	Ярк.:
 	Macros	Макроси
 	Made from the author and year when empty	Образува се от автора и годината, ако е празно
@@ -1293,6 +1325,7 @@
 	Multilevel List	Многостепенен списък
 	Multilevel List Library	Библиотека с многостепенни списъци
 	Multiple Pages	Няколко страници
+	Mute agent messages	Заглушаване на съобщенията от агенти
 	My list has	Списъкът ми има
 	Name of the file this document is saved as	Името на файла, под което е запазен документът
 	Narrow	Тясна
@@ -1303,6 +1336,14 @@
 	Negated Relations	Отрицания на релации
 	New Comment	Нов коментар
 	New comments and tracked changes are recorded under this name and these initials.	Новите коментари и проследени промени се записват с това име и тези инициали.
+	New Documents Based on This Template	Нови документи, базирани на този шаблон
+	New documents based on this template	Нови документи, базирани на този шаблон
+	New documents will use this font.	Новите документи ще използват този шрифт.
+	New documents will use this page setup.	Новите документи ще използват тази настройка на страницата.
+	New documents will use this paragraph formatting.	Новите документи ще използват това форматиране на абзаците.
+	New documents will use this style.	Новите документи ще използват този стил.
+	New documents will use WordCraft's built-in formatting.	Новите документи ще използват вграденото форматиране на WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Новите документи ще използват вграденото форматиране на WordCraft. Запазените ви настройки по подразбиране не могат да бъдат възстановени. Нулиране?
 	New Drawing Canvas	Ново платно за рисуване
 	New Entry	Нов запис
 	New Label	Нов етикет
@@ -1322,6 +1363,8 @@
 	Next Section	Следващ раздел
 	Next Sentence	Следващо изречение
 	Next sentence	Следващо изречение
+	Nib floats over the window with tips and the occasional remark.	Ниб се носи над прозореца със съвети и по някоя забележка.
+	Nib, your assistant. Drag to move; right-click for options.	Ниб, вашият асистент. Плъзнете, за да преместите; щракнете с десния бутон за опции.
 	No accessibility issues found.	Не са открити проблеми с достъпността.
 	No Border	Без граница
 	No changes (read only)	Без промени (само за четене)
@@ -1371,6 +1414,7 @@
 	not editing an equation	не се редактира уравнение
 	Not equal to	Не е равно на
 	Not linked: click a text box	Няма връзка: щракнете върху текстово поле
+	Not now	Не сега
 	Not saved	Не е запазено
 	Not saved yet	Още не е запазено
 	Not set	Не е зададено
@@ -1428,6 +1472,7 @@
 	Only for the selected text	Само за избрания текст
 	Only form fields can be filled in.	Могат да се попълват само полета на формуляри.
 	only in Outline view	само в изгледа „Структура“
+	Only in this document	Само в този документ
 	Only the allowed styles can be applied.	Могат да се прилагат само разрешените стилове.
 	Only web (http, https) and email (mailto) links can be followed	Могат да се отварят само уеб (http, https) и имейл (mailto) връзки
 	Open a document first	Първо отворете документ
@@ -1701,9 +1746,11 @@
 	Reset All…	Нулиране на всички…
 	Reset Character Formatting	Нулиране на форматирането на знаците
 	Reset Crop	Нулиране на изрязването
+	Reset Default Formatting	Нулиране на форматирането по подразбиране
 	Reset Graphic	Нулиране на графиката
 	Reset Paragraph Formatting	Нулиране на форматирането на абзаца
 	Reset Picture	Нулиране на изображението
+	Reset tips	Нулиране на съветите
 	Reset to Normal	Връщане към Нормален
 	Reset\nGraphic	Нулиране\nна графиката
 	Resize Table by Dragging	Преоразмеряване на таблица чрез плъзгане
@@ -1723,6 +1770,7 @@
 	Reviewing — edits become suggestions	Преглед — редакциите стават предложения
 	Revised document	Редактиран документ
 	Rewind	Превъртане назад
+	Rewinding. Tell me when to stop.	Превъртам назад. Кажете ми кога да спра.
 	Ribbon	Лента
 	Ribbon and Quick Access Toolbar:	Лента и лента с инструменти за бърз достъп:
 	Ribbon tabs	Раздели на лентата
@@ -1745,6 +1793,7 @@
 	Right:	Дясно:
 	Rightwards Arrow Above	Стрелка надясно отгоре
 	Rightwards Harpoon Above	Полустрелка надясно отгоре
+	Romanian	Румънски
 	Roots of ax²+bx+c	Корени на ax²+bx+c
 	Rotate all text 270°	Завъртане на целия текст на 270°
 	Rotate all text 90°	Завъртане на целия текст на 90°
@@ -1768,8 +1817,11 @@
 	Save the document to turn on AutoSave	Запазете документа, за да включите автоматичното запазване
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Запазете документа, за да включите автоматичното запазване (файл, който само сте отворили, не се презаписва, докато не го запазите)
 	Save these pages as PDF…	Запазване на тези страници като PDF…
+	Saved. Saved again. Still saved. It's very saved.	Запазено. Пак запазено. Още е запазено. Много е запазено.
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Записва шаблон .dotx в папката ви с шаблони. Той се показва във Файл › Нов под Лични.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Запазването на {name} е отменено. Документът остава отворен и нищо не е загубено.
+	Sayings	Реплики
+	Sayings:	Реплики:
 	Scale	Мащаб
 	Scale Drawing	Мащабиране на рисунката
 	Scatter	Точкова
@@ -1842,6 +1894,9 @@
 	Series name	Име на серията
 	Series {n}	Серия {n}
 	Set As Default	Задаване по подразбиране
+	Set As Default (Font)	Задаване по подразбиране (Шрифт)
+	Set As Default (Page Setup)	Задаване по подразбиране (Настройка на страницата)
+	Set As Default (Paragraph)	Задаване по подразбиране (Абзац)
 	Set Caret	Поставяне на курсора
 	Set Character Formatting	Задаване на форматиране на знаците
 	Set Date	Задаване на дата
@@ -1857,6 +1912,7 @@
 	Shape Format	Формат на фигура
 	Shape Outline	Контур на фигура
 	Shape Styles	Стилове на фигури
+	{key} starts a new line without starting a new paragraph.	{key} започва нов ред, без да започва нов абзац.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Етикети за пратки
 	Shortcut key:	Клавишна комбинация:
@@ -1893,13 +1949,16 @@
 	Show Quick Access Toolbar	Показване на лентата с инструменти за бърз достъп
 	Show revisions in balloons	Показване на редакциите в балончета
 	Show Text Formatting	Показване на форматирането на текста
+	Show the Assistant	Показване на асистента
 	Show the community button in the title bar	Показване на бутона за общността в заглавната лента
 	Show the equation in the line of text	Показване на уравнението в реда на текста
 	Show the equation on a line of its own	Показване на уравнението на отделен ред
 	Show the mini toolbar when text is selected	Показване на мини лентата с инструменти при избран текст
 	Show the ribbon	Показване на лентата
 	Show the Start screen when WordCraft starts	Показване на началния екран при стартиране на WordCraft
+	Show the tips you asked not to see again.	Отново показва съветите, които сте скрили.
 	Show/Hide ¶	Показване/скриване на ¶
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Показване/скриване на ¶ ({key}) показва интервалите, табулациите и прекъсванията, скрити в текста ви.
 	Show\nComments	Показване на\nкоментарите
 	Showing the first {count} items.	Показани са първите {count} елемента.
 	Shows a tree: each item below the item it belongs to.	Показва дърво: всеки елемент е под елемента, към който принадлежи.
@@ -1957,6 +2016,7 @@
 	Soft Glow	Меко сияние
 	Solid Accent	Плътен акцент
 	Solid fill	Плътно запълване
+	Sometimes	Понякога
 	Sort by:	Сортиране по:
 	Sort order:	Ред на сортиране:
 	Sort Recipients	Сортиране на получателите
@@ -2002,6 +2062,7 @@
 	Start Mail\nMerge	Стартиране на\nобединяването
 	Start-up	Стартиране
 	State	Област
+	Still there? I can hear you thinking.	Още ли сте тук? Чувам как мислите.
 	Stop Protection	Спиране на защитата
 	Stop Reading	Спиране на четенето
 	Stopped	Спряно
@@ -2077,6 +2138,7 @@
 	Tabular List	Табличен списък
 	Tag	Таг
 	Take the last match on the page	Взимай последното съвпадение на страницата
+	Take your time. The page isn't going anywhere. Neither am I. Ever.	Не бързайте. Страницата няма да избяга. Аз също. Никога.
 	Tangent formula	Формула за тангенс
 	Tangent Function	Функция тангенс
 	TC entry fields	Полета за записи TC
@@ -2118,6 +2180,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Полетата не се побират на страница с този размер; първо намалете полетата.
 	The measurement must be between {min} and {max}.	Размерът трябва да е между {min} и {max}.
 	The new style takes the formatting of the current paragraph.	Новият стил приема форматирането на текущия абзац.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Шаблонът „Нормален“ не можа да бъде прочетен, затова този документ използва вграденото форматиране на WordCraft.
 	The number must be between 1 and {max}.	Числото трябва да е между 1 и {max}.
 	the paragraph is empty	абзацът е празен
 	the paragraph starts with a space	абзацът започва с интервал
@@ -2145,6 +2208,7 @@
 	Thick	Дебело
 	this chart was made in another program: WordCraft shows it but can't edit it	тази диаграма е създадена в друга програма: WordCraft я показва, но не може да я редактира
 	This document	Този документ
+	This document only?	Само този документ?
 	This field has no options.	Това поле няма опции.
 	This folder can't be read: {error}	Тази папка не може да бъде прочетена: {error}
 	This font has no characters to show.	Този шрифт няма знаци за показване.
@@ -2153,12 +2217,15 @@
 	This password type isn't supported.	Този тип парола не се поддържа.
 	This point forward	От тази точка нататък
 	This section	Този раздел
+	this session has no Normal template (headless or without preferences)	тази сесия няма шаблон „Нормален“ (без интерфейс или без предпочитания)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	тази сесия няма шаблон „Нормален“ (без интерфейс или без предпочитания): използвайте "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	този SmartArt е създаден в друга програма: WordCraft го показва, но не може да го редактира
 	this text box is already linked: break the link first	това текстово поле вече е свързано: първо прекъснете връзката
 	Three	Три
 	Through	През
 	Tight	Стегнато
 	Tilde	Тилда
+	Tip	Съвет
 	Tips ({n})	Съвети ({n})
 	Title Bar	Заглавна лента
 	Title from the document properties	Заглавието от свойствата на документа
@@ -2235,6 +2302,7 @@
 	Undo Actions	Отмяна на действия
 	Undo History	История на отмяната
 	Undo {n} Actions	Отмяна на {n} действия
+	Undo, undo, undo… we're time travelling now.	Отмяна, отмяна, отмяна… вече пътуваме във времето.
 	Unformatted Text	Неформатиран текст
 	Union of intersections	Обединение на сечения
 	Union with Limits	Обединение с граници
@@ -2262,7 +2330,9 @@
 	Use an Existing List…	Използване на съществуващ списък…
 	Use system setting	Според системната настройка
 	Use the browser's full screen (F11)	Използвайте режима на цял екран на браузъра (F11)
+	Use the current style set and theme for all new documents?	Да се използват ли текущият набор от стилове и темата за всички нови документи?
 	Use the Insert key to switch overtype on and off	Използване на клавиша Insert за включване и изключване на заместването
+	Use this formatting as the default for:	Използване на това форматиране по подразбиране за:
 	Use wildcards	Използване на заместващи символи
 	User Name	Потребителско име
 	User name:	Потребителско име:
@@ -2277,6 +2347,7 @@
 	View Alt Text…	Преглед на алтернативния текст…
 	View Gridlines	Показване на линиите на мрежата
 	View State	Състояние на изгледа
+	View › Focus hides everything but your words. I'll wait outside.	Изглед › Фокус скрива всичко освен думите ви. Ще чакам отвън.
 	Views	Изгледи
 	Visual effects	Визуални ефекти
 	Volume	Том
@@ -2327,10 +2398,14 @@
 	Wrap\nText	Обтичане\nна текста
 	Write & Insert Fields	Писане и вмъкване на полета
 	Write a reply	Напишете отговор
+	Writer's block? I find staring at the cursor helps. It's been blinking at me for years.	Творческа криза? На мен ми помага да се взирам в курсора. Той ми мига от години.
 	x bar	x с черта
 	Year	Година
 	Yields	Води до
+	You haven't saved in a while, and AutoSave is off. Save now?	Отдавна не сте запазвали, а автоматичното запазване е изключено. Да запазя ли сега?
+	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Започнахте списък. Натиснете Enter два пъти, за да го завършите, или Backspace в началото на елемент, за да го превърнете отново в текст.
 	Your changes will be lost if you don't save them.	Промените ще бъдат загубени, ако не ги запазите.
+	Your document is now the most saved document in history.	Документът ви вече е най-запазеният документ в историята.
 	Your system doesn't report an animation setting, so animation effects stay on.	Системата не съобщава настройка за анимацията, затова ефектите остават включени.
 	Your system has animation effects turned off.	Ефектите на анимация в системата са изключени.
 	Your system has animation effects turned on.	Ефектите на анимация в системата са включени.
@@ -2367,5 +2442,8 @@
 	{width} × {height} mm	{width} × {height} мм
 	{width} × {height} pixels	{width} × {height} пиксела
 	{words} words	Думи: {words}
+	{words} words and counting. Literally. I'm counting.	Думи: {words} и броят расте. Буквално. Аз броя.
+	{words} words! I'd throw confetti but I'd have to clean it up.	Думи: {words}! Бих хвърлил конфети, но после аз ще чистя.
+	{words} words. That's {words} more than I've written today.	Думи: {words}. Това са с {words} повече, отколкото съм написал аз днес.
 	“{text}” ({row}, {series}) isn't a number.	„{text}“ ({row}, {series}) не е число.
 	✓ None	✓ Няма

@@ -115,6 +115,9 @@
 	Advanced Find…	Расширенный поиск…
 	After:	После:
 	Agents	Агенты
+	Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not.	Агенты, подключённые к WordCraft, могут показывать вам сообщения через помощника. Если сообщения отключены, агенты узнают, что вы не хотите их получать.
+	Ah, Latin. The language of deadlines.	А, латынь. Мёртвый язык — родной язык дедлайнов.
+	Ah, the editing phase. My favourite. Very decisive.	А, этап правки. Мой любимый. Очень решительный.
 	Align Bottom Center	По нижнему краю, по центру
 	Align Bottom Left	По нижнему левому краю
 	Align Bottom Right	По нижнему правому краю
@@ -130,6 +133,7 @@
 	All Borders	Все границы
 	All caps	Все прописные
 	All Commands	Все команды
+	All documents based on the Normal template?	Всех документов на основе шаблона «Обычный»?
 	All Fonts	Все шрифты
 	All Levels	Все уровни
 	All Markup	Все исправления
@@ -146,6 +150,7 @@
 	Alt Text Pane	Область замещающего текста
 	Alt:	Замещающий текст:
 	Alt\nText	Замещающий\nтекст
+	an agent	агент
 	And	И
 	Angle Brackets	Угловые скобки
 	Angle Brackets with Separator	Угловые скобки с разделителем
@@ -155,6 +160,7 @@
 	Annotation Reference	Знак примечания
 	Annotation Subject	Тема примечания
 	Annotation Text	Текст примечания
+	Annoying	Назойливо
 	Another file	Другой файл
 	Any Character	Любой знак
 	Any Digit	Любая цифра
@@ -180,6 +186,8 @@
 	ASAP	КАК МОЖНО СКОРЕЕ
 	Asian text font:	Шрифт азиатского текста:
 	Asian Typography	Азиатская типографика
+	Assistant	Помощник
+	Assistant Suggestions	Подсказки помощника
 	At least	Минимум
 	At least {n}	Минимум {n}
 	Atelier	Ателье
@@ -249,6 +257,7 @@
 	Blue:	Синий:
 	Body Text	Основной текст
 	Body text in a short paragraph to show spacing.	Основной текст в коротком абзаце, чтобы показать интервалы.
+	Bold choice. Ctrl+Z is right there if you need it.	Смелый выбор. Ctrl+Z рядом, если что.
 	Book	Книга
 	Book Title	Название книги
 	Book title	Название книги
@@ -286,16 +295,19 @@
 	By author	По автору
 	Calendar	Календарь
 	Can't be deleted	Нельзя удалять
+	Can't find a command? Press {key} and type what you want to do.	Не можете найти команду? Нажмите {key} и напишите, что хотите сделать.
 	can't split at the first row	нельзя разделить таблицу по первой строке
 	Canvas Member	Элемент полотна
 	Capitalize Each Word	Каждое Слово С Прописной
 	Capitalize first letter of sentences	Делать первые буквы предложений прописными
 	Capitalize first letter of table cells	Делать первые буквы ячеек таблиц прописными
 	Capitalize names of days	Названия дней с прописной буквы
+	Capitalize the first word of a sentence	Начинать предложение с прописной буквы
 	Caption Numbering	Нумерация названий
 	Caption text	Текст названия
 	Caption:	Название:
 	Captions	Подписи
+	Careful, any further back and we'll undo the invention of paper.	Осторожно, ещё чуть назад — и мы отменим изобретение бумаги.
 	Caret Character	Знак вставки (^)
 	Case changes	Изменения регистра
 	Cases (Three Conditions)	Система (три условия)
@@ -328,6 +340,10 @@
 	Change to Level 3	Перейти на уровень 3
 	Change to Level 4	Перейти на уровень 4
 	Change to Level 5	Перейти на уровень 5
+	Change to Level 6	Перейти на уровень 6
+	Change to Level 7	Перейти на уровень 7
+	Change to Level 8	Перейти на уровень 8
+	Change to Level 9	Перейти на уровень 9
 	Change\nChart Type	Изменить\nтип диаграммы
 	Change\nColors	Изменить\nцвета
 	Changed lines:	Изменённые строки:
@@ -499,6 +515,10 @@
 	Croatian	Хорватский
 	Cross-reference	Перекрёстная ссылка
 	Cross-reference:	Перекрёстная ссылка:
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} начинает новую страницу. Гораздо аккуратнее, чем жать Enter, пока она не появится.
+	{key} finds and replaces text, formatting and special characters.	{key} находит и заменяет текст, форматирование и специальные знаки.
+	{key} turns the selected text into a link.	{key} превращает выделенный текст в ссылку.
+	{key} counts your words, characters and paragraphs.	{key} считает слова, знаки и абзацы.
 	Cube Root	Кубический корень
 	Current - Linear	Текущее — линейный вид
 	Current - Professional	Текущее — профессиональный вид
@@ -538,6 +558,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Декоративные объекты лишь украшают документ: программы чтения с экрана их пропускают.
 	Decrease Indent	Уменьшить отступ
 	Deep	Глубокий
+	Default formatting	Форматирование по умолчанию
 	Default Paragraph Font	Шрифт абзаца по умолчанию
 	Default tab stops:	Табуляция по умолчанию:
 	Define New Bullet	Определить новый маркер
@@ -545,6 +566,7 @@
 	Define New Multilevel List…	Определить новый многоуровневый список…
 	Define New Number Format	Определить новый формат номера
 	Deflate	Сжатие
+	Delete Around Caret in Equation	Удалить вокруг курсора в уравнении
 	Delete Back in Equation	Удалить назад в уравнении
 	Delete Bookmark	Удалить закладку
 	Delete Cells	Удалить ячейки
@@ -587,7 +609,6 @@
 	Differential y	Дифференциал y
 	Differentials	Дифференциалы
 	Direct formatting	Прямое форматирование
-	Direction	Направление
 	Directory	Каталог
 	Discord community	Сообщество в Discord
 	Display for Review	Отображение исправлений
@@ -622,6 +643,7 @@
 	Don't capitalize after:	Не делать прописной после:
 	Don't hyphenate	Без переносов
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Не читать ссылки и списки литературы Zotero, Mendeley и EndNote
+	Don't show me this tip again	Больше не показывать этот совет
 	Dot dash	Штрихпунктир
 	Dot-dash	Штрихпунктирный
 	Dot-dot-dash	Штрихпунктирный с двумя точками
@@ -717,12 +739,15 @@
 	Engrave	Утопленный
 	Enlarge symbol	Увеличить символ
 	Enter a number.	Введите число.
+	Enter bookmark name:	Введите имя закладки:
 	Enter formatting for number:	Формат номера:
 	Enter in Equation	Новая строка в уравнении
 	Enter page number:	Введите номер страницы:
 	Entry marked.	Запись помечена.
 	Envelope #10	Конверт №10
+	Envelope #10   4.12" × 9.50"	Конверт №10   4.12" × 9.50"
 	Envelope Address	Адрес на конверте
+	Envelope DL   4.33" × 8.66"	Конверт DL   4.33" × 8.66"
 	Envelope Return	Обратный адрес
 	Envelope size:	Размер конверта:
 	Envelopes	Конверты
@@ -761,6 +786,10 @@
 	Export PDF	Экспорт в PDF
 	Extend Selection	Расширить выделение
 	Extend Selection by Units	Расширить выделение по единицам
+	Extra space	Лишний пробел
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} повторяет последнее действие. Оформить десять заголовков — теперь один щелчок и девять нажатий.
+	{key} checks the spelling and grammar of the whole document.	{key} проверяет орфографию и грамматику во всём документе.
+	Faster: {command} is {key} on the keyboard.	Быстрее: {command} — это {key} на клавиатуре.
 	Field code:	Код поля:
 	Field Codes	Коды полей
 	Field codes:	Коды полей:
@@ -786,6 +815,7 @@
 	Find What Expression	Найденное выражение
 	Find What Text	Текст для поиска
 	Find what:	Найти:
+	Find “{text}” in the document	Найти «{text}» в документе
 	Finding printers…	Поиск принтеров…
 	Finish & Merge	Завершить и объединить
 	Finish &\nMerge	Завершить\nи объединить
@@ -827,6 +857,7 @@
 	Formatting at Selection	Форматирование выделенного фрагмента
 	Formatting exceptions	Исключения форматирования
 	Formatting marks	Знаки форматирования
+	Formatting saved for new documents:	Форматирование, сохранённое для новых документов:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Сравниваются форматирование, регистр, пробелы и таблицы; остальные параметры сохраняются на будущее.
 	Formula	Формула
 	Formula:	Формула:
@@ -841,10 +872,12 @@
 	From Top Left Corner	Из угла слева сверху
 	From Top Right Corner	Из угла справа сверху
 	from Unicode (hex)	Юникод (шестн.)
+	From {name}	От: {name}
 	From:	С:
 	Full page of the same label	Целая страница одинаковых наклеек
 	Full Screen View	Полноэкранный режим
 	Full\nScreen	Во весь\nэкран
+	Fun fact: a blank page is just a draft that hasn't been told yet.	Забавный факт: чистая страница — это просто черновик, которому ещё не рассказали, о чём он.
 	Function	Функция
 	Gallery	Галерея
 	German (Germany)	Немецкий (Германия)
@@ -857,9 +890,12 @@
 	Go to Record	Перейти к записи
 	Go to what:	Перейти к:
 	Go To…	Перейти…
+	Gone! Like it was never written. Mostly because it now wasn't.	Исчезло! Как будто и не писалось. В основном потому, что теперь и правда не писалось.
 	Good afternoon	Добрый день
 	Good evening	Добрый вечер
 	Good morning	Доброе утро
+	GOST (name sort)	ГОСТ (сортировка по имени)
+	GOST (title sort)	ГОСТ (сортировка по названию)
 	Grab bag	Разное
 	Gradient fill	Градиентная заливка
 	Gradient stops	Точки градиента
@@ -899,6 +935,7 @@
 	Heading {n}	Заголовок {n}
 	Hebrew	Иврит
 	Hex:	Hex:
+	Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?	Привет! Я Nib, ваш помощник по письму. Я даю советы, подсказываю сочетания клавиш и иногда высказываю непрошеное мнение. Мне остаться?
 	Hidden	Скрытый
 	Hidden bookmarks	Скрытые закладки
 	Hide Codes	Скрыть коды
@@ -934,6 +971,8 @@
 	Hyphenation zone:	Зона переноса слов:
 	Hyphens (--) as dashes (—)	Дефисы (--) как тире (—)
 	Hypotenuse	Гипотенуза
+	I promise it's saved. I checked. Twice.	Честное слово, сохранено. Я проверил. Дважды.
+	I'd write something myself, but I'm all nib and no ink.	Я бы и сам что-нибудь написал, но я перо без чернил. Сплошной нажим, ноль результата.
 	I, II, III, …	I, II, III, …
 	i, ii, iii, …	i, ii, iii, …
 	Icon Color	Цвет значка
@@ -1061,15 +1100,20 @@
 	Ionosphere	Ионосфера
 	Is blank	Пусто
 	Is not blank	Не пусто
+	ISO 690 (author-date)	ISO 690 (автор, дата)
+	ISO 690 (numerical)	ISO 690 (числовой)
 	Issue	Выпуск
+	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	Похоже, вы пишете письмо. Подготовить для него конверт или начать с шаблона письма?
 	Join the ArtCraft community on Discord	Присоединяйтесь к сообществу ArtCraft в Discord
 	Join us on Discord: discord.gg/artcraft	Присоединяйтесь к нам в Discord: discord.gg/artcraft
 	Journal	Журнал
+	Journal article	Статья в журнале
 	Justification	Выравнивание
 	Justification of a display equation	Выравнивание отдельного уравнения
 	Justified	По ширине
 	Keep Lines Together	Не разрывать абзац
 	Keep lines together	Не разрывать абзац
+	Keep me around	Оставайся
 	Keep Text Only	Вставить без форматирования
 	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	Храните пароль в надёжном месте: без него никто, включая WordCraft, не сможет открыть документ. Оставьте оба поля пустыми, чтобы убрать пароль.
 	Keep with Next	Не отрывать от следующего
@@ -1119,7 +1163,9 @@
 	Less than	Меньше
 	Less than or equal	Меньше или равно
 	Letter	Письмо
+template	Letter	Письмо
 	Letter headings	Заголовки с буквами
+	Letter template	Шаблон письма
 	Letter-Like Symbols	Буквоподобные символы
 	Letters	Письма
 	Level 5	Уровень 5
@@ -1132,6 +1178,7 @@
 	Light Variations	Светлые варианты
 	Light with Outline	Светлый с контуром
 	Limit	Предел
+	Limit and	Предел и
 	Limit and\nLog	Предел\nи логарифм
 	Limit consecutive hyphens to:	Максимум последовательных переносов:
 	Limit Example	Пример предела
@@ -1188,12 +1235,14 @@
 	Location: {path}	Расположение: {path}
 	Lock aspect ratio	Сохранять пропорции
 	Lock Fields	Заблокировать поля
+	Log	логарифм
 	Logarithm	Логарифм
 	Logarithm with Base	Логарифм по основанию
 	Logical AND	Логическое И
 	Logical AND with Limits	Логическое И с пределами
 	Logical OR	Логическое ИЛИ
 	Logical OR with Limits	Логическое ИЛИ с пределами
+	Lorem ipsum: because the real words are still at the café.	Lorem ipsum: потому что настоящие слова ещё сидят в кафе.
 	lowercase	все строчные
 	Lum:	Яркость:
 	Macros	Макросы
@@ -1282,6 +1331,7 @@
 	Multilevel List	Многоуровневый список
 	Multilevel List Library	Библиотека многоуровневых списков
 	Multiple Pages	Несколько страниц
+	Mute agent messages	Отключить сообщения агентов
 	My list has	Мой список содержит
 	Name of the file this document is saved as	Имя файла, под которым сохранён документ
 	Narrow	Узкая
@@ -1292,6 +1342,14 @@
 	Negated Relations	Отрицания отношений
 	New Comment	Новый комментарий
 	New comments and tracked changes are recorded under this name and these initials.	Новые примечания и исправления записываются под этим именем и инициалами.
+	New Documents Based on This Template	В новых документах на основе этого шаблона
+	New documents based on this template	В новых документах на основе этого шаблона
+	New documents will use this font.	Новые документы будут использовать этот шрифт.
+	New documents will use this page setup.	Новые документы будут использовать эти параметры страницы.
+	New documents will use this paragraph formatting.	Новые документы будут использовать это форматирование абзаца.
+	New documents will use this style.	Новые документы будут использовать этот стиль.
+	New documents will use WordCraft's built-in formatting.	Новые документы будут использовать встроенное форматирование WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Новые документы будут использовать встроенное форматирование WordCraft. Сохранённые параметры по умолчанию нельзя будет восстановить. Сбросить?
 	New Drawing Canvas	Новое полотно для рисования
 	New Entry	Новая запись
 	New Group	Создать группу
@@ -1312,6 +1370,8 @@
 	Next Section	Следующий раздел
 	Next Sentence	Следующее предложение
 	Next sentence	Следующее предложение
+	Nib floats over the window with tips and the occasional remark.	Ниб парит над окном с советами и редкими замечаниями.
+	Nib, your assistant. Drag to move; right-click for options.	Ниб, ваш помощник. Перетащите, чтобы переместить; щёлкните правой кнопкой для настроек.
 	No accessibility issues found.	Проблем со специальными возможностями не найдено.
 	No Border	Без границы
 	No changes (read only)	Без изменений (только чтение)
@@ -1359,6 +1419,7 @@
 	not editing an equation	уравнение не редактируется
 	Not equal to	Не равно
 	Not linked: click a text box	Не связано: щёлкните надпись
+	Not now	Не сейчас
 	Not saved	Не сохранено
 	Not saved yet	Ещё не сохранено
 	Not set	Не задано
@@ -1417,6 +1478,7 @@
 	Only for the selected text	Только для выделенного текста
 	Only form fields can be filled in.	Можно заполнять только поля форм.
 	only in Outline view	только в режиме структуры
+	Only in this document	Только в этом документе
 	Only the allowed styles can be applied.	Можно применять только разрешённые стили.
 	Only web (http, https) and email (mailto) links can be followed	Переходить можно только по веб-ссылкам (http, https) и ссылкам на электронную почту (mailto)
 	Open a document first	Сначала откройте документ
@@ -1666,6 +1728,7 @@
 	Remove Space After Paragraph	Удалить интервал после абзаца
 	Remove Table of Contents	Удалить оглавление
 	Remove the control once edited	Удалить элемент управления после редактирования
+	Remove the space before the punctuation	Удалить пробел перед знаком препинания
 	Remove Watermark	Удалить подложку
 	Rename Document	Переименовать документ
 	Reopen	Открыть снова
@@ -1684,9 +1747,11 @@
 	Reset All…	Сбросить все…
 	Reset Character Formatting	Сбросить форматирование символов
 	Reset Crop	Сбросить обрезку
+	Reset Default Formatting	Сброс форматирования по умолчанию
 	Reset Graphic	Сбросить графический элемент
 	Reset Paragraph Formatting	Сбросить форматирование абзаца
 	Reset Picture	Сбросить рисунок
+	Reset tips	Сбросить советы
 	Reset to Normal	Вернуть «Обычный»
 	Reset\nGraphic	Сбросить\nграфику
 	Resize Table by Dragging	Изменение размера таблицы перетаскиванием
@@ -1707,6 +1772,7 @@
 	Reviewing — edits become suggestions	Рецензирование — правки становятся предложениями
 	Revised document	Изменённый документ
 	Rewind	Назад
+	Rewinding. Tell me when to stop.	Перематываю. Скажите, когда остановиться.
 	Ribbon	Лента
 	Ribbon and Quick Access Toolbar:	Лента и панель быстрого доступа:
 	Ribbon tabs	Вкладки ленты
@@ -1728,6 +1794,7 @@
 	Right-to-Left Text Direction	Направление текста справа налево
 	Rightwards Arrow Above	Стрелка вправо сверху
 	Rightwards Harpoon Above	Гарпун вправо сверху
+	Romanian	Румынский
 	Roots of ax²+bx+c	Корни ax²+bx+c
 	Rotate all text 270°	Повернуть весь текст на 270°
 	Rotate all text 90°	Повернуть весь текст на 90°
@@ -1749,8 +1816,11 @@
 	Save the document to turn on AutoSave	Сохраните документ, чтобы включить автосохранение
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Сохраните документ, чтобы включить автосохранение (открытый файл не перезаписывается, пока вы его не сохраните)
 	Save these pages as PDF…	Сохранить эти страницы как PDF…
+	Saved. Saved again. Still saved. It's very saved.	Сохранено. Снова сохранено. Всё ещё сохранено. Очень сохранено.
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Сохраняет шаблон .dotx в папку шаблонов. Он появится в разделе Файл › Создать, в группе «Личные».
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Сохранение {name} отменено. Документ по-прежнему открыт, ничего не потеряно.
+	Sayings	Реплики
+	Sayings:	Реплики:
 	Scale Drawing	Масштабировать рисунок
 	Scatter	Точечная
 	Script	Индекс
@@ -1782,6 +1852,7 @@
 	select a picture first	сначала выделите рисунок
 	select a picture or shape first	сначала выделите рисунок или фигуру
 	Select a picture, shape, chart or table to describe it.	Выберите рисунок, фигуру, диаграмму или таблицу, чтобы описать её.
+	Select a place in this document:	Выберите место в документе:
 	Select a printer	Выберите принтер
 	select a shape first	сначала выделите фигуру
 	Select a shape, text box or drawing canvas to format its fill.	Выберите фигуру, надпись или полотно, чтобы настроить заливку.
@@ -1825,6 +1896,9 @@
 	Series {n}	Ряд {n}
 	Set As Default	Использовать по умолчанию
 	Set as Default	Использовать по умолчанию
+	Set As Default (Font)	Использовать по умолчанию (Шрифт)
+	Set As Default (Page Setup)	Использовать по умолчанию (Параметры страницы)
+	Set As Default (Paragraph)	Использовать по умолчанию (Абзац)
 	Set Caret	Установить курсор
 	Set Character Formatting	Задать формат знаков
 	Set Date	Задать дату
@@ -1840,6 +1914,7 @@
 	Shape Format	Формат фигуры
 	Shape Outline	Контур фигуры
 	Shape Styles	Стили фигур
+	{key} starts a new line without starting a new paragraph.	{key} начинает новую строку, не начиная новый абзац.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Транспортные наклейки
 	Shortcut key:	Сочетание клавиш:
@@ -1877,13 +1952,16 @@
 	Show revisions in balloons	Показывать изменения в выносках
 	Show rulers	Показывать линейки
 	Show Text Formatting	Показывать форматирование текста
+	Show the Assistant	Показывать помощника
 	Show the community button in the title bar	Показывать кнопку сообщества в заголовке окна
 	Show the equation in the line of text	Показать уравнение в строке текста
 	Show the equation on a line of its own	Показать уравнение на отдельной строке
 	Show the mini toolbar when text is selected	Показывать мини-панель при выделении текста
 	Show the ribbon	Показать ленту
 	Show the Start screen when WordCraft starts	Показывать начальный экран при запуске WordCraft
+	Show the tips you asked not to see again.	Снова показывать советы, которые вы скрыли.
 	Show/Hide ¶	Показать/скрыть ¶
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Показать/скрыть ¶ ({key}) показывает пробелы, табуляции и разрывы, которые прячутся в тексте.
 	Show\nComments	Показать\nкомментарии
 	Showing the first {count} items.	Показаны первые элементы: {count}.
 	Shows a tree: each item below the item it belongs to.	Показывает дерево: каждый элемент находится под тем, к которому относится.
@@ -1940,6 +2018,7 @@
 	Soft Glow	Мягкое свечение
 	Solid Accent	Сплошной акцент
 	Solid fill	Сплошная заливка
+	Sometimes	Иногда
 	Sort by:	Сортировать по:
 	Sort order:	Порядок сортировки:
 	Sort Recipients	Сортировка получателей
@@ -1986,6 +2065,7 @@
 	Start Mail\nMerge	Начать\nслияние
 	Start-up	Запуск
 	State	Регион
+	Still there? I can hear you thinking.	Вы ещё здесь? Я слышу, как вы думаете.
 	Stop Protection	Отключить защиту
 	Stop Reading	Остановить чтение
 	Stopped	Остановлено
@@ -2003,6 +2083,7 @@
 	Style name:	Имя стиля:
 	Style Set	Набор стилей
 	Style:	Тип линии:
+	Style: APA	Стиль: APA
 	Style: {style}	Стиль: {style}
 	Styles Pane	Область стилей
 	Styles:	Стили:
@@ -2064,6 +2145,7 @@
 	Tabular List	Табличный список
 	Tag	Тег
 	Take the last match on the page	Брать последнее совпадение на странице
+	Take your time. The page isn't going anywhere. Neither am I. Ever.	Не торопитесь. Страница никуда не денется. Как и я. Никогда.
 	Tangent formula	Формула тангенса
 	Tangent Function	Тангенс
 	TC entry fields	Поля записей TC
@@ -2105,6 +2187,7 @@
 	The margins don't fit on a page this size; make the margins smaller first.	Поля не помещаются на странице такого размера; сначала уменьшите поля.
 	The measurement must be between {min} and {max}.	Размер должен быть от {min} до {max}.
 	The new style takes the formatting of the current paragraph.	Новый стиль получит форматирование текущего абзаца.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Не удалось прочитать шаблон «Обычный», поэтому в этом документе используется встроенное форматирование WordCraft.
 	The number must be between 1 and {max}.	Число должно быть от 1 до {max}.
 	the paragraph is empty	абзац пуст
 	the paragraph starts with a space	абзац начинается с пробела
@@ -2112,6 +2195,7 @@
 	The password is removed. Save the document to keep the change.	Пароль убран. Сохраните документ, чтобы изменение осталось.
 	The printer, two-sided printing and pages per sheet are chosen in that dialog.	Принтер, двусторонняя печать и число страниц на листе выбираются в этом диалоге.
 	The recipient-list field that fills each part of an address block and greeting line.	Поле списка получателей, которое заполняет каждую часть блока адреса и строки приветствия.
+	The spelling and grammar check is complete.	Проверка правописания завершена.
 	the Spike is empty	копилка пуста
 	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	Системное диалоговое окно выбора файлов недоступно, поэтому WordCraft показывает собственное. Чтобы пользоваться системным, установите портал выбора файлов (например, xdg-desktop-portal-gtk) или zenity.
 	The text at the insertion point is marked Do not check spelling or grammar.	Текст в точке вставки помечен: Не проверять орфографию и грамматику.
@@ -2132,6 +2216,7 @@
 	Thick	Толстый
 	this chart was made in another program: WordCraft shows it but can't edit it	эта диаграмма создана в другой программе: WordCraft показывает её, но не может изменить
 	This document	Этот документ
+	This document only?	Только этого документа?
 	This field has no options.	У этого поля нет параметров.
 	This folder can't be read: {error}	Не удаётся прочитать папку: {error}
 	This font has no characters to show.	В этом шрифте нет знаков для показа.
@@ -2140,12 +2225,15 @@
 	This password type isn't supported.	Этот тип пароля не поддерживается.
 	This point forward	До конца документа
 	This section	К этому разделу
+	this session has no Normal template (headless or without preferences)	в этом сеансе нет шаблона «Обычный» (без интерфейса или без настроек)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	в этом сеансе нет шаблона «Обычный» (без интерфейса или без настроек): используйте "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	этот SmartArt создан в другой программе: WordCraft показывает его, но не может изменить
 	this text box is already linked: break the link first	это текстовое поле уже связано: сначала разорвите связь
 	Three	Три
 	Through	Сквозное
 	Tight	Плотный
 	Tilde	Тильда
+	Tip	Совет
 	Tips ({n})	Советы ({n})
 preview	Title	Пример
 	Title Bar	Строка заголовка
@@ -2166,6 +2254,7 @@ preview	Title	Пример
 	Top Left Cell	Левая верхняя ячейка
 	Top Margin	Верхнее поле
 	Top of Page	Вверху страницы
+	Top of the Document	Начало документа
 	Top Right Cell	Правая верхняя ячейка
 	Total Row	Строка итогов
 	Track Changes	Отслеживать изменения
@@ -2198,6 +2287,7 @@ preview	Title	Пример
 	Type +2 or -1 to move from the page you are on.	Введите +2 или -1, чтобы перейти на столько страниц от текущей.
 	Type a command, e.g. "insert table"	Введите команду, например «вставить таблицу»
 	Type a New List…	Ввести новый список…
+	Type a page number, or +2 / -1.	Введите номер страницы или +2 / -1.
 	Type a size in any unit, such as 5 cm or 300 px. The other side follows, so the picture keeps its proportions.	Введите размер в любых единицах, например 5 cm или 300 px. Другая сторона изменится вместе с ней, и рисунок сохранит пропорции.
 	Type at least one recipient.	Введите хотя бы одного получателя.
 	Type Character Code	Ввести код символа
@@ -2223,6 +2313,7 @@ preview	Title	Пример
 	Undo Actions	Отменить действия
 	Undo History	Журнал отмены
 	Undo {n} Actions	Отменить действий: {n}
+	Undo, undo, undo… we're time travelling now.	Отменить, отменить, отменить… мы уже путешествуем во времени.
 	Unformatted Text	Неформатированный текст
 	Union of intersections	Объединение пересечений
 	Union with Limits	Объединение с пределами
@@ -2247,10 +2338,14 @@ preview	Title	Пример
 	UPPERCASE	ВСЕ ПРОПИСНЫЕ
 	URGENT	СРОЧНО!
 	URL	URL
+	Use "a" before a consonant sound	Перед согласным звуком используйте "a"
+	Use "an" before a vowel sound	Перед гласным звуком используйте "an"
 	Use an Existing List…	Использовать существующий список…
 	Use system setting	Как в системе
 	Use the browser's full screen (F11)	Используйте полноэкранный режим браузера (F11)
+	Use the current style set and theme for all new documents?	Использовать текущий набор стилей и тему для всех новых документов?
 	Use the Insert key to switch overtype on and off	Клавиша Insert включает и выключает режим замены
+	Use this formatting as the default for:	Использовать это форматирование по умолчанию для:
 	Use wildcards	Подстановочные знаки
 	User Name	Имя пользователя
 	User name:	Имя пользователя:
@@ -2265,12 +2360,14 @@ preview	Title	Пример
 	View Alt Text…	Показать замещающий текст…
 	View Gridlines	Показать сетку
 	View State	Состояние вида
+	View › Focus hides everything but your words. I'll wait outside.	Вид › Фокус скрывает всё, кроме ваших слов. Я подожду снаружи.
 	Views	Режимы просмотра
 	Visual effects	Визуальные эффекты
 	Volume	Том
 	Volume Integral	Объёмный интеграл
 	Volume Integral with Limits	Объёмный интеграл с пределами
 	Volume Integral with Stacked Limits	Объёмный интеграл с пределами сверху и снизу
+	Wait for the print job to finish submitting before closing.	Дождитесь окончания отправки задания на печать, прежде чем закрывать.
 	Waiting for the save to finish…	Ожидание завершения сохранения…
 	Waiting for Zotero…	Ожидание Zotero…
 	Warm Gradient with Outline	Тёплый градиент с контуром
@@ -2296,6 +2393,7 @@ preview	Title	Пример
 	Widow/Orphan Control	Запрет висячих строк
 	Widow/Orphan control	Запрет висячих строк
 	Width and spacing	Ширина и промежуток
+	Wildcards (regex)	Подстановочные знаки (regex)
 	With:	На:
 	Word 2003 XML Document (*.xml)	Документ Word 2003 XML (*.xml)
 	Word Count	Число слов
@@ -2315,10 +2413,14 @@ preview	Title	Пример
 	Wrap\nText	Обтекание\nтекстом
 	Write & Insert Fields	Составление документа и вставка полей
 	Write a reply	Написать ответ
+	Writer's block? I find staring at the cursor helps. It's been blinking at me for years.	Творческий кризис? Мне помогает смотреть на курсор. Он мигает мне уже много лет.
 	x bar	x с чертой
 	Year	Год
 	Yields	Выход
+	You haven't saved in a while, and AutoSave is off. Save now?	Вы давно не сохранялись, а автосохранение выключено. Сохранить сейчас?
+	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Вы начали список. Нажмите Enter дважды, чтобы его завершить, или Backspace в начале пункта, чтобы снова сделать его обычным текстом.
 	Your changes will be lost if you don't save them.	Если не сохранить изменения, они будут потеряны.
+	Your document is now the most saved document in history.	Ваш документ теперь самый сохранённый документ в истории.
 	Your system doesn't report an animation setting, so animation effects stay on.	Система не сообщает о настройке анимации, поэтому эффекты анимации остаются включёнными.
 	Your system has animation effects turned off.	В системе эффекты анимации выключены.
 	Your system has animation effects turned on.	В системе эффекты анимации включены.
@@ -2355,5 +2457,10 @@ preview	Title	Пример
 	{width} × {height} mm	{width} × {height} мм
 	{width} × {height} pixels	{width} × {height} пикс.
 	{words} words	Слов: {words}
+	{words} words and counting. Literally. I'm counting.	Слов: {words}, и счёт идёт. Буквально. Я считаю.
+	{words} words! I'd throw confetti but I'd have to clean it up.	Слов: {words}! Я бы осыпал вас конфетти, но потом самому убирать.
+	{words} words. That's {words} more than I've written today.	Слов: {words}. Это на {words} больше, чем я написал сегодня.
 	“{text}” ({row}, {series}) isn't a number.	«{text}» ({row}, {series}) — не число.
 	✓ None	✓ Нет
+	➕ New comment	➕ Новое примечание
+	📂  Browse…	📂  Обзор…

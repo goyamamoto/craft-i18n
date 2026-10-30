@@ -114,6 +114,9 @@
 	Advanced Find…	Napredno traženje…
 	After:	Poslije:
 	Agents	Agenti
+	Agents connected to WordCraft can show you messages through the Assistant. Muted, they're told you'd rather not.	Agenti povezani s WordCraftom mogu vam prikazivati poruke putem asistenta. Kad su utišani, javlja im se da to ne želite.
+	Ah, Latin. The language of deadlines.	A, latinski. Mrtav jezik — materinji jezik krajnjih rokova.
+	Ah, the editing phase. My favourite. Very decisive.	A, faza uređivanja. Moja omiljena. Vrlo odlučno.
 	Align Bottom Center	Poravnaj dolje na sredinu
 	Align Bottom Left	Poravnaj dolje lijevo
 	Align Bottom Right	Poravnaj dolje desno
@@ -129,6 +132,7 @@
 	All Borders	Svi obrubi
 	All caps	Sva velika slova
 	All Commands	Sve naredbe
+	All documents based on the Normal template?	Sve dokumente temeljene na predlošku Uobičajeni?
 	All Fonts	Svi fontovi
 	All Levels	Sve razine
 	All Markup	Sve oznake
@@ -145,6 +149,7 @@
 	Alt Text Pane	Okno alternativnog teksta
 	Alt:	Alt:
 	Alt\nText	Alternativni\ntekst
+	an agent	agent
 	And	I
 	Angle	Kut
 	Angle Brackets	Šiljaste zagrade
@@ -155,6 +160,7 @@
 	Annotation Reference	Referenca komentara
 	Annotation Subject	Predmet komentara
 	Annotation Text	Tekst komentara
+	Annoying	Dosadno
 	Another file	Druga datoteka
 	Any Character	Bilo koji znak
 	Any Digit	Bilo koja znamenka
@@ -179,6 +185,8 @@
 	ASAP	ASAP
 	Asian text font:	Font azijskog teksta:
 	Asian Typography	Azijska tipografija
+	Assistant	Asistent
+	Assistant Suggestions	Prijedlozi asistenta
 	At least	Najmanje
 	At least {n}	Najmanje {n}
 	Atelier	Atelijer
@@ -249,6 +257,7 @@
 	Blue:	Plava:
 	Body Text	Tijelo teksta
 	Body text in a short paragraph to show spacing.	Tekst u kratkom odlomku radi prikaza razmaka.
+	Bold choice. Ctrl+Z is right there if you need it.	Hrabar izbor. Ctrl+Z je tu ako zatreba.
 	Book	Knjiga
 	Book Title	Naslov knjige
 	Book title	Naslov knjige
@@ -286,6 +295,7 @@
 	By author	Po autoru
 	Calendar	Kalendar
 	Can't be deleted	Ne može se izbrisati
+	Can't find a command? Press {key} and type what you want to do.	Ne možete pronaći naredbu? Pritisnite {key} i upišite što želite učiniti.
 	can't split at the first row	nije moguće podijeliti na prvom retku
 	Canvas Member	Član platna
 	Capitalize Each Word	Svaka riječ velikim početnim slovom
@@ -297,6 +307,7 @@
 	Caption text	Tekst natpisa
 	Caption:	Natpis:
 	Captions	Natpisi
+	Careful, any further back and we'll undo the invention of paper.	Oprezno, još malo unatrag i poništit ćemo izum papira.
 	Caret Character	Znak ^
 	Case changes	Promjene veličine slova
 	Cases (Three Conditions)	Slučajevi (tri uvjeta)
@@ -500,6 +511,10 @@
 	Croatian	Hrvatski
 	Cross-reference	Unakrsna referenca
 	Cross-reference:	Unakrsna referenca:
+	{key} starts a new page. Much tidier than pressing Enter until it happens.	{key} započinje novu stranicu. Puno urednije nego pritiskati Enter dok se ne dogodi.
+	{key} finds and replaces text, formatting and special characters.	{key} traži i zamjenjuje tekst, oblikovanje i posebne znakove.
+	{key} turns the selected text into a link.	{key} pretvara odabrani tekst u poveznicu.
+	{key} counts your words, characters and paragraphs.	{key} broji vaše riječi, znakove i odlomke.
 	Cube Root	Treći korijen
 	Current - Linear	Trenutačno – linearno
 	Current - Professional	Trenutačno – profesionalno
@@ -539,6 +554,7 @@
 	Decorative objects only add visual interest: screen readers skip them.	Ukrasni objekti samo daju vizualni dojam: čitači zaslona ih preskaču.
 	Decrease Indent	Smanji uvlaku
 	Deep	Duboko
+	Default formatting	Zadano oblikovanje
 	Default Paragraph Font	Zadani font odlomka
 	Default tab stops:	Zadani tabulatori:
 	Define New Bullet	Definiraj novu oznaku
@@ -546,6 +562,7 @@
 	Define New Multilevel List…	Definiraj novi višerazinski popis…
 	Define New Number Format	Definiraj novi format brojeva
 	Deflate	Smanji
+	Delete Around Caret in Equation	Izbriši oko kursora u jednadžbi
 	Delete Back in Equation	Izbriši unatrag u jednadžbi
 	Delete Bookmark	Izbriši knjižnu oznaku
 	Delete Cells	Izbriši ćelije
@@ -622,6 +639,7 @@
 	Don't capitalize after:	Ne piši velikim slovom nakon:
 	Don't hyphenate	Ne rastavljaj riječi
 	Don't read Zotero, Mendeley or EndNote citations and bibliographies	Zanemari citate i bibliografije iz programa Zotero, Mendeley ili EndNote
+	Don't show me this tip again	Ne prikazuj mi više ovaj savjet
 	Dot dash	Točka crtica
 	Dot-dash	Točka-crtica
 	Dot-dot-dash	Točka-točka-crtica
@@ -758,6 +776,9 @@
 	Extend Selection	Proširi odabir
 	Extend Selection by Units	Proširi odabir po jedinicama
 	Extra space	Dodatni razmak
+	{key} repeats your last action. Formatting ten headings is suddenly one click and nine taps.	{key} ponavlja vašu zadnju radnju. Oblikovanje deset naslova odjednom postaje jedan klik i devet pritisaka.
+	{key} checks the spelling and grammar of the whole document.	{key} provjerava pravopis i gramatiku cijelog dokumenta.
+	Faster: {command} is {key} on the keyboard.	Brže: {command} je {key} na tipkovnici.
 	Field code:	Kôd polja:
 	Field Codes	Kodovi polja
 	Field codes:	Kodovi polja:
@@ -825,6 +846,7 @@
 	Formatting at Selection	Oblikovanje na odabiru
 	Formatting exceptions	Iznimke oblikovanja
 	Formatting marks	Oznake oblikovanja
+	Formatting saved for new documents:	Oblikovanje spremljeno za nove dokumente:
 	Formatting, case changes, white space and tables are compared; the other settings are kept for later.	Uspoređuju se oblikovanje, promjene veličine slova, razmaci i tablice; ostale postavke čuvaju se za kasnije.
 	Formula	Formula
 	Formula:	Formula:
@@ -839,10 +861,12 @@
 	From Top Left Corner	Iz gornjeg lijevog kuta
 	From Top Right Corner	Iz gornjeg desnog kuta
 	from Unicode (hex)	iz Unicodea (heksadecimalno)
+	From {name}	Od: {name}
 	From:	Od:
 	Full page of the same label	Cijela stranica istih naljepnica
 	Full Screen View	Prikaz preko cijelog zaslona
 	Full\nScreen	Cijeli\nzaslon
+	Fun fact: a blank page is just a draft that hasn't been told yet.	Zanimljivost: prazna stranica samo je skica kojoj još nitko nije rekao što će biti.
 	Function	Funkcija
 	Gallery	Galerija
 	GB/T 7714	GB/T 7714
@@ -856,6 +880,7 @@
 	Go to Record	Idi na zapis
 	Go to what:	Idi na:
 	Go To…	Idi na…
+	Gone! Like it was never written. Mostly because it now wasn't.	Nestalo! Kao da nikad nije ni napisano. Uglavnom zato što sad više i nije.
 	Good afternoon	Dobar dan
 	Good evening	Dobra večer
 	Good morning	Dobro jutro
@@ -901,7 +926,9 @@
 	Heading {n}	Naslov {n}
 	Hebrew	Hebrejski
 	Hex:	Hex:
+	Hi! I'm Nib, your writing assistant. I offer tips, shortcuts and the occasional unsolicited opinion. Shall I stick around?	Bok! Ja sam Nib, vaš pomoćnik za pisanje. Nudim savjete, prečace i pokoje nepozvano mišljenje. Da ostanem?
 	Hidden bookmarks	Skrivene knjižne oznake
+	Hide	Sakrij
 	Hide Codes	Sakrij kodove
 	Hide from style lists	Sakrij s popisa stilova
 	Hide Ink	Sakrij rukopis
@@ -935,6 +962,8 @@
 	Hyphenation zone:	Zona rastavljanja:
 	Hyphens (--) as dashes (—)	Spojnice (--) kao crtice (—)
 	Hypotenuse	Hipotenuza
+	I promise it's saved. I checked. Twice.	Obećavam da je spremljeno. Provjerio sam. Dvaput.
+	I'd write something myself, but I'm all nib and no ink.	I sam bih nešto napisao, ali ja sam pero bez tinte. Sav u pritisku, a ni slova.
 	I, II, III, …	I, II, III, …
 	i, ii, iii, …	i, ii, iii, …
 	Icon Color	Boja ikone
@@ -1066,6 +1095,7 @@
 	ISO 690 (author-date)	ISO 690 (autor–datum)
 	ISO 690 (numerical)	ISO 690 (numerički)
 	Issue	Broj
+	It looks like you're writing a letter. Want an envelope for it, or a letter template to start from?	Čini se da pišete pismo. Želite li omotnicu za njega ili predložak pisma za početak?
 	Join the ArtCraft community on Discord	Pridružite se ArtCraft zajednici na Discordu
 	Join us on Discord: discord.gg/artcraft	Pridružite nam se na Discordu: discord.gg/artcraft
 	Journal	Časopis
@@ -1073,6 +1103,7 @@
 	Justified	Obostrano poravnato
 	Keep Lines Together	Zadrži retke zajedno
 	Keep lines together	Zadrži retke zajedno
+	Keep me around	Ostani
 	Keep Text Only	Zadrži samo tekst
 	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	Lozinku spremite na sigurno mjesto: bez nje nitko, pa ni WordCraft, ne može otvoriti dokument. Ostavite oba polja praznima da biste uklonili lozinku.
 	Keep with Next	Zadrži sa sljedećim
@@ -1125,6 +1156,7 @@
 template	Letter	Pismo
 	Letter   8.50" × 11.00"	Letter   8.50" × 11.00"
 	Letter headings	Naslovi slova
+	Letter template	Predložak pisma
 	Letter-Like Symbols	Simboli nalik slovima
 	Letters	Pisma
 	Level 5	Razina 5
@@ -1198,6 +1230,7 @@ template	Letter	Pismo
 	Logical AND with Limits	Logičko I s granicama
 	Logical OR	Logičko ILI
 	Logical OR with Limits	Logičko ILI s granicama
+	Lorem ipsum: because the real words are still at the café.	Lorem ipsum: jer prave riječi još sjede u kafiću.
 	Lum:	Svjetl.:
 	Macros	Makronaredbe
 	Made from the author and year when empty	Izrađuje se iz autora i godine kada je prazno
@@ -1286,6 +1319,7 @@ template	Letter	Pismo
 	Multilevel List	Višerazinski popis
 	Multilevel List Library	Biblioteka višerazinskih popisa
 	Multiple Pages	Više stranica
+	Mute agent messages	Utišaj poruke agenata
 	My list has	Moj popis ima
 	Name of the file this document is saved as	Naziv datoteke u koju je dokument spremljen
 	Narrow	Usko
@@ -1296,6 +1330,14 @@ template	Letter	Pismo
 	Negated Relations	Negirane relacije
 	New Comment	Novi komentar
 	New comments and tracked changes are recorded under this name and these initials.	Novi komentari i praćene promjene bilježe se pod ovim imenom i ovim inicijalima.
+	New Documents Based on This Template	Novi dokumenti temeljeni na ovom predlošku
+	New documents based on this template	Novi dokumenti temeljeni na ovom predlošku
+	New documents will use this font.	Novi dokumenti koristit će ovaj font.
+	New documents will use this page setup.	Novi dokumenti koristit će ovo postavljanje stranice.
+	New documents will use this paragraph formatting.	Novi dokumenti koristit će ovo oblikovanje odlomka.
+	New documents will use this style.	Novi dokumenti koristit će ovaj stil.
+	New documents will use WordCraft's built-in formatting.	Novi dokumenti koristit će ugrađeno oblikovanje programa WordCraft.
+	New documents will use WordCraft's built-in formatting. Your saved defaults can't be recovered. Reset?	Novi dokumenti koristit će ugrađeno oblikovanje programa WordCraft. Spremljene zadane postavke nije moguće vratiti. Vratiti na zadano?
 	New Drawing Canvas	Novo platno za crtanje
 	New Entry	Novi unos
 	New Label	Nova oznaka
@@ -1315,6 +1357,8 @@ template	Letter	Pismo
 	Next Section	Sljedeći odjeljak
 	Next Sentence	Sljedeća rečenica
 	Next sentence	Sljedeća rečenica
+	Nib floats over the window with tips and the occasional remark.	Nib lebdi iznad prozora sa savjetima i ponekom primjedbom.
+	Nib, your assistant. Drag to move; right-click for options.	Nib, vaš asistent. Povucite za premještanje; desni klik za mogućnosti.
 	No accessibility issues found.	Nisu pronađeni problemi s pristupačnošću.
 	No Border	Bez obruba
 	No changes (read only)	Nema promjena (samo za čitanje)
@@ -1362,6 +1406,7 @@ template	Letter	Pismo
 	not editing an equation	ne uređuje se nijedna jednadžba
 	Not equal to	Nije jednako
 	Not linked: click a text box	Nije povezano: kliknite tekstni okvir
+	Not now	Ne sada
 	Not saved	Nije spremljeno
 	Not saved yet	Još nije spremljeno
 	Not set	Nije postavljeno
@@ -1419,6 +1464,7 @@ template	Letter	Pismo
 	Only for the selected text	Samo za odabrani tekst
 	Only form fields can be filled in.	Mogu se ispunjavati samo polja obrasca.
 	only in Outline view	samo u prikazu Struktura
+	Only in this document	Samo u ovom dokumentu
 	Only the allowed styles can be applied.	Mogu se primijeniti samo dopušteni stilovi.
 	Only web (http, https) and email (mailto) links can be followed	Mogu se otvarati samo web-poveznice (http, https) i poveznice e-pošte (mailto)
 	Open a document first	Prvo otvorite dokument
@@ -1686,9 +1732,11 @@ template	Letter	Pismo
 	Reset All…	Vrati sve na zadano…
 	Reset Character Formatting	Vrati zadano oblikovanje znakova
 	Reset Crop	Poništi obrezivanje
+	Reset Default Formatting	Vrati zadano oblikovanje
 	Reset Graphic	Vrati grafiku
 	Reset Paragraph Formatting	Vrati zadano oblikovanje odlomka
 	Reset Picture	Vrati sliku
+	Reset tips	Vrati savjete
 	Reset to Normal	Vrati na normalno
 	Reset\nGraphic	Vrati\ngrafiku
 	Resize Table by Dragging	Promijeni veličinu tablice povlačenjem
@@ -1708,6 +1756,7 @@ template	Letter	Pismo
 	Reviewing — edits become suggestions	Pregledavanje – izmjene postaju prijedlozi
 	Revised document	Revidirani dokument
 	Rewind	Premotaj unatrag
+	Rewinding. Tell me when to stop.	Premotavam. Recite kad da stanem.
 	Ribbon	Vrpca
 	Ribbon and Quick Access Toolbar:	Vrpca i alatna traka za brzi pristup:
 	Ribbon tabs	Kartice vrpce
@@ -1729,6 +1778,7 @@ template	Letter	Pismo
 	Right-to-Left Text Direction	Smjer teksta zdesna nalijevo
 	Rightwards Arrow Above	Strelica udesno iznad
 	Rightwards Harpoon Above	Harpun udesno iznad
+	Romanian	Rumunjski
 	Roots of ax²+bx+c	Korijeni od ax²+bx+c
 	Rotate all text 270°	Zakreni sav tekst 270°
 	Rotate all text 90°	Zakreni sav tekst 90°
@@ -1750,8 +1800,11 @@ template	Letter	Pismo
 	Save the document to turn on AutoSave	Spremite dokument kako biste uključili automatsko spremanje
 	Save the document to turn on AutoSave (a file you have only opened isn't rewritten until you save it)	Spremite dokument kako biste uključili automatsko spremanje (datoteka koju ste samo otvorili ne prepisuje se dok je ne spremite)
 	Save these pages as PDF…	Spremi ove stranice kao PDF…
+	Saved. Saved again. Still saved. It's very saved.	Spremljeno. Opet spremljeno. I dalje spremljeno. Baš je spremljeno.
 	Saves a .dotx template in your templates folder. It shows up in File › New under Personal.	Sprema predložak .dotx u vašu mapu predložaka. Prikazuje se u Datoteka › Novo pod Osobno.
 	Saving {name} was cancelled, so it is still open and nothing was lost.	Spremanje dokumenta {name} je otkazano pa je on i dalje otvoren i ništa nije izgubljeno.
+	Sayings	Opaske
+	Sayings:	Dosjetke:
 	Scale Drawing	Crtež u mjerilu
 	Scatter	Raspršeni
 	Script	Indeksi
@@ -1822,6 +1875,9 @@ template	Letter	Pismo
 	Series name	Naziv niza
 	Series {n}	Niz {n}
 	Set As Default	Postavi kao zadano
+	Set As Default (Font)	Postavi kao zadano (Font)
+	Set As Default (Page Setup)	Postavi kao zadano (Postavljanje stranice)
+	Set As Default (Paragraph)	Postavi kao zadano (Odlomak)
 	Set Caret	Postavi kursor
 	Set Character Formatting	Postavi oblikovanje znakova
 	Set Date	Postavi datum
@@ -1836,6 +1892,7 @@ template	Letter	Pismo
 	Shape Format	Oblikovanje oblika
 	Shape Outline	Obris oblika
 	Shape Styles	Stilovi oblika
+	{key} starts a new line without starting a new paragraph.	{key} započinje novi redak bez započinjanja novog odlomka.
 	Shift+Tab	Shift+Tab
 	Shipping labels	Naljepnice za otpremu
 	Shortcut key:	Prečac:
@@ -1872,13 +1929,16 @@ template	Letter	Pismo
 	Show Quick Access Toolbar	Prikaži alatnu traku za brzi pristup
 	Show revisions in balloons	Prikaži revizije u oblačićima
 	Show Text Formatting	Prikaži oblikovanje teksta
+	Show the Assistant	Prikaži asistenta
 	Show the community button in the title bar	Prikaži gumb zajednice u naslovnoj traci
 	Show the equation in the line of text	Prikaži jednadžbu u retku teksta
 	Show the equation on a line of its own	Prikaži jednadžbu u zasebnom retku
 	Show the mini toolbar when text is selected	Prikaži malu alatnu traku kad je tekst odabran
 	Show the ribbon	Prikaži vrpcu
 	Show the Start screen when WordCraft starts	Prikaži početni zaslon kad se WordCraft pokrene
+	Show the tips you asked not to see again.	Ponovno prikazuje savjete koje ste sakrili.
 	Show/Hide ¶	Prikaži/sakrij ¶
+	Show/Hide ¶ ({key}) shows the spaces, tabs and breaks hiding in your text.	Prikaži/sakrij ¶ ({key}) prikazuje razmake, tabulatore i prijelome koji se skrivaju u vašem tekstu.
 	Show\nComments	Prikaži\nkomentare
 	Showing the first {count} items.	Prikazuje se prvih {count} stavki.
 	Shows a tree: each item below the item it belongs to.	Prikazuje stablo: svaka stavka nalazi se ispod stavke kojoj pripada.
@@ -1936,6 +1996,7 @@ template	Letter	Pismo
 	Soft Glow	Mekani sjaj
 	Solid Accent	Puni naglasak
 	Solid fill	Puna ispuna
+	Sometimes	Ponekad
 	Sort by:	Sortiraj po:
 	Sort order:	Redoslijed sortiranja:
 	Sort Recipients	Sortiraj primatelje
@@ -1981,6 +2042,7 @@ template	Letter	Pismo
 	Start-up	Pokretanje
 	State	Savezna država
 	Statement   5.50" × 8.50"	Statement   5.50" × 8.50"
+	Still there? I can hear you thinking.	Još ste tu? Čujem kako razmišljate.
 	Stop Protection	Zaustavi zaštitu
 	Stop Reading	Prestani čitati
 	Stopped	Zaustavljeno
@@ -2057,6 +2119,7 @@ template	Letter	Pismo
 	Tabular List	Tablični popis
 	Tag	Oznaka
 	Take the last match on the page	Uzmi posljednje podudaranje na stranici
+	Take your time. The page isn't going anywhere. Neither am I. Ever.	Polako. Stranica ne ide nikamo. Ne idem ni ja. Nikad.
 	Tangent formula	Formula tangensa
 	Tangent Function	Funkcija tangens
 	TC entry fields	Polja stavki TC
@@ -2098,6 +2161,7 @@ template	Letter	Pismo
 	The margins don't fit on a page this size; make the margins smaller first.	Margine ne stanu na stranicu ove veličine; najprije smanjite margine.
 	The measurement must be between {min} and {max}.	Mjera mora biti između {min} i {max}.
 	The new style takes the formatting of the current paragraph.	Novi stil preuzima oblikovanje trenutačnog odlomka.
+	The Normal template couldn't be read, so this document uses WordCraft's built-in formatting.	Predložak Uobičajeni nije moguće pročitati pa ovaj dokument koristi ugrađeno oblikovanje programa WordCraft.
 	The number must be between 1 and {max}.	Broj mora biti između 1 i {max}.
 	the paragraph is empty	odlomak je prazan
 	the paragraph starts with a space	odlomak počinje razmakom
@@ -2126,6 +2190,7 @@ template	Letter	Pismo
 	Thick	Debelo
 	this chart was made in another program: WordCraft shows it but can't edit it	ovaj grafikon izrađen je u drugom programu: WordCraft ga prikazuje, ali ga ne može uređivati
 	This document	Ovaj dokument
+	This document only?	Samo ovaj dokument?
 	This field has no options.	Ovo polje nema mogućnosti.
 	This folder can't be read: {error}	Ova se mapa ne može pročitati: {error}
 	This font has no characters to show.	Ovaj font nema znakova za prikaz.
@@ -2134,12 +2199,15 @@ template	Letter	Pismo
 	This password type isn't supported.	Ova vrsta lozinke nije podržana.
 	This point forward	Od ove točke nadalje
 	This section	Ovaj odjeljak
+	this session has no Normal template (headless or without preferences)	ova sesija nema predložak Uobičajeni (bez sučelja ili bez postavki)
+	this session has no Normal template (headless or without preferences): use "scope": "document"	ova sesija nema predložak Uobičajeni (bez sučelja ili bez postavki): upotrijebite "scope": "document"
 	this SmartArt was made in another program: WordCraft shows it but can't edit it	ovaj SmartArt izrađen je u drugom programu: WordCraft ga prikazuje, ali ga ne može uređivati
 	this text box is already linked: break the link first	ovaj tekstni okvir već je povezan: najprije prekinite vezu
 	Three	Tri
 	Through	Kroz
 	Tight	Usko
 	Tilde	Tilda
+	Tip	Savjet
 	Tips ({n})	Savjeti ({n})
 preview	Title	Naslov
 	Title Bar	Naslovna traka
@@ -2216,6 +2284,7 @@ preview	Title	Naslov
 	Undo Actions	Poništi radnje
 	Undo History	Povijest poništavanja
 	Undo {n} Actions	Poništi radnje: {n}
+	Undo, undo, undo… we're time travelling now.	Poništi, poništi, poništi… sad putujemo kroz vrijeme.
 	Unformatted Text	Neoblikovani tekst
 	Union of intersections	Unija presjeka
 	Union with Limits	Unija s granicama
@@ -2244,7 +2313,9 @@ preview	Title	Naslov
 	Use an Existing List…	Koristi postojeći popis…
 	Use system setting	Koristi postavku sustava
 	Use the browser's full screen (F11)	Koristi cijeli zaslon preglednika (F11)
+	Use the current style set and theme for all new documents?	Koristiti trenutačni skup stilova i temu za sve nove dokumente?
 	Use the Insert key to switch overtype on and off	Koristite tipku Umetni (Insert) za uključivanje i isključivanje prepisivanja
+	Use this formatting as the default for:	Koristi ovo oblikovanje kao zadano za:
 	Use wildcards	Koristi zamjenske znakove
 	User Name	Korisničko ime
 	User name:	Korisničko ime:
@@ -2259,6 +2330,7 @@ preview	Title	Naslov
 	View Alt Text…	Prikaži alternativni tekst…
 	View Gridlines	Prikaži crte mreže
 	View State	Stanje prikaza
+	View › Focus hides everything but your words. I'll wait outside.	Prikaz › Fokus skriva sve osim vaših riječi. Čekat ću vani.
 	Views	Prikazi
 	Visual effects	Vizualni efekti
 	Volume	Glasnoća
@@ -2310,9 +2382,13 @@ preview	Title	Naslov
 	Wrap\nText	Obtok\nteksta
 	Write & Insert Fields	Napiši i umetni polja
 	Write a reply	Napišite odgovor
+	Writer's block? I find staring at the cursor helps. It's been blinking at me for years.	Spisateljska blokada? Meni pomaže buljiti u pokazivač. Trepće mi već godinama.
 	x bar	x s crtom
 	Year	Godina
 	Yields	Rezultira
+	You haven't saved in a while, and AutoSave is off. Save now?	Dugo niste spremali, a automatsko spremanje je isključeno. Spremiti sada?
+	You started a list. Press Enter twice to end it, or Backspace at the start of an item to turn it back into text.	Započeli ste popis. Pritisnite Enter dvaput da ga završite ili Backspace na početku stavke da je ponovno pretvorite u tekst.
+	Your document is now the most saved document in history.	Vaš je dokument sada najspremljeniji dokument u povijesti.
 	Your system doesn't report an animation setting, so animation effects stay on.	Vaš sustav ne javlja postavku animacije pa animacijski efekti ostaju uključeni.
 	Your system has animation effects turned off.	Vaš sustav ima isključene animacijske efekte.
 	Your system has animation effects turned on.	Vaš sustav ima uključene animacijske efekte.
@@ -2349,6 +2425,9 @@ preview	Title	Naslov
 	{width} × {height} mm	{width} × {height} mm
 	{width} × {height} pixels	{width} × {height} piksela
 	{words} words	Riječi: {words}
+	{words} words and counting. Literally. I'm counting.	Riječi: {words}, i brojim dalje. Doslovno. Ja brojim.
+	{words} words! I'd throw confetti but I'd have to clean it up.	Riječi: {words}! Bacio bih konfete, ali onda bih ih morao pospremiti.
+	{words} words. That's {words} more than I've written today.	Riječi: {words}. To je {words} više nego što sam ja danas napisao.
 	“{text}” ({row}, {series}) isn't a number.	„{text}” ({row}, {series}) nije broj.
 	✓ None	✓ Nema
 	➕ New comment	➕ Novi komentar
