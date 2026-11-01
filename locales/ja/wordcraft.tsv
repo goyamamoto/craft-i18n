@@ -7,9 +7,16 @@
 #   @plural  English `one|other`; the translation lists this language's plural forms, `|`-separated.
 #   Lines starting with # and blank lines are ignored. A missing entry shows in English.
 #
-# Clean room: every entry was written from the plain meaning of the English text in ordinary
-# computing vocabulary. No other product's localisation, string table or translated UI was
-# consulted or copied; add entries the same way.
+# Clean room: the entries that came from upstream storytold/craft-i18n were written from the
+# plain meaning of the English text in ordinary computing vocabulary, with no other product's
+# localisation, string table or translated UI consulted or copied.
+#
+# WordCraft-ja (this fork, goyamamoto/craft-i18n branch wordcraft-ja-rows) works differently, by
+# its owner's decision: the rows it adds or changes name each feature the way Microsoft Word's
+# Japanese interface names it, so that people who know Word find the same words. Only feature
+# names are matched (menu, ribbon, dialog and style names, as Microsoft's public Japanese
+# documentation shows them); no help text, string table or other wording is copied, and nothing
+# was taken from inside Microsoft's software. Those rows are not offered upstream.
 	% of all commits	全コミットに占める割合
 	(All)	(すべて)
 	(Custom)	(ユーザー設定)
@@ -995,7 +1002,7 @@
 	Line Spacing Options…	行間のオプション…
 	Line spacing:	行間:
 	Line Start	行頭
-	Linear	線形形式
+	Linear	線形
 	Linear Diagonal - Bottom Left to Top Right	線形 (斜め) - 左下から右上
 	Linear Diagonal - Bottom Right to Top Left	線形 (斜め) - 右下から左上
 	Linear Diagonal - Top Left to Bottom Right	線形 (斜め) - 左上から右下
@@ -2199,7 +2206,7 @@ lines	Pitch:	行送り:
 	Accept and Move to Next	承諾して次へ進む
 	Acute	アキュート
 	Advanced Properties…	詳細プロパティ…
-	All - Linear	すべて - 線形形式
+	All - Linear	すべて - 行形式
 	All - Professional	すべて - 2 次元形式
 	Angle Brackets	山かっこ
 	Angle Brackets with Separator	区切り記号付き山かっこ
@@ -2254,7 +2261,7 @@ lines	Pitch:	行送り:
 	Contour Integral with Limits	上下限付き周回積分
 	Contour Integral with Stacked Limits	上下限を上下に配置した周回積分
 	Contour Integrals	周回積分
-	Convert between built-up and linear form	2 次元形式と線形形式を切り替え
+	Convert between built-up and linear form	2 次元形式と行形式を切り替え
 	Coproduct	余積
 	Coproduct with Limits	上下限付き余積
 	Coproduct with Lower Limit	下限付き余積
@@ -2265,7 +2272,7 @@ lines	Pitch:	行送り:
 	Cosine Function	余弦関数
 	Cotangent Function	余接関数
 	Cube Root	立方根
-	Current - Linear	現在の数式 - 線形形式
+	Current - Linear	現在の数式 - 行形式
 	Current - Professional	現在の数式 - 2 次元形式
 	Dark Blue	濃い青
 	Dark Red	濃い赤
@@ -2505,7 +2512,7 @@ lines	Pitch:	行送り:
 	Triple Integral with Stacked Limits	上下限を上下に配置した 3 重積分
 	Turquoise	水色
 	Type equations in LaTeX	LaTeX で数式を入力
-	Type equations in the linear format (UnicodeMath)	線形形式 (UnicodeMath) で数式を入力
+	Type equations in the linear format (UnicodeMath)	行形式 (UnicodeMath) で数式を入力
 	Type normal (non-math) text in the equation	数式内に通常の (数式以外の) テキストを入力
 	Underbar	下線
 	Underbrace	下中かっこ
@@ -2532,3 +2539,9 @@ lines	Pitch:	行送り:
 	x bar	x バー
 	{name} options	{name} のオプション
 	✓ None	✓ なし
+# Context rows: a built-in style's name (Word's style gallery), and the equation menu's forms.
+style	Normal	標準
+style	Title	表題
+style	Subtitle	副題
+equation	Linear	行形式
+equation	Professional	2 次元形式
