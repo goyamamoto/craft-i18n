@@ -2192,7 +2192,6 @@ lines	Pitch:	行送り:
 	3×3 Empty Matrix	3×3 の空の行列
 	3×3 Identity Matrix	3×3 単位行列
 	3×3 Identity Matrix (sparse)	3×3 単位行列 (疎)
-	ASAP	至急
 	AaBbCcDd	あア亜Aa
 	Absolute value cases	絶対値の場合分け
 	Accents	アクセント
@@ -2223,7 +2222,6 @@ lines	Pitch:	行送り:
 	Brackets with Separators	区切り記号付きかっこ
 	Breve	ブリーブ
 	Bright Green	明るい緑
-	CONFIDENTIAL	社外秘
 	Cases (Three Conditions)	場合分け (3 条件)
 	Cases (Two Conditions)	場合分け (2 条件)
 	Cases and Stacks	場合分けと積み重ね
@@ -2269,8 +2267,6 @@ lines	Pitch:	行送り:
 	Cube Root	立方根
 	Current - Linear	現在の数式 - 線形形式
 	Current - Professional	現在の数式 - 2 次元形式
-	DO NOT COPY	複製禁止
-	DRAFT	下書き
 	Dark Blue	濃い青
 	Dark Red	濃い赤
 	Dark Yellow	濃い黄
@@ -2441,7 +2437,6 @@ lines	Pitch:	行送り:
 	Rightwards Harpoon Above	上付き右向き半矢印
 	Roots of ax²+bx+c	ax²+bx+c の解
 	Run	実行
-	SAMPLE	見本
 	Scale Font Sizes	フォント サイズの拡大/縮小
 	Secant Function	正割関数
 	Separate text with	文字列の区切り
@@ -2512,7 +2507,6 @@ lines	Pitch:	行送り:
 	Type equations in LaTeX	LaTeX で数式を入力
 	Type equations in the linear format (UnicodeMath)	線形形式 (UnicodeMath) で数式を入力
 	Type normal (non-math) text in the equation	数式内に通常の (数式以外の) テキストを入力
-	URGENT	緊急
 	Underbar	下線
 	Underbrace	下中かっこ
 	Union	和集合
