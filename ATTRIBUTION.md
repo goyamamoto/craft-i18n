@@ -21,7 +21,7 @@ catalog came from (`<app>@<sha>`). Translations are contributed under the reposi
 | `id` | PhotoCraft: no individual credit recorded upstream; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed; FilmCraft: FilmCraft contributors (catalog added by vangel76) | `photocraft@8d2e615`, `vectorcraft@73f40e3`, `filmcraft@48088e3` |
 | `it` | WordCraft: no individual credit recorded upstream; PdfCraft: PdfCraft contributors; PhotoCraft: PhotoCraft contributors; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed; FilmCraft: FilmCraft contributors (catalog added by Nai-ITA); CADCraft: Emanuele Bottelli (AI-assisted, Claude) | `wordcraft@67a0e72`, `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3`, `filmcraft@48088e3`, `cadcraft@b23d362` |
 | `ja` | WordCraft: no individual credit recorded upstream; PdfCraft: PdfCraft contributors; PhotoCraft: no individual credit recorded upstream; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed (Japanese by `imachus`); FilmCraft: no individual credit recorded upstream; ArtCraft Launcher: no individual credit recorded upstream | `wordcraft@67a0e72`, `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3`, `filmcraft@48088e3`, `craft-launcher@ad7f24a` |
-| `ka` | VectorCraft: Davit Matchakhelidze (@devius), native speaker, with Claude Code | `vectorcraft@589f0ea` |
+| `ka` | WordCraft: Davit Matchakhelidze (@devius), native speaker, with Claude Code; VectorCraft: Davit Matchakhelidze (@devius), native speaker, with Claude Code | `wordcraft@23d1092`, `vectorcraft@589f0ea` |
 | `kk` | PdfCraft: PdfCraft contributors | `pdfcraft@924c4da` |
 | `ko` | WordCraft: no individual credit recorded upstream; PhotoCraft: PhotoCraft contributors; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed, AI-drafted; FilmCraft: FilmCraft contributors; CADCraft: @huk082 (AI-assisted) | `wordcraft@67a0e72`, `photocraft@8d2e615`, `vectorcraft@73f40e3`, `filmcraft@48088e3`, `cadcraft@b23d362` |
 | `lt` | PdfCraft: PdfCraft contributors | `pdfcraft@924c4da` |
@@ -40,3 +40,14 @@ catalog came from (`<app>@<sha>`). Translations are contributed under the reposi
 | `vi` | WordCraft: no individual credit recorded upstream; PdfCraft: PdfCraft contributors; PhotoCraft: PhotoCraft contributors; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed, AI-assisted | `wordcraft@67a0e72`, `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3` |
 | `zh-hans` | WordCraft: no individual credit recorded upstream; PdfCraft: PdfCraft contributors; PhotoCraft: no individual credit recorded upstream; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed; FilmCraft: no individual credit recorded upstream; CADCraft: @mayloglog; ArtCraft Launcher: no individual credit recorded upstream | `wordcraft@67a0e72`, `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3`, `filmcraft@48088e3`, `cadcraft@b23d362`, `craft-launcher@ad7f24a` |
 | `zh-hant` | WordCraft: no individual credit recorded upstream; PdfCraft: PdfCraft contributors; PhotoCraft: no individual credit recorded upstream; VectorCraft: mostly agent-written (`bflatastic`), not recorded as native-reviewed (Traditional Chinese by `imachus`) | `wordcraft@67a0e72`, `pdfcraft@924c4da`, `photocraft@8d2e615`, `vectorcraft@73f40e3` |
+
+## WordCraft egui 0.37 migration additions
+
+@skylartaylor contributed the `Delete Around Caret in Equation` row in `bg`, `cs`, `da`,
+`de`, `es`, `et`, `fr`, `hr`, `hu`, `it`, `ja`, `ka`, `ko`, `nl`, `pl`, `pt-br`, `ro`,
+`ru`, `sl`, `sr`, `sr-latn`, `sv`, `tr`, `uk`, `vi`, `zh-hans` and `zh-hant`. The original 26 rows were prepared in the unpublished WordCraft migration and moved
+here after the app adopted shared catalogs. The same command label was then added
+to the Georgian catalog. The revised wording names the caret within the
+equation, where the command deletes adjacent editing units. They were written from
+the English meaning; no native-speaker review is recorded. They are separate from the earlier catalog
+migrations and translator credits above.

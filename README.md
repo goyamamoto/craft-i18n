@@ -1,6 +1,8 @@
 craft-i18n
 ==========
 
+<a href="https://sonarcloud.io/project/overview?id=storytold_craft-i18n"><img alt="Scanned by SonarCloud" src="https://img.shields.io/badge/Scanned_by-SonarCloud-4b9fd5?style=flat-square&logo=sonarqubecloud&logoColor=white"></a>
+
 Shared translations for the storytold Crafting Apps.
 
 The apps share a lot of strings. Keeping them here means each one is translated once, and every

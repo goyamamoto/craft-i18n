@@ -38,6 +38,7 @@ HEADER = r"""# {name} ({locale}) interface catalog for {app}.
 CATALOG = re.compile(r"(?:^|/)i18n/[^/]+\.tsv$")
 RESERVED = ("@plural", "@id", "@msg")
 NAME = ("@id", "language.name")
+PLURAL = "@plural"
 # The migration's locale renames (3b's B4); Taiwan's Traditional Chinese is plain `zh-hant`.
 RENAMES = {"zh": "zh-hans", "zh-cn": "zh-hans", "zh-sg": "zh-hans", "zh-tw": "zh-hant"}
 APP_RENAMES = {("photocraft", "sr"): "sr-latn"}
@@ -93,45 +94,82 @@ def template_problem(source):
     return None
 
 
+def complete_plural(source, value, forms):
+    """A plural row read for writing: English as one|other, the value padded to the locale's forms
+    (3b's B7)."""
+    if "|" not in source:
+        # ponytail: English plural by adding "s" (CADCraft's `{n} commit`).
+        source = f"{source}|{source}s"
+    parts = value.split("|")
+    if forms == 1:
+        parts = parts[:1]
+    elif forms and len(parts) == 1:
+        parts *= forms
+    return source, "|".join(parts)
+
+
+def unusable_row(context, source, value):
+    """Why no row can ever be written on these three columns, or None."""
+    if any(unicodedata.category(c) == "Cc" or c == "﻿" for c in context + source + value):
+        return "invisible character"
+    if not source or not value:
+        return "empty column"
+    if context.startswith("@") and context not in RESERVED:
+        return f"unknown context {context}"
+    return None
+
+
+def plural_problem(source, value, forms):
+    """Why a completed plural row can't be a plain|other pair, or None."""
+    english, parts = source.split("|"), value.split("|")
+    if len(english) != 2 or not all(english) or placeholders(english[0]) != placeholders(english[1]):
+        return "plural source is not one|other"
+    if (forms and len(parts) != forms) or not all(parts):
+        return f"{len(parts)} plural forms, the locale has {forms}"
+    if any(placeholders(p) != placeholders(english[1]) for p in parts):
+        return "placeholders differ"
+    return None
+
+
+def text_problem(context, source, value):
+    """Why a plain or `@msg` row doesn't translate its source faithfully, or None."""
+    if placeholders(source) != placeholders(value):
+        return "placeholders differ"
+    if source.endswith("…") != value.endswith("…"):
+        return "trailing … differs"
+    if context == "@msg" and (problem := template_problem(source)):
+        return problem
+    return None
+
+
 def fix(key, value, forms):
     """The row as craft-i18n holds it, after the migration's format fixes; or (None, problem) for
     a row the checker would reject."""
     context, source, value = escape(key[0]), escape(key[1]), escape(value)
-    if context == "@plural":
-        if "|" not in source:
-            # ponytail: English plural by adding "s" (3b's B7, CADCraft's `{n} commit`).
-            source = f"{source}|{source}s"
-        parts = value.split("|")
-        if forms == 1:
-            parts = parts[:1]
-        elif forms and len(parts) == 1:
-            parts *= forms
-        value = "|".join(parts)
-    if any(unicodedata.category(c) == "Cc" or c == "﻿" for c in context + source + value):
-        return None, "invisible character"
-    if not source or not value:
-        return None, "empty column"
-    if context.startswith("@") and context not in RESERVED:
-        return None, f"unknown context {context}"
-    if context == "@plural":
-        english, parts = source.split("|"), value.split("|")
-        if len(english) != 2 or not all(english) or placeholders(english[0]) != placeholders(english[1]):
-            return None, "plural source is not one|other"
-        if (forms and len(parts) != forms) or not all(parts):
-            return None, f"{len(parts)} plural forms, the locale has {forms}"
-        if any(placeholders(p) != placeholders(english[1]) for p in parts):
-            return None, "placeholders differ"
-    elif context != "@id":
-        if placeholders(source) != placeholders(value):
-            return None, "placeholders differ"
-        if source.endswith("…") != value.endswith("…"):
-            return None, "trailing … differs"
-        if context == "@msg" and (problem := template_problem(source)):
+    if context == PLURAL:
+        source, value = complete_plural(source, value, forms)
+    if (problem := unusable_row(context, source, value)):
+        return None, problem
+    if context == PLURAL:
+        if problem := plural_problem(source, value, forms):
             return None, problem
+    elif context != "@id" and (problem := text_problem(context, source, value)):
+        return None, problem
     return (context, source), value
 
 
+# The options the sync's own git calls spell out. Anything else at the head of an argument would
+# reach git as a fresh option: a value quoted out of a file (an ATTRIBUTION SHA, a row, a path)
+# must not be able to redirect the command.
+GIT_OPTIONS = {"-r", "-z", "--name-only", "-q", "-b", "--verify"}
+
+
 def git(checkout, *args):
+    """git in `checkout`, capturing its stdout. Option-shaped arguments are only those the sync's
+    calls name, so data read from files can never speak for the command line."""
+    for arg in args:
+        if arg.startswith("-") and arg not in GIT_OPTIONS:
+            raise ValueError(f"git: {arg!r} is not one of the options the sync passes")
     return subprocess.run(["git", "-C", str(checkout), *args], check=True, capture_output=True,
                           text=True, encoding="utf-8").stdout
 
@@ -195,15 +233,18 @@ class Tree:
         d = self.dir / locale
         files = sorted(p.stem for p in d.glob("*.tsv")) if d.is_dir() else []
         counts = Counter(v.count("|") + 1 for f in files for (c, _), v in self.rows(locale, f).items()
-                         if c == "@plural")
+                         if c == PLURAL)
         return counts.most_common(1)[0][0] if counts else self.forms(base_language(locale))
 
     def display_name(self):
+        # The first header line of a written catalog: `# <Name> (<locale>) interface catalog for <app>.`
         for locale in self.locales():
             path = self.path(locale, self.app)
             if path.exists():
-                if m := re.match(r"# .* interface catalog for (.+)\.\n", path.read_text(encoding="utf-8")):
-                    return m[1]
+                head = path.read_text(encoding="utf-8").split("\n", 1)[0]
+                start, sep, name = head.rpartition(" interface catalog for ")
+                if sep and start.startswith("# ") and name.endswith(".") and name[:-1]:
+                    return name[:-1]
         return self.app
 
     def write(self, names):
@@ -225,6 +266,34 @@ class Tree:
         return changed
 
 
+def read_catalog(checkout, sha, app, path, tree, notes):
+    """One catalog file at `sha` as `locale: {key: fixed translation}` (one locale), empty rows out
+    and noted."""
+    locale = locale_name(app, path.rpartition("/")[2].removesuffix(".tsv"))
+    raw, problems = parse(git(checkout, "show", f"{sha}:{path}"))
+    notes += [f"{path}: {p}" for p in problems]
+    forms = tree.forms(locale)
+    rows = {}
+    for key, value in raw.items():
+        fixed, value = fix(key, value, forms)
+        if fixed:
+            rows[fixed] = value
+        else:
+            notes.append(f"{path}: left out, {value}: {key[0]}\t{key[1]}")
+    return locale, rows
+
+
+def language_names(checkout, sha, dirs, app):
+    """The language names the app's ``code: "…", name: "…"`` tables give for its catalogs' locales."""
+    names = {}
+    for d in dirs:
+        for file in git(checkout, "ls-tree", "-z", "--name-only", f"{sha}:{d}").split("\0"):
+            if file.endswith(".rs"):
+                for code, name in LANGUAGE.findall(git(checkout, "show", f"{sha}:{d}/{file}")):
+                    names[locale_name(app, code)] = name
+    return names
+
+
 def read_app(checkout, sha, app, tree, notes):
     """The app's catalogs at `sha`, {locale: {key: raw translation}} after the format fixes, and
     the language names its table gives."""
@@ -232,27 +301,61 @@ def read_app(checkout, sha, app, tree, notes):
     dirs = {p.rpartition("/")[0] for p in paths}
     if len(dirs) > 1:
         sys.exit(f"catalogs in more than one directory at {sha}: {', '.join(sorted(dirs))}")
-    catalogs, names = {}, {}
+    catalogs = {}
     for path in paths:
-        locale = locale_name(app, path.rpartition("/")[2].removesuffix(".tsv"))
+        locale, rows = read_catalog(checkout, sha, app, path, tree, notes)
         if locale in catalogs:
             sys.exit(f"two catalogs at {sha} are both {locale}")
-        raw, problems = parse(git(checkout, "show", f"{sha}:{path}"))
-        notes += [f"{path}: {p}" for p in problems]
-        catalogs[locale] = {}
-        forms = tree.forms(locale)
-        for key, value in raw.items():
-            fixed, value = fix(key, value, forms)
-            if fixed:
-                catalogs[locale][fixed] = value
-            else:
-                notes.append(f"{path}: left out, {value}: {key[0]}\t{key[1]}")
-    for d in dirs:
-        for file in git(checkout, "ls-tree", "-z", "--name-only", f"{sha}:{d}").split("\0"):
-            if file.endswith(".rs"):
-                for code, name in LANGUAGE.findall(git(checkout, "show", f"{sha}:{d}/{file}")):
-                    names[locale_name(app, code)] = name
-    return catalogs, names
+        catalogs[locale] = rows
+    return catalogs, language_names(checkout, sha, dirs, app)
+
+
+def sync_locale(tree, locale, was, now, touched, notes):
+    """One locale's catalog follows the app: dropped rows leave, foreign rows follow the app unless
+    it has one exactly like another source has already."""
+    if now is None:
+        tree.set(locale, tree.app, None)
+        notes.append(f"{locale}: the app dropped this locale; {tree.app}.tsv removed")
+        return
+    rows = dict(tree.rows(locale, tree.app))
+    tree.set(locale, tree.app, rows)
+    for key in was.keys() - now.keys():
+        rows.pop(key, None)
+        touched.add(key)
+    for key, value in now.items():
+        if was.get(key) != value:
+            touched.add(key)
+            rows.pop(key, None)
+            if tree.resolve(locale, key)[0] != value:
+                rows[key] = value
+
+
+def drop_unused(tree, old, new, app):
+    """Rows the app's old catalogs had and none of its catalogs at `new` has: they leave the app's
+    own files everywhere; notes when a shared row becomes free of `app` (other apps may use it)."""
+    gone = {k for rows in old.values() for k in rows} - {k for rows in new.values() for k in rows}
+    notes = []
+    for key in sorted(gone):
+        for locale in tree.locales():
+            if key in tree.rows(locale, app):
+                tree.set(locale, app, {k: v for k, v in tree.rows(locale, app).items() if k != key})
+        if any(key in tree.rows(locale, "common") for locale in tree.locales()):
+            notes.append(f"shared row no longer used by {app} (other apps may use it): {key[0]}\t{key[1]}")
+    return gone, notes
+
+
+def language_names_still_missing(tree, names, new):
+    """Notes for the locales of `new` whose language name neither `tree` nor the app's table has."""
+    notes = []
+    for locale in sorted(new):
+        if tree.language(locale) is not None:
+            continue
+        if names.get(locale):
+            tree.set(locale, "common", {**tree.rows(locale, "common"), NAME: names[locale]})
+        else:
+            notes.append(f'{locale}: no language name; add "@id\tlanguage.name\t<name>" to '
+                         f"locales/{locale}/common.tsv")
+    return notes
 
 
 def sync(tree, old, new, names):
@@ -261,37 +364,11 @@ def sync(tree, old, new, names):
     touched = set()
     # Base languages first: a regional row is compared with its base language's synced result.
     for locale in sorted(old.keys() | new.keys(), key=lambda l: (l.count("-"), l)):
-        was, now = old.get(locale, {}), new.get(locale)
-        if now is None:
-            tree.set(locale, tree.app, None)
-            notes.append(f"{locale}: the app dropped this locale; {tree.app}.tsv removed")
-            continue
-        rows = dict(tree.rows(locale, tree.app))
-        tree.set(locale, tree.app, rows)
-        for key in was.keys() - now.keys():
-            rows.pop(key, None)
-            touched.add(key)
-        for key, value in now.items():
-            if was.get(key) != value:
-                touched.add(key)
-                rows.pop(key, None)
-                if tree.resolve(locale, key)[0] != value:
-                    rows[key] = value
-    gone = {k for rows in old.values() for k in rows} - {k for rows in new.values() for k in rows}
-    for key in sorted(gone):
-        for locale in tree.locales():
-            if key in tree.rows(locale, tree.app):
-                tree.set(locale, tree.app, {k: v for k, v in tree.rows(locale, tree.app).items() if k != key})
-        if any(key in tree.rows(locale, "common") for locale in tree.locales()):
-            notes.append(f"shared row no longer used by {tree.app} (other apps may use it): {key[0]}\t{key[1]}")
+        sync_locale(tree, locale, old.get(locale, {}), new.get(locale), touched, notes)
+    gone, gone_notes = drop_unused(tree, old, new, tree.app)
+    notes += gone_notes
     keep_english(tree, new, touched - gone)
-    for locale in sorted(new):
-        if tree.language(locale) is None:
-            if names.get(locale):
-                tree.set(locale, "common", {**tree.rows(locale, "common"), NAME: names[locale]})
-            else:
-                notes.append(f'{locale}: no language name; add "@id\tlanguage.name\t<name>" to '
-                             f"locales/{locale}/common.tsv")
+    notes += language_names_still_missing(tree, names, new)
     return notes
 
 
@@ -299,7 +376,7 @@ def keep_english(tree, new, keys):
     """Where the app translates a shared string differently in most locales both have, the locales
     it leaves the string untranslated in keep English, not another app's meaning (3b)."""
     for key in sorted(keys):
-        if key[0] in ("@plural", "@id"):
+        if key[0] in (PLURAL, "@id"):
             continue
         both = [l for l, rows in new.items() if key in rows and key in tree.rows(l, "common")]
         if sum(new[l][key] != tree.rows(l, "common")[key] for l in both) * 2 <= len(both):
@@ -317,44 +394,41 @@ def round_trip(tree, catalogs):
             if tree.resolve(locale, (c, s))[0] != v]
 
 
-def main(argv=None):
-    p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    p.add_argument("checkout", type=Path, help="the app's git checkout")
-    p.add_argument("base", nargs="?", help="the app commit last synced from (ATTRIBUTION.md)")
-    p.add_argument("--ref", default="HEAD", help="the app commit to sync (default HEAD)")
-    p.add_argument("--check", action="store_true", help="only check the round trip at --ref")
-    p.add_argument("--app", help="catalog name, <app>.tsv (default: the origin remote's name)")
-    p.add_argument("--root", type=Path, default=ROOT, help="craft-i18n checkout (default: this one)")
-    args = p.parse_args(argv)
-    if not args.check and not args.base:
-        p.error("the base SHA is required, unless --check")
-    origin = git(args.checkout, "remote", "get-url", "origin").strip() if not args.app else ""
-    app = args.app or origin.removesuffix(".git").rpartition("/")[2]
-    ref = git(args.checkout, "rev-parse", "--verify", f"{args.ref}^{{commit}}").strip()
-    tree = Tree(args.root, app)
-    notes = []
-    new, names = read_app(args.checkout, ref, app, tree, notes)
-    if not new:
-        sys.exit(f"{app}@{ref} has no i18n/*.tsv; after cutover add rows to locales/<locale>/{app}.tsv")
-    print(f"read {app}@{ref}")
-    stale = {}
-    if not args.check:
-        base = git(args.checkout, "merge-base", args.base, ref).strip()
-        if base != git(args.checkout, "rev-parse", f"{args.base}^{{commit}}").strip():
-            print(f"{args.base} is not an ancestor of {ref[:12]}: from their merge base {base}")
-        old, _ = read_app(args.checkout, base, app, tree, [])
-        notes += sync(tree, old, new, names)
-        for locale, file, was, now in tree.write(names):
-            if file == "common":
-                print(f"{locale}/common.tsv: language name added")
-            else:
-                changed = sum(was[k] != now[k] for k in was.keys() & now.keys())
-                print(f"{locale}/{file}.tsv: +{len(now.keys() - was.keys())} ~{changed} "
-                      f"-{len(was.keys() - now.keys())}, {len(now)} rows")
-        # A row the ref didn't change keeps craft-i18n's wording, so on a branch older than the
-        # last sync it may differ: reported, not a failure.
-        stale = {l: {k: v for k, v in rows.items() if old.get(l, {}).get(k) == v} for l, rows in new.items()}
-        new = {l: {k: v for k, v in rows.items() if k not in stale[l]} for l, rows in new.items()}
+def app_of(args):
+    """The catalog name `args` runs on: given, or the app checkout's origin remote's name."""
+    if args.app:
+        return args.app
+    origin = git(args.checkout, "remote", "get-url", "origin").strip()
+    return origin.removesuffix(".git").rpartition("/")[2]
+
+
+def write_sync(tree, names, notes, checkout, base, ref, app, new):
+    """The non-`--check` half of `sync_app.py`: apply the app's changes from `base` to `ref`, write the
+    catalogs, and give back the rows that came out (changed only, for the round trip)."""
+    merged = git(checkout, "merge-base", base, ref).strip()
+    if merged != git(checkout, "rev-parse", f"{base}^{{commit}}").strip():
+        print(f"{base} is not an ancestor of {ref[:12]}: from their merge base {merged}")
+    old, _ = read_app(checkout, merged, app, tree, [])
+    notes += sync(tree, old, new, names)
+    written = []
+    for locale, file, was, now in tree.write(names):
+        if file == "common":
+            print(f"{locale}/common.tsv: language name added")
+        else:
+            changed = sum(was[k] != now[k] for k in was.keys() & now.keys())
+            print(f"{locale}/{file}.tsv: +{len(now.keys() - was.keys())} ~{changed} "
+                  f"-{len(was.keys() - now.keys())}, {len(now)} rows")
+        written.append((locale, file, was, now))
+    # A row the ref didn't change keeps craft-i18n's wording, so on a branch older than the
+    # last sync it may differ: reported, not a failure.
+    stale = {l: {k: v for k, v in rows.items() if old.get(l, {}).get(k) == v} for l, rows in new.items()}
+    new = {l: {k: v for k, v in rows.items() if k not in stale[l]} for l, rows in new.items()}
+    return stale, new
+
+
+def round_trip_report(tree, new, stale, notes):
+    """Print the notes and the two round-trip halves (`stale` changed, `new` touched); return True
+    when a changed row doesn't reproduce."""
     for note in notes:
         print(note)
     kept = round_trip(tree, stale)
@@ -366,7 +440,32 @@ def main(argv=None):
     total = sum(map(len, [*new.values(), *stale.values()]))
     print(f"round trip: {total - len(mismatches) - len(kept)} rows reproduced, {len(mismatches)} not"
           + (f", {len(kept)} untouched rows differ" if kept else ""))
-    return 1 if mismatches else 0
+    return bool(mismatches)
+
+
+def main(argv=None):
+    p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    p.add_argument("checkout", type=Path, help="the app's git checkout")
+    p.add_argument("base", nargs="?", help="the app commit last synced from (ATTRIBUTION.md)")
+    p.add_argument("--ref", default="HEAD", help="the app commit to sync (default HEAD)")
+    p.add_argument("--check", action="store_true", help="only check the round trip at --ref")
+    p.add_argument("--app", help="catalog name, <app>.tsv (default: the origin remote's name)")
+    p.add_argument("--root", type=Path, default=ROOT, help="craft-i18n checkout (default: this one)")
+    args = p.parse_args(argv)
+    if not args.check and not args.base:
+        p.error("the base SHA is required, unless --check")
+    app = app_of(args)
+    ref = git(args.checkout, "rev-parse", "--verify", f"{args.ref}^{{commit}}").strip()
+    tree = Tree(args.root, app)
+    notes = []
+    new, names = read_app(args.checkout, ref, app, tree, notes)
+    if not new:
+        sys.exit(f"{app}@{ref} has no i18n/*.tsv; after cutover add rows to locales/<locale>/{app}.tsv")
+    print(f"read {app}@{ref}")
+    stale = {}
+    if not args.check:
+        stale, new = write_sync(tree, names, notes, args.checkout, args.base, ref, app, new)
+    return 1 if round_trip_report(tree, new, stale, notes) else 0
 
 
 if __name__ == "__main__":
