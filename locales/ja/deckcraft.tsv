@@ -534,6 +534,7 @@ transition	Characters	文字
 	Correct TWo INitial CApitals	先頭 2 文字の大文字を修正する
 	Corrections	補正
 @msg	Could not check for updates: {e}	更新プログラムを確認できませんでした: {e}
+@msg	Couldn't create a private print preview: {e}	印刷プレビュー用の非公開の一時ファイルを作成できませんでした: {e}
 	Couldn't save AutoRecover information: {e}	自動回復用の情報を保存できませんでした: {e}
 @msg	Couldn't save AutoRecover information: {e}	自動回復用の情報を保存できませんでした: {e}
 	Counterclockwise	反時計回り
@@ -1059,6 +1060,7 @@ position	Horizontal:	水平位置:
 	Inspect Presentation	プレゼンテーションの検査
 	Inspect Shape	図形を検査
 	Inspect Slide	スライドを検査
+	Inspect Slide Actions	スライドのアクションを調べる
 	Intense Effect	強い効果
 	Interface language:	表示言語:
 	Interface size	表示サイズ
@@ -1081,6 +1083,8 @@ position	Horizontal:	水平位置:
 	JPEG image (current slide)	JPEG 画像 (現在のスライド)
 	JPEG Picture (*.jpg)	JPEG 画像 (*.jpg)
 	Justify low	両端揃え (低)
+	Keep mouse cursor visible	マウス ポインターを表示したままにする
+	Keep Mouse Cursor Visible	マウス ポインターを表示したままにする
 	Keep Source Formatting	元の書式を保持
 	Keep source formatting	元の書式を保持
 	Keep Text Only	テキストのみ保持
@@ -1237,6 +1241,7 @@ gradient	Linear	線形
 	More Brightness	明るさを上げる
 	More Colors… #	その他の色… #
 	More Contrast	コントラストを上げる
+	More Picture Styles	その他の図のスタイル
 	More presentations	その他のプレゼンテーション
 	More templates	その他のテンプレート
 	More themes	その他のテーマ
@@ -2071,6 +2076,7 @@ reflection	Tight	密着
 	Top Border	上罫線
 	Top left	左上
 gradient	top left	左上
+	Top Left Corner	左上隅
 	Top right	右上
 gradient	top right	右上
 	Total Row	集計行
