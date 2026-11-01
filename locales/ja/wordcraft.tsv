@@ -2175,3 +2175,366 @@ lines	Pitch:	行送り:
 	Bring All to Front	すべてを手前に移動
 	Replace…	置換…
 	Remove\nSplit	分割の\n解除
+# 2026-11-01: strings added by the upstream merge (wordcraft main a88e0052)
+	1×2 Empty Matrix	1×2 の空の行列
+	1×3 Empty Matrix	1×3 の空の行列
+	2×1 Empty Matrix	2×1 の空の行列
+	2×2 Determinant	2×2 行列式
+	2×2 Empty Matrix	2×2 の空の行列
+	2×2 Identity Matrix	2×2 単位行列
+	2×2 Identity Matrix (sparse)	2×2 単位行列 (疎)
+	2×2 Matrix in Brackets	角かっこ付き 2×2 行列
+	2×2 Matrix in Double Bars	二重縦棒付き 2×2 行列
+	2×2 Matrix in Parentheses	丸かっこ付き 2×2 行列
+	2×3 Empty Matrix	2×3 の空の行列
+	3×1 Empty Matrix	3×1 の空の行列
+	3×2 Empty Matrix	3×2 の空の行列
+	3×3 Empty Matrix	3×3 の空の行列
+	3×3 Identity Matrix	3×3 単位行列
+	3×3 Identity Matrix (sparse)	3×3 単位行列 (疎)
+	ASAP	至急
+	AaBbCcDd	あア亜Aa
+	Absolute value cases	絶対値の場合分け
+	Accents	アクセント
+	Accept All Changes and Stop Tracking	すべての変更を承諾し、変更の記録を停止
+	Accept and Move to Next	承諾して次へ進む
+	Acute	アキュート
+	Advanced Properties…	詳細プロパティ…
+	All - Linear	すべて - 線形形式
+	All - Professional	すべて - 2 次元形式
+	Angle Brackets	山かっこ
+	Angle Brackets with Separator	区切り記号付き山かっこ
+	Angle Brackets with Two Separators	2 つの区切り記号付き山かっこ
+	Baseline Dots	ベースラインの点
+	Basic Math	基本数式
+	Bayes' rule	ベイズの定理
+	Binomial Coefficient	二項係数
+	Binomial Coefficient (angle)	二項係数 (山かっこ)
+	Binomial Coefficient with Angle Brackets	山かっこ付き二項係数
+	Binomial expansion of (x+a)ⁿ	(x+a)ⁿ の二項展開
+	Body text in a short paragraph to show spacing.	間隔を確認するための短い段落の本文です。
+	Book Title	書名
+	Boxed Formula	囲み数式
+	Boxed Formula (example)	囲み数式 (例)
+	Boxed Formulas	囲み数式
+	Braces	中かっこ
+	Braces with Separator	区切り記号付き中かっこ
+	Brackets	かっこ
+	Brackets with Separators	区切り記号付きかっこ
+	Breve	ブリーブ
+	Bright Green	明るい緑
+	CONFIDENTIAL	社外秘
+	Cases (Three Conditions)	場合分け (3 条件)
+	Cases (Two Conditions)	場合分け (2 条件)
+	Cases and Stacks	場合分けと積み重ね
+	Ceiling	天井関数
+	Centered as Group	グループとして中央揃え
+	Change in y over change in x	x の変化量に対する y の変化量
+	Change to Level 1	レベル 1 に変更
+	Change to Level 2	レベル 2 に変更
+	Change to Level 3	レベル 3 に変更
+	Change to Level 4	レベル 4 に変更
+	Change to Level 5	レベル 5 に変更
+	Check	チェック
+	Check for\nUpdates…	更新を\n確認…
+	Circle area from its radius	半径から求める円の面積
+	Circled Dot	丸付きドット
+	Circled Plus	丸付きプラス
+	Circled Times	丸付き乗算記号
+	Close Document	文書を閉じる
+	Colon Equal	コロン付き等号
+	Common Accent Objects	よく使われるアクセント付きオブジェクト
+	Common Brackets	よく使われるかっこ
+	Common Fractions	よく使われる分数
+	Common Functions	よく使われる関数
+	Common Large Operators	よく使われる大型演算子
+	Common Operator Structures	よく使われる演算子構造
+	Common Operators	よく使われる演算子
+	Common Radicals	よく使われるべき乗根
+	Common Subscripts and Superscripts	よく使われる上付き/下付き文字
+	Contour Integral	周回積分
+	Contour Integral with Limits	上下限付き周回積分
+	Contour Integral with Stacked Limits	上下限を上下に配置した周回積分
+	Contour Integrals	周回積分
+	Convert between built-up and linear form	2 次元形式と線形形式を切り替え
+	Coproduct	余積
+	Coproduct with Limits	上下限付き余積
+	Coproduct with Lower Limit	下限付き余積
+	Coproduct with Subscript-Superscript Limits	上下限を添え字にした余積
+	Corporate Author	団体著者
+	Cosecant Function	余割関数
+	Cosine 2x	コサイン 2x
+	Cosine Function	余弦関数
+	Cotangent Function	余接関数
+	Cube Root	立方根
+	Current - Linear	現在の数式 - 線形形式
+	Current - Professional	現在の数式 - 2 次元形式
+	DO NOT COPY	複製禁止
+	DRAFT	下書き
+	Dark Blue	濃い青
+	Dark Red	濃い赤
+	Dark Yellow	濃い黄
+	Delta Equal To	デルタ付き等号
+	Delta over arrow	矢印の上にデルタ
+	Derivative as a limit	極限としての導関数
+	Diagonal Dots	斜めの点
+	Differential	微分
+	Differential theta	微分 θ
+	Differential x	微分 x
+	Differential y	微分 y
+	Differentials	微分
+	Dock Left	左にドッキング
+	Dock Right	右にドッキング
+	Double Bar	二重上線
+	Double Dot	二重ドット
+	Double Integral	2 重積分
+	Double Integral with Limits	上下限付き 2 重積分
+	Double Integral with Stacked Limits	上下限を上下に配置した 2 重積分
+	Double Left Arrow with Text Above	上にテキストのある左二重矢印
+	Double Left Arrow with Text Below	下にテキストのある左二重矢印
+	Double Left Right Arrow with Text Above	上にテキストのある左右二重矢印
+	Double Left Right Arrow with Text Below	下にテキストのある左右二重矢印
+	Double Right Arrow with Text Above	上にテキストのある右二重矢印
+	Double Right Arrow with Text Below	下にテキストのある右二重矢印
+	Double Square Brackets	二重角かっこ
+	Double Vertical Bars	二重縦棒
+	Double summation	二重総和
+	Emphasis	強調斜体
+	Empty Matrices	空の行列
+	Endnote Reference	文末脚注参照
+	Endnote Text	文末脚注文字列
+	Equal Equal	二重等号
+	Equal by Definition	定義による等号
+	Euler's identity	オイラーの等式
+	Exponential	指数
+	Exponential series	指数関数の級数展開
+	Float	フローティング
+	Floor	床関数
+	Footnote Reference	脚注参照
+	Footnote Text	脚注文字列
+	For which item:	参照先:
+	Geometry	幾何学
+	Grave	グレーブ
+	Gray-25%	灰色 25%
+	Gray-50%	灰色 50%
+	Greek Letters	ギリシャ文字
+	Grid Table 1 Light	グリッド (表) 1 淡色
+	Grid Table 4 – Blue	グリッド (表) 4 – 青
+	Grid Table 4 – Green	グリッド (表) 4 – 緑
+	Grid Table 4 – Orange	グリッド (表) 4 – オレンジ
+	Grid Table 4 – Purple	グリッド (表) 4 – 紫
+	Grouping Character Above	上のグループ化文字
+	Grouping Character Below	下のグループ化文字
+	Hat	ハット
+	Heading	見出し
+	Heading text	見出し文字列
+	Hyperbolic Cosecant Function	双曲線余割関数
+	Hyperbolic Cosine Function	双曲線余弦関数
+	Hyperbolic Cotangent Function	双曲線余接関数
+	Hyperbolic Functions	双曲線関数
+	Hyperbolic Secant Function	双曲線正割関数
+	Hyperbolic Sine Function	双曲線正弦関数
+	Hyperbolic Tangent Function	双曲線正接関数
+	Hyperlink	ハイパーリンク
+	Hypotenuse	斜辺
+	Identity Matrices	単位行列
+	Insert reference to:	相互参照の文字列:
+	Integral of e^(−x²)	e^(−x²) の積分
+	Integral with Limits	上下限付き積分
+	Integral with Stacked Limits	上下限を上下に配置した積分
+	Integrals	積分
+	Intense Emphasis	強調斜体 2
+	Intense Quote	引用文 2
+	Intense Reference	参照 2
+	Intersection with Limits	上下限付き共通部分
+	Intersection with Lower Limit	下限付き共通部分
+	Intersection with Subscript-Superscript Limits	上下限を添え字にした共通部分
+	Inverse Cosecant Function	逆余割関数
+	Inverse Cosine Function	逆余弦関数
+	Inverse Cotangent Function	逆余接関数
+	Inverse Functions	逆関数
+	Inverse Hyperbolic Cosecant Function	逆双曲線余割関数
+	Inverse Hyperbolic Cosine Function	逆双曲線余弦関数
+	Inverse Hyperbolic Cotangent Function	逆双曲線余接関数
+	Inverse Hyperbolic Functions	逆双曲線関数
+	Inverse Hyperbolic Secant Function	逆双曲線正割関数
+	Inverse Hyperbolic Sine Function	逆双曲線正弦関数
+	Inverse Hyperbolic Tangent Function	逆双曲線正接関数
+	Inverse Secant Function	逆正割関数
+	Inverse Sine Function	逆正弦関数
+	Inverse Tangent Function	逆正接関数
+	Justification of a display equation	別行表示の数式の配置
+	Left Arrow with Text Above	上にテキストのある左矢印
+	Left Arrow with Text Below	下にテキストのある左矢印
+	Left Bracket Twice	左角かっこ 2 つ
+	Left Right Arrow Above	上付き左右矢印
+	Left Right Arrow with Text Above	上にテキストのある左右矢印
+	Left Right Arrow with Text Below	下にテキストのある左右矢印
+	Left Subscript-Superscript	左下付き文字-上付き文字
+	Leftwards Arrow Above	上付き左向き矢印
+	Leftwards Harpoon Above	上付き左向き半矢印
+	Letter-Like Symbols	文字様記号
+	Limit	極限
+	Limit Example	極限の例
+	Linear Fraction	分数 (横)
+	List Paragraph	リスト段落
+	List Table 3 – Blue	リスト (表) 3 – 青
+	List Table 3 – Green	リスト (表) 3 – 緑
+	List Table 3 – Orange	リスト (表) 3 – オレンジ
+	List Table 3 – Purple	リスト (表) 3 – 紫
+	Logarithm	対数
+	Logarithm with Base	底付き対数
+	Logical AND	論理積
+	Logical AND with Limits	上下限付き論理積
+	Logical OR	論理和
+	Logical OR with Limits	上下限付き論理和
+	Macro name:	マクロ名:
+	Matrices with Brackets	かっこ付き行列
+	Maximum Example	最大値の例
+	Measured By	測定による等号
+	Midline Dots	中央の点
+	Minus Equal	マイナス付き等号
+	Move Pane: {title}	ウィンドウの移動: {title}
+	Natural Logarithm	自然対数
+	Negated Relations	否定の関係演算子
+	No Spacing	行間詰め
+	Normal probability density	正規分布の確率密度
+	Number the equation; the number sits at the right margin (or type # then the number)	数式に番号を付けます。番号は右余白に配置されます (または # に続けて番号を入力)
+	One half	2 分の 1
+	Operator Structures	演算子構造
+	Operators	演算子
+	Other Large Operators	その他の大型演算子
+	Outward Brackets	外向きの角かっこ
+	Overbar	上線
+	Overbars and Underbars	上線と下線
+	Overbrace	上中かっこ
+	Page color	ページの色
+	Pane Options	ウィンドウのオプション
+	Parentheses	丸かっこ
+	Parentheses with Separator	区切り記号付き丸かっこ
+	Partial Differential	偏微分
+	Pi Over 2	2 分の π
+	Plain Table 1	標準の表 1
+	Plus Equal	プラス付き等号
+	Possible spelling mistake	スペル ミスの可能性があります
+	Power series of (1+x)ⁿ	(1+x)ⁿ のべき級数
+	Product	積
+	Product of A	A の積
+	Product with Limits	上下限付き積
+	Product with Lower Limit	下限付き積
+	Product with Subscript-Superscript Limits	上下限を添え字にした積
+	Products and Coproducts	積と余積
+	Quadratic Root	二次方程式の解
+	Quote	引用文
+	Radical with Degree	次数付きべき乗根
+	Radicals	べき乗根
+	Reading Page Color	ページの色 (閲覧モード)
+	Record…	記録…
+	Reference type:	参照する項目:
+	Reject All Changes and Stop Tracking	すべての変更を元に戻し、変更の記録を停止
+	Reject and Move to Next	元に戻して次へ進む
+	Resize Pane	ウィンドウのサイズ変更
+	Right Arrow with Text Above	上にテキストのある右矢印
+	Right Arrow with Text Below	下にテキストのある右矢印
+	Right Bracket Twice	右角かっこ 2 つ
+	Rightwards Arrow Above	上付き右向き矢印
+	Rightwards Harpoon Above	上付き右向き半矢印
+	Roots of ax²+bx+c	ax²+bx+c の解
+	Run	実行
+	SAMPLE	見本
+	Scale Font Sizes	フォント サイズの拡大/縮小
+	Secant Function	正割関数
+	Separate text with	文字列の区切り
+	Show the equation in the line of text	数式を文字列の行内に表示
+	Show the equation on a line of its own	数式を独立した行に表示
+	Sides of a right triangle	直角三角形の辺
+	Sine Function	正弦関数
+	Sine and cosine series of f(x)	f(x) の正弦・余弦級数
+	Sine theta	サイン θ
+	Single Brackets	片側のかっこ
+	Single Left Angle	左山かっこのみ
+	Single Left Bar	左縦棒のみ
+	Single Left Brace	左中かっこのみ
+	Single Left Bracket	左角かっこのみ
+	Single Left Parenthesis	左丸かっこのみ
+	Single Right Brace	右中かっこのみ
+	Single Right Bracket	右角かっこのみ
+	Single Right Parenthesis	右丸かっこのみ
+	Skewed Fraction	分数 (斜め)
+	Small change	微小変化
+	Spanish (Latin America)	スペイン語（ラテンアメリカ）
+	Spanish (Uruguay)	スペイン語（ウルグアイ）
+	Sparse Matrices	疎行列
+	Square Root	平方根
+	Square Root with Degree	次数付き平方根
+	Square Union	角型の和集合
+	Stack Object	積み重ねオブジェクト
+	Stack Object (Three)	積み重ねオブジェクト (3 段)
+	Stacked Fraction	分数 (縦)
+	Stacked, no bar	分数線なしの積み重ね
+	Strong	強調太字
+	Styles Pane Position	スタイル ウィンドウの位置
+	Subscript-Superscript	下付き文字-上付き文字
+	Subscripts and Superscripts	上付き/下付き文字
+	Subtle Emphasis	斜体
+	Subtle Reference	参照
+	Sum of cosines	余弦の和
+	Sum or difference of sines	正弦の和または差
+	Summation	総和
+	Summation from 0 to n	0 から n までの総和
+	Summation over binomials	二項係数の総和
+	Summation with Limits	上下限付き総和
+	Summation with Lower Limit	下限付き総和
+	Summation with Subscript Limit	下限を添え字にした総和
+	Summation with Subscript-Superscript Limits	上下限を添え字にした総和
+	Summations	総和
+	Surface Integral	面積分
+	Surface Integral with Limits	上下限付き面積分
+	Surface Integral with Stacked Limits	上下限を上下に配置した面積分
+	TOC Heading	目次の見出し
+	Table Grid	表 (格子)
+	Table of Figures	図表目次
+	Tangent Function	正接関数
+	Tangent formula	正接の公式
+	Teal	青緑
+	Text over Colon Equal	上にテキストのあるコロン付き等号
+	Text over Equal	上にテキストのある等号
+	There are no macros yet. Record one to add it here.	マクロはまだありません。マクロを記録すると、ここに追加されます。
+	Tilde	チルダ
+	Track\nChanges	変更履歴の\n記録
+	Track\nChanges ✓	変更履歴の\n記録 ✓
+	Trigonometric Functions	三角関数
+	Triple Dot	三重ドット
+	Triple Integral	3 重積分
+	Triple Integral with Limits	上下限付き 3 重積分
+	Triple Integral with Stacked Limits	上下限を上下に配置した 3 重積分
+	Turquoise	水色
+	Type equations in LaTeX	LaTeX で数式を入力
+	Type equations in the linear format (UnicodeMath)	線形形式 (UnicodeMath) で数式を入力
+	Type normal (non-math) text in the equation	数式内に通常の (数式以外の) テキストを入力
+	URGENT	緊急
+	Underbar	下線
+	Underbrace	下中かっこ
+	Union	和集合
+	Union of intersections	共通部分の和集合
+	Union with Limits	上下限付き和集合
+	Union with Lower Limit	下限付き和集合
+	Union with Plus	プラス付き和集合
+	Union with Subscript-Superscript Limits	上下限を添え字にした和集合
+	Unions and Intersections	和集合と共通部分
+	Up Diagonal Dots	右上がりの斜めの点
+	Vector A	ベクトル A
+	Vector AB	ベクトル AB
+	Vertical Bars	縦棒
+	Vertical Dots	縦の点
+	View and edit the document's custom properties.	文書のユーザー設定プロパティを表示、編集します。
+	Volume Integral	体積積分
+	Volume Integral with Limits	上下限付き体積積分
+	Volume Integral with Stacked Limits	上下限を上下に配置した体積積分
+	Yields	生成
+	n×n Identity Matrix	n×n 単位行列
+	n×n Matrix	n×n 行列
+	tOGGLE cASE	大文字と小文字を入れ替える
+	x bar	x バー
+	{name} options	{name} のオプション
+	✓ None	✓ なし
