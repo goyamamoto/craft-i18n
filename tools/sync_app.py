@@ -215,8 +215,11 @@ class Tree:
 
     def resolve(self, locale, key):
         """(translation, file) the app would show: its catalog, the shared one, then the same two
-        of the base language (`es` for `es-mx`)."""
-        chain = [locale, base_language(locale)] if base_language(locale) else [locale]
+        of the base language (`es` for `es-mx`). Only a region falls back, as the checker's
+        `base_locale` and the runtime do: `sr-latn` never shows `sr`."""
+        parent, _, region = locale.rpartition("-")
+        is_region = (len(region) == 2 and region.isalpha()) or (len(region) == 3 and region.isdigit())
+        chain = [locale, parent] if parent and is_region else [locale]
         for file in ((l, f) for l in chain for f in (self.app, "common")):
             if key in self.rows(*file):
                 return self.rows(*file)[key], file[1]
