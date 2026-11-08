@@ -64,6 +64,7 @@
 	A3 Paper (297x420 mm)	A3 用紙 (297x420 mm)
 	A4 (210 × 297 mm)	A4 (210 × 297 mm)
 	A4 Paper (210x297 mm)	A4 用紙 (210x297 mm)
+	About	バージョン情報
 	About DeckCraft	DeckCraft について
 	Accent 1	アクセント 1
 	Accent 2	アクセント 2
@@ -546,6 +547,7 @@ transition	Characters	文字
 	Create New Theme Fonts	新しいテーマのフォントの作成
 	Create PDF	PDF の作成
 	Create PDF Document	PDF ドキュメントの作成
+	Credits	クレジット
 	Crescent Moon	三日月
 	Crop	トリミング
 	Crop 10% each side	各辺を 10% トリミング
@@ -615,6 +617,7 @@ pattern	Dashed vertical	縦の破線
 	DeckCraft prints through a PDF: it opens in your PDF viewer, where you choose the printer.	DeckCraft は PDF を経由して印刷します。PDF ビューアーで開くので、そこでプリンターを選択してください。
 @msg	DeckCraft {version} is up to date.	DeckCraft {version} は最新の状態です。
 	DeckCraft's own format: everything is kept	DeckCraft 独自の形式: すべての内容が保持されます
+	Decrease	小さく
 	Decrease List Level	リスト レベルを下げる
 	Decrease {label}	{label} を減らす
 	Default language for new text:	新しい文字列の既定の言語:
@@ -1009,6 +1012,7 @@ position	Horizontal:	水平位置:
 	In	イン
 	In with Bounce	イン (バウンス付き)
 	Include hidden slides	非表示のスライドを含める
+	Increase	大きく
 	Increase List Level	リスト レベルを上げる
 	Increase {label}	{label} を増やす
 	Indent after text must be a length	テキストの後のインデントには長さを入力してください
@@ -1489,6 +1493,7 @@ pattern	Plaid	格子縞
 	Play Narrations	ナレーションを再生
 	Play the shape's media	図形のメディアを再生
 	Play this slide's animations on the canvas	このスライドのアニメーションをキャンバス上で再生
+	Play this slide's transition	このスライドのトランジションを再生
 	Play/Pause	再生/一時停止
 	Play/Pause GIF	GIF を再生/一時停止
 	Playback	再生
@@ -1689,6 +1694,7 @@ effect	Right	右方向
 	Save As…	名前を付けて保存…
 	Save AutoRecover Information	自動回復用の情報を保存
 	Save to Data	データとして保存
+	Save to the page	ページに保存
 	Saved	保存しました
 @msg	Saved a copy	コピーを保存しました
 	Saved {path}	{path} を保存しました
@@ -2020,6 +2026,7 @@ warp	Stop	ストップ
 	The current slide as a picture	現在のスライドを画像として保存
 	The Eyedropper takes colours from a slide	スポイトはスライドから色を取得します
 	the layout it was chosen for was deleted	対象のレイアウトが削除されています
+	The people and models who built DeckCraft.	DeckCraft を作った人々とモデル。
 	The picture list is invalid	画像の一覧が無効です
 	The presentation has no sections. Add one with Home › Section.	このプレゼンテーションにはセクションがありません。[ホーム] › [セクション] で追加できます。
 	The presentation keeps its own file	プレゼンテーションの元のファイルはそのまま残ります
@@ -2070,7 +2077,15 @@ reflection	Tight	密着
 	Title Only	タイトルのみ
 	Title Slide	タイトル スライド
 	Titled Matrix	タイトル付きマトリックス
+	To Bottom	下へ
+	To Bottom-Left	左下へ
+	To Bottom-Right	右下へ
+	To Left	左へ
+	To Right	右へ
 	To slide:	終了スライド:
+	To Top	上へ
+	To Top-Left	左上へ
+	To Top-Right	右上へ
 	tOGGLE cASE	大文字と小文字を入れ替える
 	Top bevel	上面のベベル
 	Top Border	上罫線
